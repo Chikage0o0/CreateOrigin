@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "pokeball:pokeball"
+        },
+        "title": "我是训练家",
+        "description": "没有什么是一个精灵球带不走的，如果有，那就杀了它",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/root",
+    "criteria": {
+        "pokeball": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "pokeball:pokeball"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

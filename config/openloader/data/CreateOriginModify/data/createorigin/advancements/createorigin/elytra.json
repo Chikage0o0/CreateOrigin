@@ -1,0 +1,45 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra"
+        },
+        "title": "量产鞘翅",
+        "description": "屠龙炮=鞘翅机？",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/bows",
+    "criteria": {
+        "summoned_dragon": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "minecraft:ender_dragon"
+                        }
+                    }
+                ]
+            }
+        },
+        "killed_dragon": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "minecraft:ender_dragon"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

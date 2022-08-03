@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "inmis:frayed_backpack"
+    },
+    "title": "装不下了",
+    "description": "是不是该做个背包来拓展储存空间了呢",
+    "background": "minecraft:textures/block/stripped_oak_log.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "createorigin:createorigin/root",
+  "criteria": {
+    "start": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "slots": {
+          "occupied": {
+            "min": 30
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "entity.guardvillagers.guard": "警卫",
+  "item.guardvillagers.guard_spawn_egg": "警卫刷怪蛋",
+  "guardinventory.health": "生命: %s",
+  "guardinventory.armor": "盔甲: %s"
+}

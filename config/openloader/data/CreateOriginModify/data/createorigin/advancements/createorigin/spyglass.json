@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spyglass"
+    },
+    "title": "看得更远",
+    "description": "做个望远镜放在背包里，按C键快速使用",
+    "background": "minecraft:textures/block/stripped_oak_log.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createorigin:createorigin/root",
+  "criteria": {
+    "spyglass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:spyglass"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "spyglass"
+    ]
+  ]
+}

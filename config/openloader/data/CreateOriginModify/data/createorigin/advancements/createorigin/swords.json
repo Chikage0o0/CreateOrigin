@@ -1,0 +1,58 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword"
+    },
+    "title": "挂在腰上",
+    "description": "做一把剑然后按Shift+G挂在腰上",
+    "background": "minecraft:textures/block/stripped_oak_log.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "createorigin:createorigin/root",
+  "criteria": {
+    "swords": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "bookshelf:swords"
+          }
+        ]
+      }
+    },
+    "nether_sword1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "betternether:cincinnasite_sword"
+            ]
+          }
+        ]
+      }
+    },
+    "nether_sword2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "betternether:nether_ruby_sword"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "nether_sword1",
+      "nether_sword2",
+      "swords"
+    ]
+  ]
+}

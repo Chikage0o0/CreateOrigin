@@ -1,0 +1,65 @@
+{
+  "display": {
+    "icon": {
+      "item": "transparent_cosmetics:chestplate"
+    },
+    "title": "我才不要盔甲",
+    "description": "为了好看的皮肤而不穿盔甲？！",
+    "background": "minecraft:textures/block/stripped_oak_log.png",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createorigin:createorigin/root",
+  "criteria": {
+    "chestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "transparent_cosmetics:chestplate"
+            ]
+          }
+        ]
+      }
+    },
+    "helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "transparent_cosmetics:helmet"
+            ]
+          }
+        ]
+      }
+    },
+    "leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "transparent_cosmetics:leggings"
+            ]
+          }
+        ]
+      }
+    },
+    "boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "transparent_cosmetics:boots"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
