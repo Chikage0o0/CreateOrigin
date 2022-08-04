@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "animal_feeding_trough:feeding_trough"
+        },
+        "title": "现代化养殖的基础",
+        "description": "解放双手，放置一个喂养槽",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/pokeball",
+    "criteria": {
+        "feeding_trough": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "animal_feeding_trough:feeding_trough"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

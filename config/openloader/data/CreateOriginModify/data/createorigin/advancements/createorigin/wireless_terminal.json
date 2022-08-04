@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "toms_storage:ts.adv_wireless_terminal"
+        },
+        "title": "这大概也算个背包",
+        "description": "制造一个真无限终端，别忘了制作地狱门加载器哦。",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "createorigin:createorigin/crafting_terminal",
+    "criteria": {
+        "wireless_terminal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "toms_storage:ts.adv_wireless_terminal"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

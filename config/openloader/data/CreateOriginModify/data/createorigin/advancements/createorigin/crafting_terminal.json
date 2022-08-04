@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "toms_storage:ts.crafting_terminal"
+        },
+        "title": "工作台Plus",
+        "description": "制造一个合成终端来快速合成物品",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/storage_terminal",
+    "criteria": {
+        "crafting_terminal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "toms_storage:ts.crafting_terminal"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
