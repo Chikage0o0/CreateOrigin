@@ -15,8 +15,6 @@ All modules are fully Chineseized.
 
 #### Related actions
 
-- **F6** switch real first person
-
 - **Z**  creep forward
 
 - **~** chain mining
@@ -73,8 +71,6 @@ For video creators you can also install the Replay module to simplify video prod
 
 
 #### 相关操作
-
-- **F6** 切换真实第一人称
 
 - **Z** 匍匐前进
 
