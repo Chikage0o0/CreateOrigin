@@ -97,10 +97,13 @@
     {
       "item": "minecraft:diamond",
       "chance": 3.0
+    },{
+      "item": "minecraft:netherite_scrap",
+      "chance": 0.2
     },
     {
       "item": "minecraft:black_dye",
-      "chance": 97.0
+      "chance": 96.8
     }
   ],
   "loops": 10
