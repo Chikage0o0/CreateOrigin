@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "simplevoidworld:void_portal"
+        },
+        "title": "创意空间",
+        "description": "制造一个虚空传送门，将你的大型机械建在那里吧",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/spyglass",
+    "criteria": {
+        "void_portal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "simplevoidworld:void_portal"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

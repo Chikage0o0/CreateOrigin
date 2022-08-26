@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "extended_drawers:controller"
+        },
+        "title": "组建网络",
+        "description": "将抽屉连成一个网络",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/drawer",
+    "criteria": {
+        "controller": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "extended_drawers:controller"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
