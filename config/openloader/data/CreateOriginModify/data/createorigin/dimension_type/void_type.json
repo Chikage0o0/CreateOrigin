@@ -1,7 +1,7 @@
 {
   "ultrawarm": false,
   "natural": false,
-  "coordinate_scale": 0.1,
+  "coordinate_scale": 0.5,
   "has_skylight": true,
   "has_ceiling": false,
   "ambient_light": 0.0,
