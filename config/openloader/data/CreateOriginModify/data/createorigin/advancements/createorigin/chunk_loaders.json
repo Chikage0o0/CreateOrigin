@@ -1,0 +1,41 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lodestone"
+		},
+		"title": "区块加载器",
+		"description": {
+			"text": "将一颗下界之星丢在磁石上，制成一个区块加载器，它可以让它所在的区块一直加载下去，直到它被破坏。",
+			"color": "gold"
+		},
+		"show_toast": true,
+		"announce_to_chat": false
+	},
+	"parent": "createorigin:createorigin/root",
+	"criteria": {
+		"nether_star": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:nether_star"
+                        ]
+                    }
+                ]
+            }
+        },
+        "lodestone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:lodestone"
+                        ]
+                    }
+                ]
+            }
+        }
+	}
+}

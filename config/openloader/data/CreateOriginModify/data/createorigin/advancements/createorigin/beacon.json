@@ -1,5 +1,5 @@
 {
-    "parent": "createorigin:createorigin/root",
+    "parent": "createorigin:createorigin/chunk_loaders",
     "display": {
       "icon": {
         "item": "minecraft:beacon"
