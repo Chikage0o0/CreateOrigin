@@ -139,14 +139,14 @@
     "lightLevelMarkers": "square",
     "lightLevelNumberCondition": "always",
     "lightLevelNumbers": "block",
-    "hudAlignment": "top_left",
+    "hudAlignment": "bottom_right",
     "biomeOverlayRange": 4,
     "biomeOverlayRangeVertical": 0,
     "blockGridOverlayRadius": 32,
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
     "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
-    "fontScale": 0.5,
+    "fontScale": 1.0,
     "lightLevelMarkerSize": 0.84,
     "lightLevelNumberOffsetBlockX": 0.26,
     "lightLevelNumberOffsetBlockY": 0.32,
@@ -176,7 +176,7 @@
     "infoChunkSections": false,
     "infoChunkSectionsLine": false,
     "infoChunkUpdates": false,
-    "infoCoordinates": true,
+    "infoCoordinates": false,
     "infoCoordinatesScaled": false,
     "infoDifficulty": false,
     "infoDimensionId": false,
@@ -184,14 +184,14 @@
     "infoEntities": false,
     "infoEntitiesClientWorld": false,
     "infoEntityRegistryName": false,
-    "infoFacing": true,
+    "infoFacing": false,
     "infoFurnaceXp": false,
     "infoFPS": false,
     "infoHoneyLevel": false,
     "infoHorseSpeed": false,
     "infoHorseJump": false,
     "infoLightLevel": false,
-    "infoLookingAtBlock": false,
+    "infoLookingAtBlock": true,
     "infoLookingAtBlockInChunk": false,
     "infoLookingAtEntity": false,
     "infoMemoryUsage": false,
@@ -488,7 +488,9 @@
     "Village Main": "#3054CB4E",
     "Village Components": "#3054CB4E",
     "Witch Hut Main": "#30BE1DFC",
-    "Witch Hut Components": "#300099FF"
+    "Witch Hut Components": "#300099FF",
+    "Unknown Main": "#50FFFFFF",
+    "Unknown Components": "#50FFFFFF"
   },
   "StructureHotkeys": {
     "Toggle Bastion Remnant": {
@@ -544,6 +546,9 @@
     },
     "Toggle Witch Hut": {
       "keys": ""
+    },
+    "Toggle Unknown": {
+      "keys": ""
     }
   },
   "StructureToggles": {
@@ -564,7 +569,8 @@
     "Shipwreck": false,
     "Stronghold": false,
     "Village": false,
-    "Witch Hut": false
+    "Witch Hut": false,
+    "Unknown": false
   },
   "config_version": 1
 }
