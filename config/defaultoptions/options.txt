@@ -22,22 +22,22 @@ hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
-fovEffectScale:1.0
-gamma:1.0
+fovEffectScale:0.45579216
+gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:0
 particles:0
-maxFps:120
+maxFps:260
 difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","resources/Chikage Chinese","resources/Properly+Worn+Backpacks+(inmis).zip","resources/XeKr+redstone+display16_19plus2.3.zip","continuity/glass_pane_culling_fix","continuity/default","file/XEKRSquarePattern+方纹+main+pack+v2.4.zip","file/XKSP+无描边画+alt+paintings.zip","file/XKSP+瑶草琪花+lush+plants.zip","file/XKSP+精雕细琢+detail+models.zip","file/XKSP+自然附着+naturalize.zip"]
+incompatibleResourcePacks:["file/XEKRSquarePattern+方纹+main+pack+v2.4.zip","file/XKSP+无描边画+alt+paintings.zip","file/XKSP+瑶草琪花+lush+plants.zip","file/XKSP+精雕细琢+detail+models.zip","file/XKSP+自然附着+naturalize.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:
@@ -47,7 +47,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
