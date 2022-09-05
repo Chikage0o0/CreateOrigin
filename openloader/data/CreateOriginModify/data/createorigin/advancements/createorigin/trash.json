@@ -1,0 +1,60 @@
+{
+    "display": {
+        "icon": {
+            "item": "cyti:trashcan_item"
+        },
+        "title": "文明的象征",
+        "description": "岩浆、火焰、仙人掌？我选择垃圾桶",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/backpack",
+    "criteria": {
+        "trashcan_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "cyti:trashcan_item"
+                        ]
+                    }
+                ]
+            }
+        },
+        "trashcan_fluid": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "cyti:trashcan_fluid"
+                        ]
+                    }
+                ]
+            }
+        },
+        "trashcan_energy": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "cyti:trashcan_energy"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+      [
+        "trashcan_item",
+        "trashcan_fluid",
+        "trashcan_energy"
+      ]
+    ]
+}

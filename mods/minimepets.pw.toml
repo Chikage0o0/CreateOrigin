@@ -1,0 +1,13 @@
+name = "MiniMePets"
+filename = "minimepets-fabric-1.0.1-mc1.18.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b6b99aeecd30a965880cfcd02bdf204f8306579e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3919413
+project-id = 593627

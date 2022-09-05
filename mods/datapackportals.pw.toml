@@ -1,0 +1,13 @@
+name = "Datapack Portals"
+filename = "datapackportals-1.1.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LwFVdT1s/versions/1.1.1-1.18/datapackportals-1.1.1-1.18.jar"
+hash-format = "sha1"
+hash = "7afd326c3d4170d4c6a71548b0245c29e2379aad"
+
+[update]
+[update.modrinth]
+mod-id = "LwFVdT1s"
+version = "4VtnOMCF"

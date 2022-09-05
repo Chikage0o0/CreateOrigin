@@ -1,0 +1,13 @@
+name = "Origins: Umbrellas"
+filename = "originsumbrellas-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7edef08efbd54c557c473a94fef2893b697aa4d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3757510
+project-id = 453378

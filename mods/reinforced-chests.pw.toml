@@ -1,0 +1,13 @@
+name = "Reinforced Chests"
+filename = "reinforced-chests-2.0.1+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc76ba308ae239877c1e844e42c9598a62a034df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3818016
+project-id = 529873

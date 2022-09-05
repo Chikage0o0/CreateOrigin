@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","resources/Chikage Chinese","resources/Properly+Worn+Backpacks+(inmis).zip","resources/XeKr+redstone+display16_19plus2.3.zip","continuity/glass_pane_culling_fix","continuity/default","file/XeKrSquarePattern+main+pack+v2.4.zip","file/XKSP+alt+paintings.zip","file/XKSP+lush+plants.zip","file/XKSP+detail+models.zip","file/XKSP+naturalize.zip"]
-incompatibleResourcePacks:["file/XeKrSquarePattern+main+pack+v2.4.zip","file/XKSP+alt+paintings.zip","file/XKSP+lush+plants.zip","file/XKSP+detail+models.zip","file/XKSP+naturalize.zip"]
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","resources/Chikage Chinese","continuity/glass_pane_culling_fix","continuity/default","resources/Properly Worn Backpacks (inmis).zip","resources/XeKr redstone display 16~19plus2.4.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
+incompatibleResourcePacks:["resources/XeKr redstone display 16~19plus2.4.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:
@@ -158,6 +158,7 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.observable.profile:key.keyboard.r
 key_key.origins.primary_active:key.keyboard.h
 key_key.origins.secondary_active:key.keyboard.j
 key_key.origins.view_origin:key.keyboard.o

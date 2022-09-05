@@ -1,0 +1,13 @@
+name = "MagicLib"
+filename = "magiclib-0.5.37.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/0.5.37/magiclib-0.5.37.jar"
+hash-format = "sha1"
+hash = "db727c64dba42540f0a447b9c42c5e19f6872b9a"
+
+[update]
+[update.modrinth]
+mod-id = "mv1zH6ln"
+version = "acRGcXkA"

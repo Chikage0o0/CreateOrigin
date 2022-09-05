@@ -1,0 +1,13 @@
+name = "QuickHomes"
+filename = "quickhomes-1.18.2-1.3.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20e6a46b1e4c6e8ca049436b41f10cb1950ca0d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3749804
+project-id = 277625

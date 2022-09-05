@@ -1,0 +1,13 @@
+name = "Custom Void [Fabric]"
+filename = "custom-void-0.6+1.18.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e6702e813573a6f1fee5b403ed769f40b2d8ac30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3704087
+project-id = 412621

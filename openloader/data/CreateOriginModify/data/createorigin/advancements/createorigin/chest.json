@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "reinfchest:copper_chest"
+        },
+        "title": "镀铜箱子",
+        "description": "给一个箱子镀铜，看看它会发生什么变化",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/root",
+    "criteria": {
+        "chest": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "reinfchest:copper_chest",
+                "item": {
+                    "item": "reinfchest:copper_chest"
+                  }
+            }
+        }
+    }
+}

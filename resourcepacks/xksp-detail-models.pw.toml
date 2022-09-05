@@ -1,0 +1,8 @@
+name = "xksp-detail-models"
+filename = "xksp-detail-models.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "286b15638963393b4eff697bdf48d57b8166229c"
+url = "https://www.planetminecraft.com/texture-pack/xksp-detail-models/download/file/15734255/"

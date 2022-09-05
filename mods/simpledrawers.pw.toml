@@ -1,0 +1,8 @@
+name = "simpledrawers"
+filename = "simpledrawers-1.8.3-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7209b35629ed4cce448ebd80383219fcff303a4"
+url = "https://github.com/Fourmisain/SimpleDrawers/releases/download/v1.8.3-1.18.2/simpledrawers-1.8.3-1.18.2.jar"

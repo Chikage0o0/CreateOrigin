@@ -1,0 +1,13 @@
+name = "Goblin Traders (Fabric)"
+filename = "goblin-traders-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe3de9d8e42badf4a01726d0026a8423508beac4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3717825
+project-id = 534373

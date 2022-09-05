@@ -1,0 +1,13 @@
+name = "IMBlockerFabric"
+filename = "imblockerfabric-1.0.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/752GQt04/versions/1.0.19/imblockerfabric-1.0.19.jar"
+hash-format = "sha1"
+hash = "0d57173d69efe8eb441e538a2a85241705887c9a"
+
+[update]
+[update.modrinth]
+mod-id = "752GQt04"
+version = "kLHlOcAY"

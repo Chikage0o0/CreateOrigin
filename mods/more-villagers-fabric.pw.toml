@@ -1,0 +1,13 @@
+name = "More Villagers [Fabric]"
+filename = "morevillagers-fabric-1.18.2-3.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "494d0b3179b14bfb0d156f674f69bb1d24f9da0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3843500
+project-id = 486080

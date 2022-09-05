@@ -1,0 +1,8 @@
+name = "DungeonsArise"
+filename = "DungeonsArise-1.18.2-2.1.51-fabric-beta-fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c95261bf0ccd2afc58f5f8477dc94fb727017bf8"
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/DungeonsArise-1.18.2-2.1.51-fabric-beta-fix.jar"

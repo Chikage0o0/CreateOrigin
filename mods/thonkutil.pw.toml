@@ -1,0 +1,13 @@
+name = "ThonkUtil"
+filename = "thonkutil-2.14.1+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ff68162a27749e705cf0f66d9b0df49c5b447bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3785941
+project-id = 536648

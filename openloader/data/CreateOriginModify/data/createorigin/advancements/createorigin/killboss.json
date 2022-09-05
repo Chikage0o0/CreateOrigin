@@ -1,0 +1,49 @@
+{
+    "display": {
+        "icon": {
+            "item": "bosses_of_mass_destruction:soul_star"
+        },
+        "title": "击败全部Boss",
+        "description": "或许对你来说这并不算挑战",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/bows",
+    "criteria": {
+        "bosses_of_mass_destruction:gauntlet": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+              "entity": {
+                "type": "bosses_of_mass_destruction:gauntlet"
+              }
+            }
+          },
+        "bosses_of_mass_destruction:obsidilith": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+              "entity": {
+                "type": "bosses_of_mass_destruction:obsidilith"
+              }
+            }
+          },
+        "bosses_of_mass_destruction:lich": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+              "entity": {
+                "type": "bosses_of_mass_destruction:lich"
+              }
+            }
+          },
+          "bosses_of_mass_destruction:void_blossom": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+              "entity": {
+                "type": "bosses_of_mass_destruction:void_blossom"
+              }
+            }
+          }
+    }
+}

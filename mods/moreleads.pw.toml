@@ -1,0 +1,13 @@
+name = "MoreLeads"
+filename = "MoreLeads-fabric-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8559801db47343733574ee90ab5d6d700ea511da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3749891
+project-id = 610055

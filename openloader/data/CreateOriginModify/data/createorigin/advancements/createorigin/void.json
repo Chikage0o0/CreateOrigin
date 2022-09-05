@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glass"
+        },
+        "title": "创意空间",
+        "description": "用玻璃作为框架制作一个通向虚空的传送门，将你的大型机械建在那里吧",
+        "background": "minecraft:textures/block/stripped_oak_log.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "createorigin:createorigin/spyglass",
+    "criteria": {
+        "void": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "minecraft:overworld",
+                "to": "createorigin:void"
+              }
+        }
+    }
+}

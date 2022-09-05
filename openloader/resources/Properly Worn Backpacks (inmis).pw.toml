@@ -1,0 +1,13 @@
+name = "Properly Worn Backpacks (inmis)"
+filename = "Properly Worn Backpacks (inmis).zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bbf4fa11203a484343dfae7adffe328d47f6f4a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3745563
+project-id = 609773

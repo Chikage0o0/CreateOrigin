@@ -1,0 +1,110 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "transitionalItem": {
+    "item": "minecraft:coal"
+
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal"
+        }
+      ]
+    },
+    {
+      "keepHeldItem": true,
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:coal"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "nbt": {},
+          "amount": 27000
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal"
+        }
+      ]
+    },{
+      "keepHeldItem": true,
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "minecraft:coal"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:coal"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:diamond",
+      "chance": 3.0
+    },{
+      "item": "minecraft:netherite_scrap",
+      "chance": 0.2
+    },
+    {
+      "item": "minecraft:black_dye",
+      "chance": 96.8
+    }
+  ],
+  "loops": 10
+}

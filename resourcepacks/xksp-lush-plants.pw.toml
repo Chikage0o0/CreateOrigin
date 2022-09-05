@@ -1,0 +1,8 @@
+name = "xksp-lush-plants"
+filename = "xksp-lush-plants.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "27bf7b57f2fd16b5451988e746b2464795c5e8f4"
+url = "https://www.planetminecraft.com/texture-pack/xksp-lush-plants/download/file/15734263/"

@@ -1,0 +1,8 @@
+name = "BSL_Shaders"
+filename = "BSL_v8.1.03.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "700065336f6936f65bf288de6d5dee08abd803d0"
+url = "https://mediafiles.forgecdn.net/files/3868/240/BSL_v8.1.03.zip"

@@ -1,0 +1,13 @@
+name = "Starter Kit"
+filename = "starterkit-fabric_1.18.2-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/PyPD7H89/starterkit-fabric_1.18.2-3.5.jar"
+hash-format = "sha1"
+hash = "cc34ff8c044290fed7f13db52b6439f90abb2eb6"
+
+[update]
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "PyPD7H89"

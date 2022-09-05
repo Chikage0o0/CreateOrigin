@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "Display Case-fabric-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6417e0b772ec74d7b5f8a5abaeff8aa8699d99d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3782903
+project-id = 517791

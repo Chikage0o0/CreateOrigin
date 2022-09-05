@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:enchanted_golden_apple",
+        "farmersdelight:egg_sandwich",
+        "farmersdelight:pasta_with_meatballs",
+        "farmersdelight:pasta_with_mutton_chop",
+        "farmersdelight:roasted_mutton_chops",
+        "farmersdelight:steak_and_potatoes",
+        "farmersdelight:squid_ink_pasta",
+        "create:bar_of_chocolate",
+        "#nourish:fats"
+    ]
+}

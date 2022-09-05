@@ -1,0 +1,13 @@
+name = "Skin Swapper"
+filename = "skin-swapper-fabric-3.1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "76a08745a99f750162364378f055154536182280"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3708674
+project-id = 358486

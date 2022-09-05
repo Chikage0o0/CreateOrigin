@@ -1,0 +1,13 @@
+name = "GoProne (Fabric)"
+filename = "GoProne-Fabric-1.18-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0fe49611b132a089a296c9b4c40017afdc9d6a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3545146
+project-id = 520860

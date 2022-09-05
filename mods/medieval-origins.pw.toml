@@ -1,0 +1,8 @@
+name = "medieval-origins"
+filename = "medieval-origins-1.18.x-4.0.2-fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a431173135e2be8c01110a549c81133ce5212744"
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/medieval-origins-1.18.x-4.0.2-fix.jar"

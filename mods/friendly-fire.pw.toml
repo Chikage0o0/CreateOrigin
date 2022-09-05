@@ -1,0 +1,13 @@
+name = "Friendly Fire"
+filename = "FriendlyFire-Fabric-1.18.2-11.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e5e6d82a42273b2282f055df44e8199217a938e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3764166
+project-id = 255105

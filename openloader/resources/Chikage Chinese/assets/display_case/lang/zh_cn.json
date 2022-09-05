@@ -1,0 +1,12 @@
+{
+	"item.display_case.display_case": "展示柜",
+	"block.display_case.display_case": "展示柜",
+	"advancement.display_case.collapse.title": "The collapse",
+	"advancement.display_case.collapse.description": "",
+	"advancement.display_case.colorful.title": "多彩的!",
+	"advancement.display_case.colorful.description": "改变展示箱的颜色",
+	"advancement.display_case.display_item.title": "什么东西!",
+	"advancement.display_case.display_item.description": "将物品放入展示柜",
+	"advancement.display_case.infinity_case.title": "超越极限",
+	"advancement.display_case.infinity_case.description": "把展示柜放在展示柜中"
+}

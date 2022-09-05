@@ -12,6 +12,12 @@ We go through the progress system and introduce what features or items we offer,
 
 All modules are fully Chineseized.
 
+## How to update
+
+1. Delete old version's `mods` and `openloader` folder.
+2. Install a new version.
+3. Move new version all of files to older version,Overwrite when there are duplicate files, this does not affect your custom settings.
+4. Delete your new version,Start your old version and enjoy your game. 
 
 #### Related actions
 
@@ -20,9 +26,6 @@ All modules are fully Chineseized.
 - **~** chain mining
 
 - **=** switch rendering resolution
-
-
-
 
 
 #### Related commands
@@ -68,7 +71,12 @@ For video creators you can also install the Replay module to simplify video prod
 
 所有模组均有完整汉化。
 
+## 如何更新
 
+1. 删除旧版本的`mods`和`openloader`文件夹。
+2. 安装新版本。
+3. 将新版本的所有文件移到旧版本，当有重复的文件时就覆盖，这不影响你的自定义设置。
+4. 删除你的新版本，启动你的旧版本并享受你的游戏。
 
 #### 相关操作
 

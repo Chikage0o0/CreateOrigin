@@ -1,0 +1,13 @@
+name = "Big Beacons"
+filename = "bigbeacons-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "973da9bcedd9c871f0a1f9b630bddc8459db8d00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3706438
+project-id = 450922

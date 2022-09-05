@@ -1,10 +1,10 @@
 {
   "resourcePacks": {
     "enabled": true,
-    "additionalFolders": []
+    "additionalFolders": ["openloader/resources/"]
   },
   "dataPacks": {
     "enabled": true,
-    "additionalFolders": []
+    "additionalFolders": ["openloader/data/"]
   }
 }

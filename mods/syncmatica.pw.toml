@@ -1,0 +1,13 @@
+name = "Syncmatica"
+filename = "Syncmatica-1.18.2-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/0.3.3/Syncmatica-1.18.2-0.3.3.jar"
+hash-format = "sha1"
+hash = "c41b31117d1d509d82f0d114218466361553d4bd"
+
+[update]
+[update.modrinth]
+mod-id = "bfneejKo"
+version = "a9hccqwJ"
