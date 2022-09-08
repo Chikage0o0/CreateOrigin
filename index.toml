@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build.ps1"
-hash = "1fe015dddd2d0b4ee02a2bc7c120a6838f100b1f1b4051a1150aac3188fb43de"
-
-[[files]]
 file = "config/appliedenergistics2/client.json"
 hash = "dc10802574958a2e3b0f75f10f6704ed8050404b38f56fbdc83064799a235c95"
 
@@ -498,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
+hash = "8b4221b742663347ecc2374e61dbe52c988f36be1169b6a75baf5ade5d6ac044"
 metafile = true
 
 [[files]]

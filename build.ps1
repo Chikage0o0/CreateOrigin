@@ -36,5 +36,5 @@ if (Test-Path -path .\client-overrides\config\customwindowtitle-client.toml) {
 .\packwiz.exe update -a
 .\packwiz.exe refresh
 .\packwiz.exe modrinth export --output $name-$version.zip
-Compress-Archive -update "client-overrides", "server-overrides" "$name-$version.zip"
+#Compress-Archive -update "client-overrides", "server-overrides" "$name-$version.zip"
 Rename-Item $name-$version.zip $name-$version.mrpack -Force
