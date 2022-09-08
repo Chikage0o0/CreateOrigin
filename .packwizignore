@@ -3,3 +3,17 @@
 
 # Exclude README
 /README.md
+/LICENSE.txt
+
+/overrides/**
+/client-overrides/**
+/server-overrides/**
+
+/.gitattributes
+/.gitignore
+/.packwizignore
+
+/build.sh
+/server.sh
+/mrpack-install
+/*.mrpack

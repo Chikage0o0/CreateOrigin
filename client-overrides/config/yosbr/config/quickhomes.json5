@@ -1,0 +1,4 @@
+{
+	// Set to false to disable join message.
+	"enable_join_message": false
+}

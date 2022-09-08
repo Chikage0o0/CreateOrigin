@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build.ps1"
+hash = "1fe015dddd2d0b4ee02a2bc7c120a6838f100b1f1b4051a1150aac3188fb43de"
+
+[[files]]
 file = "config/appliedenergistics2/client.json"
 hash = "dc10802574958a2e3b0f75f10f6704ed8050404b38f56fbdc83064799a235c95"
 
@@ -10,43 +14,11 @@ hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d4033eade3e19c534a4209e29bec4e72681d9ef1c2947c415090826b4cd018b2"
+hash = "030152e51d508286a4fe69f7f455782193ef70e93a9d5330cc608bbd188feb34"
 
 [[files]]
 file = "config/couplings.toml"
 hash = "be21b33281635226c219c0531f88c32b568ebd13273152ee8af63d29b979499e"
-
-[[files]]
-file = "config/customsplashscreen.json5"
-hash = "6f64221edf77f8a277774298f6d4efa83afaf7a2f1502d643449a920be70a106"
-
-[[files]]
-file = "config/customsplashscreen/background.png"
-hash = "db789c2eb3fd40b01e62a5f201e66020567e81be2871e1540f10c609c9be1390"
-
-[[files]]
-file = "config/customsplashscreen/mojangstudios.png"
-hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
-
-[[files]]
-file = "config/customsplashscreen/progressbar.png"
-hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
-
-[[files]]
-file = "config/customsplashscreen/progressbar_background.png"
-hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
-
-[[files]]
-file = "config/customwindowtitle-client.toml"
-hash = "cd16483e6ba3b8eac2e0376ffe63fc90d86ef9a84e957d3e177868360af3fd76"
-
-[[files]]
-file = "config/customwindowtitle/icon16.png"
-hash = "37dd0a83bf8b8073fbae372fc5baa4497b8bc00968656d2af9a29979841fa34f"
-
-[[files]]
-file = "config/customwindowtitle/icon32.png"
-hash = "8d80fcc966f3234dc1befdd6b7cac2e3149bbfceed006f34c05c58e707b2f595"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
@@ -77,92 +49,12 @@ file = "config/openloader/advanced_options.json"
 hash = "e782cb89e41100148837060951ae2d29cf1151e5f7989f886f2c4bfb1d3b1859"
 
 [[files]]
-file = "config/slumber.properties"
-hash = "af11e4ea495bbcd03f6877f8db58c9dc7d44fce18f670eba48afb931ad35b453"
+file = "config/quickhomes.json5"
+hash = "dfa688c5dbbcb0794fb1cd720ab6b4474b41d2406b4ad8e3ed595e2e2c2ccd46"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "683f58a21a80aab5da07f30cac9b137b76c26c60a3810276a7af0a200b101cd7"
-
-[[files]]
-file = "config/yosbr/config/InventoryHUD/curios.json"
-hash = "4b826a017fed64a11651fd23da46753914d51085f53df8ce93aaf7e929c0045e"
-
-[[files]]
-file = "config/yosbr/config/backslot.json5"
-hash = "cfb032eeb79a7455206a0320acac416d64c8e80ffa64b712f7cd38e9ac83b503"
-
-[[files]]
-file = "config/yosbr/config/customvoid.json"
-hash = "740455310339a3fb044585c223bc86e94cbbd0ed15ad12379cef994df3b0f6fe"
-
-[[files]]
-file = "config/yosbr/config/fpsreducer.json"
-hash = "349b550c7b80e867a398647deacbdacf030da2f6b7fe91ea132543248ea7914b"
-
-[[files]]
-file = "config/yosbr/config/inventoryhud.json"
-hash = "d29e3e95541121c20922a4668bacf6984aed6040af4c078e1be5f376ddddc77b"
-
-[[files]]
-file = "config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/yosbr/config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "1452824997f6a660e4c2d06bcbc0c226bb19a14d2d72670f84632cd962c6618f"
-
-[[files]]
-file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "f542d0338b501be8f38062a1145dba7aeb049b7895f4ef788ce3b8ac23f1ab70"
-
-[[files]]
-file = "config/yosbr/config/litematica.json"
-hash = "b7143d2b194298a3bc0cd658d32df6b368aff8bc3ab5535ebb1285b2257147bb"
-
-[[files]]
-file = "config/yosbr/config/masa_gadget_mod.json"
-hash = "7a57475b7b8ff63d0ee46c6124eeca8671bae29bc62f1f3068d42c23504b1f5b"
-
-[[files]]
-file = "config/yosbr/config/minihud.json"
-hash = "c07fb06b6c8d07325d2ce8114e81c97c995785602064c1bd44580e2cef738bc8"
-
-[[files]]
-file = "config/yosbr/config/quickhomes.json5"
-hash = "dfa688c5dbbcb0794fb1cd720ab6b4474b41d2406b4ad8e3ed595e2e2c2ccd46"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "edb8da732cd7b85953047183c93348b953eae61f7a0b7a227b8674a4fbab687a"
-
-[[files]]
-file = "config/yosbr/config/spyglass-improvements/settings.json"
-hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "351ff8bfef8d0bc2d80a833fd296d2302a5b11a2c044f37b3a8da123e3705d23"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "8f82dc34f8b8878d1528b091c07c054819a0681672653b4b2aa563219ce7a23d"
-
-[[files]]
-file = "config/yosbr/config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
-
-[[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "9070fe753e0f5ae8f7f8fbb0a5abfd3c5a6d85dcd1971d413e30d62f9d18d85a"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "8c15d0f499f0829378f80d81427ec6bff5da13efd55bb093ee77f7b4d1311cc0"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "d9563ffd1b231fdf1d8b2cf287657e3ea31997460eff5b3c39c773e7233c285b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -361,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "935a8b572a366e62b3b186550a2b373bb3a3945e4fc7f22645404073bcfe1d26"
+hash = "0c58fea3006720bbc60336d170efb9337500b7c2a16ced8ebfd6ea3681ed1286"
 metafile = true
 
 [[files]]
@@ -551,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5dcaa3421100bf1b31f3aa17571607d49845723fbc139730d998b6a2752e6a2b"
+hash = "726458a50d3bb6d69da4989abca9cb8d21bd69d34895ddabbda2adb64148eb75"
 metafile = true
 
 [[files]]
@@ -796,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollen.pw.toml"
-hash = "579544bcdaebca3492f5ddbbbbd6d36a451b207e51f122372868d696de340dc2"
+hash = "04b87148fea135de8be6d3151eedc28d78a60fa47443068107b4f117df97eaef"
 metafile = true
 
 [[files]]
@@ -976,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ce5e547e54390c4cdad5143d4ccfe463f4719f5bee0bb8dcd8c082d5fb50b056"
+hash = "5c7c55fad4e5608db24e79c92c52786c839f3de92582604465744d4eeaade9d7"
 metafile = true
 
 [[files]]
@@ -1209,90 +1101,6 @@ hash = "cad83a53874b4cbe1816e7c6feb71eab4426c85295be89b139c6e174e91f130e"
 file = "openloader/data/CreatePlus-datapack.pw.toml"
 hash = "106779154b76a3d6c7ab1407a870c4861f2e26c8c9058aa39393ec35ee976321"
 metafile = true
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/animal_feeding_trough/lang/zh_cn.json"
-hash = "d232b8612b42d63d1a32c2cb44b7cca44633dfc91f962bb3a2ad95c4c55bcf07"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/bosses_of_mass_destruction/lang/zh_cn.json"
-hash = "64bec42e5d519e1f231a5aafedefd19500f79d2415b23a4a851b9c1db09f941b"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/create/lang/zh_cn.json"
-hash = "b9aebeb77050632fc92a3a7b0ddebb964a5d8621904bc77b09122cc701588af4"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/cyti/lang/zh_cn.json"
-hash = "55990bf359465f18ceeafbc1dd80a5425bdb41d8e5b55a6b1a2c56dec3e594c7"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/display_case/lang/zh_cn.json"
-hash = "2a0c8544186b3d920b691926969aa474c04afb0610b10bcf369ad44ae6aa3102"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/extraalchemy/lang/zh_cn.json"
-hash = "2a0decde843715af528228620264ac94f6a703d2e3f8091ae5bbed563d7d5217"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/forgottengraves/lang/zh_cn.json"
-hash = "7b3892acd60cc765dd0f9b606fda290c3931a854318af57fe66f4eebeb491576"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/goblintraders/lang/zh_cn.json"
-hash = "41f1b3478935e1d936aa890eacbdbbe3528fcb50940d80e0400e652754c35080"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/graveyard/lang/zh_cn.json"
-hash = "f339ebdd2a8c189c4702886af7e2dc801c13cecfd7c240c2456737172ddf83d7"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/guardvillagers/lang/zh_cn.json"
-hash = "994764aca8cd4b179bea621fb50019b35c3516339da93c51c317963a30c97085"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/inmis/lang/zh_cn.json"
-hash = "eb20af9654d559f398d3f381f794270a70a7c78494e09e897263d8aef908b28c"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/lootr/lang/zh_cn.json"
-hash = "1c09f8b789bfec6b4f13f9b7eea21ec8fb7b53419605da0fc36c0de07610f993"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/medieval-origins/lang/zh_cn.json"
-hash = "2eb53107b76ad38011368e13c0e0038012ac2c19707dc74218b0a8ed197a551a"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/naturalist/lang/zh_cn.json"
-hash = "37cefe4581bf48d49999a7b0d7815458afbab8c1f636535b5cd2e514ad4cf10f"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/originsumbrellas/lang/zh_cn.json"
-hash = "300c2fe8502c461bf892dcf84892e3bb9ab708c3d25a31f84b385a5853052f19"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/partiesandclaimsxaero/lang/zh_cn.json"
-hash = "f351ff78f9787add37b237c1958da18d0723ece9b394305d859922d5aeeeba75"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/transparent_cosmetics/lang/zh_cn.json"
-hash = "838cb376adc03247760676310545f07d2cbea67e32e97a3b92bf0f2e9ceb31bb"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/xaerobetterpvp/lang/zh_cn.json"
-hash = "a4b4ec7af4f8766ed50d9610672f0ffed052f0e7ebbdb91048f14383e759959b"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/assets/xaeroworldmap/lang/zh_cn.json"
-hash = "f0dfdc70b55bf9374c18041b94650cc4eeacb490a4df9ec81e5019d1602419e9"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/pack.mcmeta"
-hash = "a3fd31131c144d2e7701126055cd5baf9b496d04a890b2eaa808ea2b1b43c031"
-
-[[files]]
-file = "openloader/resources/Chikage Chinese/pack.png"
-hash = "e00265c0a61eb52ec5bd4304b2403d1eb3d2cd85a2eea3768e11e5311e0e7f26"
 
 [[files]]
 file = "openloader/resources/Properly Worn Backpacks (inmis).pw.toml"
