@@ -3,5 +3,3 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-
-packwiz.exe

@@ -13,7 +13,7 @@
 /.gitignore
 /.packwizignore
 
-/build.ps1
+/build.sh
 /server.sh
 /mrpack-install
 /*.mrpack
