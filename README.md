@@ -1,5 +1,7 @@
 # Welcome to the world of Create Origin!
 
+## Please use [HMCL](https://github.com/huanghongxun/HMCL/releases) to install and launch the modpack
+
 **This modpack is made for Chinese players**
 
 This is an modpack that fits the original experience and provides more fun in the game based on the original version. Whether you are a retirement, redstone or adventure player, you can find a piece of heaven here.
@@ -11,6 +13,12 @@ The integration pack is also geared towards multiplayer, with loot to be taken a
 We go through the progress system and introduce what features or items we offer, which will give you a little hint for your pre-survival.
 
 All modules are fully Chineseized.
+
+## How to Create a Server
+
+1. Download the [mrpack](https://github.com/nothub/mrpack-install/releases).
+2. Run cmd `. /mrpack-install create-origin`.
+3. Run `start.sh` or `start.bat` in the mc directory to start the server.
 
 ## How to update
 
@@ -53,13 +61,13 @@ This package also supports the use of clientcommands for RNG attachments and oth
 
 For video creators you can also install the Replay module to simplify video production.
 
-<details><summary>Chinese</summary>
+<details><summary><h1>Chinese</h1></summary>
 
 <p>
 
 ## 欢迎加入起源创造的世界
 
-
+## 请下载[HMCL](https://github.com/huanghongxun/HMCL/releases)最新开发版安装并启动整合包
 
 这是一个贴合原版体验，并在原版的基础上提供更多游戏乐趣的整合包。无论你是养老、生电还是冒险玩家，在这里都能找到属于你的一片天地。
 
@@ -70,6 +78,11 @@ For video creators you can also install the Replay module to simplify video prod
 游戏没有提供任务系统，您只需关注进度页面，这将成为你前期发展的提示。
 
 所有模组均有完整汉化。
+
+## 创建服务器
+1. 下载[mrpack](https://github.com/nothub/mrpack-install/releases)。
+2. 运行`./mrpack-install create-origin`。
+3. 运行mc目录下的`start.sh`或`start.bat`启动服务器。
 
 ## 如何更新
 
@@ -122,7 +135,7 @@ For video creators you can also install the Replay module to simplify video prod
 
 Origin、Create、农夫乐事、Go Fish、自然主义、丰富的生态，结构变体，更好的下界，更好的末地，汤姆的简易存储
 
-QQ群：790503003
+加入官方QQ群：790503003
 
 </p>
 
