@@ -16,7 +16,7 @@ All modules are fully Chineseized.
 
 ## How to Create a Server
 
-1. Download the [mrpack](https://github.com/nothub/mrpack-install/releases).
+1. Download the [mrpack-install](https://github.com/nothub/mrpack-install/releases).
 2. Run cmd `. /mrpack-install create-origin`.
 3. Run `start.sh` or `start.bat` in the mc directory to start the server.
 
@@ -80,7 +80,7 @@ For video creators you can also install the Replay module to simplify video prod
 所有模组均有完整汉化。
 
 ## 创建服务器
-1. 下载[mrpack](https://github.com/nothub/mrpack-install/releases)。
+1. 下载[mrpack-install](https://github.com/nothub/mrpack-install/releases)。
 2. 运行`./mrpack-install create-origin`。
 3. 运行mc目录下的`start.sh`或`start.bat`启动服务器。
 
