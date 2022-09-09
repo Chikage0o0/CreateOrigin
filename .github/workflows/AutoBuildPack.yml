@@ -32,7 +32,7 @@ jobs:
       - name: release
         uses: ncipollo/release-action@v1
         with:
-          name: Openwrt ${{env.VERSION}}_${{matrix.target}}
+          name: ${{ env.GITHUB_REF }}
           allowUpdates: true
           tag: ${{ env.GITHUB_REF }}
           commit: main
