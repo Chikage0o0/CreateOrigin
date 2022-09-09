@@ -2,6 +2,7 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
+/.github
 /README.md
 /LICENSE.txt
 
@@ -13,6 +14,7 @@
 /.gitignore
 /.packwizignore
 
+/updateVersion.sh
 /build.sh
 /server.sh
 /mrpack-install
