@@ -9,8 +9,8 @@ on:
 
 env:
   PROJECT_ID: Cc9a9YwB
-  RELEASE_TYPE: 22.03-SNAPSHOT
-  USE_TG: true
+  RELEASE_TYPE: alpha
+
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -61,7 +61,7 @@ jobs:
           artifacts: ./*.mrpack
       
       - name: Upload to Modrinth
-        uses: RubixDev/modrinth-upload@v1
+        uses: RubixDev/modrinth-upload@v1.0.0
         with:
           token: ${{ secrets.MODRINTH }}
           file_path: ./*.mrpack
