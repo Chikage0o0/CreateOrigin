@@ -5,11 +5,6 @@ set -o pipefail
 
 rm -f ./*.mrpack
 
-if [ -z `which rg` ]; then
-    sudo apt-get -y update
-    sudo apt-get -y install ripgrep
-fi
-
 if [ -z `which zip` ]; then
     sudo apt-get -y update
     sudo apt-get -y zip
@@ -25,8 +20,8 @@ if [ -z `which packwiz` ]; then
     export PATH=~/go/bin:$PATH
 fi
 
-pack_version="$(rg 'version = "(.*)"' --only-matching --replace '$1' "pack.toml" | cat)"
-pack_name="$(rg 'name = "(.*)"' --only-matching --replace '$1' "pack.toml" | cat)"
+pack_version="$(grep -oP '(?<=version = \")[0-9.]+' ./pack.toml)"
+pack_name="$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)"
 
 echo >&2 "Creating mrpack archive for: ${pack_name} ${pack_version}"
 
@@ -44,7 +39,7 @@ for downloadLink in ${downloadLinks[@]}
 do
     wget -nc -P ~/.cache/packwiz/cache/import/ $downloadLink
 done
-packwiz modrinth export
+packwiz modrinth export -o $pack_name-$pack_version.mrpack
 
 echo >&2 "Adding overrides..."
 zip --update --recurse-paths \

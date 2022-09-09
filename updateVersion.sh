@@ -3,10 +3,6 @@
 set -o errexit
 set -o pipefail
 
-if [ -z `which rg` ]; then
-    sudo apt-get -y update
-    sudo apt-get -y install ripgrep
-fi
 if [ -z `which packwiz` ]; then
     if [ -z `which go` ]; then
         sudo add-apt-repository -y ppa:longsleep/golang-backports
@@ -18,9 +14,9 @@ if [ -z `which packwiz` ]; then
 fi
 
 echo >&2 "Updating version..."
-pack_name="$(rg 'name = "(.*)"' --only-matching --replace '$1' "pack.toml" | cat)"
+pack_name="$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)"
 if [ -z $pack_version ];then
-    pack_version="$(rg 'version = "(.*)"' --only-matching --replace '$1' "pack.toml" | cat)"
+    pack_version="$(grep -oP '(?<=version = \")[0-9.]+' ./pack.toml)"
 else
     sed -i "s/^version.*$/version = \"${pack_version}\"/" pack.toml
 fi
