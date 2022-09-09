@@ -66,6 +66,9 @@ jobs:
 
       - name: commit
         run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          sudo timedatectl set-timezone "Asia/Shanghai"
           git add .
           git commit -m "Release $pack_version"
           git push -f
