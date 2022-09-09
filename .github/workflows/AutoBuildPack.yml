@@ -23,14 +23,14 @@ jobs:
         with:
           go-version: '1.19' 
 
-      # Runs a single command using the runners shell
-      - name: build modpack
-        run: bash build.sh
-
       - name: get version
         id: pack_version
         run: |
           echo "pack_version=$(git show -s --format=%B | head -1 | grep -o '[0-9\.]*$')" >> $GITHUB_ENV
+          
+      # Runs a single command using the runners shell
+      - name: build modpack
+        run: bash build.sh
 
       - name: release
         uses: ncipollo/release-action@v1
@@ -46,29 +46,27 @@ jobs:
 
   preRelease:
     runs-on: ubuntu-latest
-      if: "startsWith(github.event.head_commit.message, 'PreRelease')"
+    if: "startsWith(github.event.head_commit.message, 'PreRelease')"
 
       # Steps represent a sequence of tasks that will be executed as part of the job
-      steps:
-        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-        - uses: actions/checkout@v3
-        - uses: actions/setup-go@v3
-          with:
-            go-version: '1.19' 
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19' 
 
-        # Runs a single command using the runners shell
-        - name: Run a one-line script
-          run: |
-            git show -s --format=%B | head -1 | grep -o '[0-9\.]*$'
-            bash updateVersion.sh
+    - name: get version
+      run: |
+        echo "pack_version=$(git show -s --format=%B | head -1 | grep -o '[0-9\.]*$')" >> $GITHUB_ENV
 
-        - name: release
-          uses: ncipollo/release-action@v1
-          with:
-            name: ${{ env.GITHUB_REF }}
-            allowUpdates: true
-            tag: ${{ env.GITHUB_REF }}
-            commit: main
-            replacesArtifacts: true
-            token: ${{ secrets.SECRET }}
-            artifacts: ./*.mrpack
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: |
+          bash updateVersion.sh
+
+      - name: commit
+        run: |
+          git add .
+          git commit -m "Release $pack_version"
+          git push -f
