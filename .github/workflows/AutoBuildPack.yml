@@ -19,6 +19,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
       - uses: actions/setup-go@v3
         with:
           go-version: '1.19' 
@@ -51,6 +54,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PAT }}
+
       - uses: actions/setup-go@v3
         with:
           go-version: '1.19' 
@@ -65,10 +72,7 @@ jobs:
           bash updateVersion.sh
 
       - name: commit
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          sudo timedatectl set-timezone "Asia/Shanghai"
-          git add .
-          git commit -m "Release $pack_version"
-          git push -f
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Release ${{ env.pack_version }}"
+
