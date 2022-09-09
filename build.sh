@@ -42,7 +42,7 @@ downloadLinks=(
 )
 for downloadLink in ${downloadLinks[@]}
 do
-    wget -nc -P ~/.cache/packwiz/cache/import/ $downloadLink
+    wget -nc -q -P ~/.cache/packwiz/cache/import/ $downloadLink
 done
 packwiz modrinth export
 
