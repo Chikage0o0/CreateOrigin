@@ -4,10 +4,11 @@ side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d707a4ea1fe8bec71f3050735a99785c2831bd3e"
-mode = "metadata:curseforge"
+hash = "e703c9e34c62ea0a3b821807325745f5ace6d9d2"
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/createaddition+1.18.2-1.18.2-20220813a-fix.jar"
+# mode = "metadata:curseforge"
 
-[update]
-[update.curseforge]
-file-id = 3932500
-project-id = 439890
+# [update]
+# [update.curseforge]
+# file-id = 3932500
+# project-id = 439890
