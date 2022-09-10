@@ -1,79 +1,10 @@
-# This is a basic workflow to help you get started with Actions
+name: PreRelease
 
-name: AutoBuildPack
-
-# Controls when the workflow will run
 on:
   push: 
     branches: [ main ]
 
-env:
-  PROJECT_ID: Cc9a9YwB
-  RELEASE_TYPE: beta
-
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-    if: "startsWith(github.event.head_commit.message, 'Release')"
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
-
-      - uses: actions/setup-go@v3
-        with:
-          go-version: '1.19' 
-
-      - name: get info
-        run: |
-          echo "pack_version=$(git show -s --format=%B | head -1 | grep -o '[0-9\.]*$')" >> $GITHUB_ENV
-          echo "game_version=$(grep -oP '(?<=minecraft = \")[0-9.]+' ./pack.toml)" >> $GITHUB_ENV
-          echo "loader=$(grep -oP '(quilt|fabric|forge)' ./pack.toml)" >> $GITHUB_ENV
-          echo "pack_name=$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)" >> $GITHUB_ENV
-          
-      # Runs a single command using the runners shell
-      - name: build modpack
-        run: bash build.sh
-        
-      - name: Create changelog text
-        id: changelog
-        uses: loopwerk/tag-changelog@v1
-        with:
-          token: ${{ secrets.SECRET }}
-
-      - name: release
-        uses: ncipollo/release-action@v1
-        with:
-          name: ${{ env.pack_version }}
-          body: ${{ steps.changelog.outputs.changes }}
-          allowUpdates: true
-          tag: ${{ env.pack_version }}
-          commit: main
-          replacesArtifacts: true
-          token: ${{ secrets.SECRET }}
-          artifacts: ./${{ env.pack_name }}-${{ env.pack_version }}.mrpack
-      
-      - name: Upload to Modrinth
-        uses: RubixDev/modrinth-upload@v1.0.0
-        with:
-          token: ${{ secrets.MODRINTH }}
-          file_path: ./${{ env.pack_name }}-${{ env.pack_version }}.mrpack
-          name: ${{ env.pack_version }}
-          version: ${{ env.pack_version }}
-          changelog: ${{ steps.changelog.outputs.changes }}
-          game_versions: ${{ env.game_version }}
-          release_type: ${{ env.RELEASE_TYPE }}
-          loaders: ${{ env.loader }}
-          featured: false
-          project_id: ${{ env.PROJECT_ID }}
-
   preRelease:
     runs-on: ubuntu-latest
     if: "startsWith(github.event.head_commit.message, 'PreRelease')"
