@@ -1,20 +1,28 @@
+# This is a basic workflow to help you get started with Actions
+
 name: AutoBuildPack
 
+# Controls when the workflow will run
 on:
   push: 
-    tag:
-      - '*'
+    branches: [ main ]
 
 env:
   PROJECT_ID: Cc9a9YwB
   RELEASE_TYPE: beta
 
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     if: "startsWith(github.event.head_commit.message, 'Release')"
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
@@ -30,6 +38,7 @@ jobs:
           echo "loader=$(grep -oP '(quilt|fabric|forge)' ./pack.toml)" >> $GITHUB_ENV
           echo "pack_name=$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)" >> $GITHUB_ENV
           
+      # Runs a single command using the runners shell
       - name: build modpack
         run: bash build.sh
         
@@ -62,5 +71,37 @@ jobs:
           game_versions: ${{ env.game_version }}
           release_type: ${{ env.RELEASE_TYPE }}
           loaders: ${{ env.loader }}
-          featured: true
+          featured: false
           project_id: ${{ env.PROJECT_ID }}
+
+  preRelease:
+    runs-on: ubuntu-latest
+    if: "startsWith(github.event.head_commit.message, 'PreRelease')"
+
+      # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.SECRET }}
+
+      - uses: actions/setup-go@v3
+        with:
+          go-version: '1.19' 
+
+      - name: get version
+        run: |
+          echo "pack_version=$(git show -s --format=%B | head -1 | grep -o '[0-9\.]*$')" >> $GITHUB_ENV
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: |
+          bash updateVersion.sh
+
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Release ${{ env.pack_version }}"
+          tagging_message: ${{ env.pack_version }}"
+
