@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "37e69688d629da56d637ef2b6a7f578b589b9652ce54ef1fafdf5fe2ce097f68"
+hash = "b0496c9e126c84fd1a151e05f73a685be42014d9d1dd1a335c8a5045d7172bb7"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "7f07000a5746e0d51f0862da21ca5d548abe8fa7c4839cafebb16ed6e737313c"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
 metafile = true
 
 [[files]]
