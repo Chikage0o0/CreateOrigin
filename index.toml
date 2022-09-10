@@ -10,7 +10,7 @@ hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2223148188600276bf35f1802be9b31edf1439eed73f6ca79c0b625c901370aa"
+hash = "0589f924a1df270186845616d791a3d028dbd9d64bff97004b1724e50973da6e"
 
 [[files]]
 file = "config/couplings.toml"
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "bcd2682f3a80b4ad143f8d8a5f672b7c2beb2ed12dde4a16a52c20d9bcbc748c"
+hash = "c4d458811dd47de56923d7c15ecff8549ce983d31617bcc966c0a3afbc6d8e77"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
+hash = "7f07000a5746e0d51f0862da21ca5d548abe8fa7c4839cafebb16ed6e737313c"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7bc62af50be24f86bf8923bfa40797f58b9c2d2f4550dfa102cdc0952e160e2b"
+hash = "39ea1a724d7f1e9cfeed6f9ae5d1dd4f47de2b187676069898a870b32709a7fd"
 metafile = true
 
 [[files]]
@@ -1145,5 +1145,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "1ad5bed21041a80ed7be9f132e9eab93b90dd214c6e61bf93b0540f9fbb313fb"
+hash = "fbbb30a62db29b99149209f48ed8c16e0bc4f8e99c8852b3fc9bf965be3a6db4"
 metafile = true
