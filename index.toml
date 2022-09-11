@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
+hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c4d458811dd47de56923d7c15ecff8549ce983d31617bcc966c0a3afbc6d8e77"
+hash = "a8fd3e4e8c9e5334ef95802e6f63295139c134cf008b8ea480eb7fdad1f1e3f3"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "39ea1a724d7f1e9cfeed6f9ae5d1dd4f47de2b187676069898a870b32709a7fd"
+hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
 metafile = true
 
 [[files]]
