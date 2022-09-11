@@ -2,8 +2,8 @@ name: AutoBuildPack
 
 on:
   push: 
-    tag:
-      - '*'
+    tags:
+      - [0-9]+.[0-9]+[0-9]
 
 env:
   PROJECT_ID: Cc9a9YwB
