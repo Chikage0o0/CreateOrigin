@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0c58fea3006720bbc60336d170efb9337500b7c2a16ced8ebfd6ea3681ed1286"
+hash = "de61f8f88e46e72be943de289d66429f2f6ff761f21184eb468f4f1991b3ad17"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "a8fd3e4e8c9e5334ef95802e6f63295139c134cf008b8ea480eb7fdad1f1e3f3"
+hash = "2537505ce320a884323f0dac5bdae3cfc8c79190cc64128aace541b18eb31eb0"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "b98a2f0475a41b119e3963e26b269c4f8782c201ff66f8da0f72ad2ae77218a5"
+hash = "e2508e1649e103c88dde5fd7d4babc78e0a84c92d115066bd79f8bb80213a952"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "726458a50d3bb6d69da4989abca9cb8d21bd69d34895ddabbda2adb64148eb75"
+hash = "58b80a63029fe06201c7e16061aae0636b281d35c90d8afbf544b323c0664970"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "7f07000a5746e0d51f0862da21ca5d548abe8fa7c4839cafebb16ed6e737313c"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
 metafile = true
 
 [[files]]
