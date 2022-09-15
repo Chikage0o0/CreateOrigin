@@ -10,7 +10,7 @@ hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
 
 [[files]]
 file = "config/bcc.json"
-hash = "4e409281c6a8891cbd55cbfee47cdde2616446ff1e23162fd9fc1438ec6c8c89"
+hash = "2e04ddc4f233c3137e00c22f1c8477cd966c0699eee6aa49871952573573ffae"
 
 [[files]]
 file = "config/couplings.toml"
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
+hash = "7f07000a5746e0d51f0862da21ca5d548abe8fa7c4839cafebb16ed6e737313c"
 metafile = true
 
 [[files]]
