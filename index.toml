@@ -10,7 +10,7 @@ hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2e04ddc4f233c3137e00c22f1c8477cd966c0699eee6aa49871952573573ffae"
+hash = "8fd65a8406e86f16e590af3e56131539b5ffa1d1631245e8ce4e4922ad941178"
 
 [[files]]
 file = "config/couplings.toml"
