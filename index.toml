@@ -17,22 +17,6 @@ file = "config/couplings.toml"
 hash = "be21b33281635226c219c0531f88c32b568ebd13273152ee8af63d29b979499e"
 
 [[files]]
-file = "config/diggusmaximus/blacklist.json5"
-hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
-
-[[files]]
-file = "config/diggusmaximus/config.json5"
-hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
-
-[[files]]
-file = "config/diggusmaximus/excavatingshapes.json5"
-hash = "430e3f0d0f3a27f257f8610644023ca266637f29f1c32c0a2107f6cdb5636d6d"
-
-[[files]]
-file = "config/diggusmaximus/grouping.json5"
-hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
-
-[[files]]
 file = "config/forgivingvoid.toml"
 hash = "dad4975745cd8e53a6871ec3b8f6bd42f5f32c895ea67c1fcb9c5ae6d3d335ab"
 
@@ -65,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "0749d77bb161c7394774908f8296b95c2cc563b54f3184f464b5e6b4e85a5c3e"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
@@ -125,11 +114,6 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "a97beea14a3a7ffddad7bf405dc4a500cbd92b4ae08e477b7630bd685c937e0c"
 metafile = true
 
 [[files]]
@@ -233,6 +217,11 @@ hash = "dd705d8746647a87086cd2994fe9864a799a2b6a6e5fd3445c06d65874183151"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "b1c06ccdeba4c694b6dffd875272ceee33fe336bcb3f31ad5a3219633b2fe3f3"
+metafile = true
+
+[[files]]
 file = "mods/client-commands.pw.toml"
 hash = "c5497b2f9ddd73a54bb12be1ce6d82a71604a14c11811ff0678ad2ad5ba7e4f6"
 metafile = true
@@ -249,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "de61f8f88e46e72be943de289d66429f2f6ff761f21184eb468f4f1991b3ad17"
+hash = "882d1a3f1b5f1a88a574004974a177585d86b01b12042cdd0575b345530337eb"
 metafile = true
 
 [[files]]
@@ -323,11 +312,6 @@ hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
 metafile = true
 
 [[files]]
-file = "mods/diggus-maximus.pw.toml"
-hash = "bed119e0da08c2308272432ea89d833f40719031d2329c0347d9fce023125ccc"
-metafile = true
-
-[[files]]
 file = "mods/displaycase.pw.toml"
 hash = "7942a11c74bd1877dbd8d8c0c977f3e298583630a0a416f285ce9f84541b3001"
 metafile = true
@@ -343,8 +327,18 @@ hash = "c985721f5a11baa6b140fc007ae4a352b883a2171d97938a2fb843ff57d0599d"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e2508e1649e103c88dde5fd7d4babc78e0a84c92d115066bd79f8bb80213a952"
+metafile = true
+
+[[files]]
+file = "mods/editsign.pw.toml"
+hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
@@ -355,6 +349,16 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
 hash = "2aa9c88983a5c738fed28b83f6328a2db794b6a700a100af879ba7730799f9ab"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "ae560f554ce70728cf3181d8163d99db22842563e6f68ea6167f91eacee2d123"
 metafile = true
 
 [[files]]
@@ -390,6 +394,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "a2f5ac9241681699e8bcd7da4c90e9899686290f883a63c56f7009f18f731e7e"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
 metafile = true
 
 [[files]]
@@ -474,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "822a4f5a12aed5d628df57d2ed2780f2442c02cf3ce4cf35fc322be30f2f174f"
+hash = "c0742d0fbad30d18a1e28792a51011622d175f4ce044b77da0bbdb706e72082c"
 metafile = true
 
 [[files]]
@@ -494,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "7f07000a5746e0d51f0862da21ca5d548abe8fa7c4839cafebb16ed6e737313c"
+hash = "292781d2996a70306b4ee7f747a4194d7b2e4741a4d9b77d3f3ab0d8baf1aacd"
 metafile = true
 
 [[files]]
@@ -643,6 +657,11 @@ hash = "73f8c3c2aafcf7c4c504050acdce3f2ca4c9314c6ebbb97258cafabd34c8dce0"
 metafile = true
 
 [[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "d311731f3bdaa3be7652355d22e9b61934e70764dbe73194075badcaf727e921"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
@@ -739,27 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-characters.pw.toml"
-hash = "86c4ef056d5d2a56d0f69cd988b656a1201651845e40a7027726fec7c9f090b6"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "6bbaa499cb0998b9bd0cf54b1d6e221d7dacd591b7cda58c3ad93b283538246b"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "0006c5a3520cf4e6f2868ceb18fa81c9878fe3adea4b5fc7fef51c0250843330"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "1fe0a94aa7ec650fd7792c80730944b99cf54befbfeac8b091cad8ee33f8f12d"
+hash = "a5647bfaaf5069924ba2ac08ee486e389698257d34a838630724792d248513a8"
 metafile = true
 
 [[files]]
