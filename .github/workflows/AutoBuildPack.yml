@@ -7,7 +7,7 @@ on:
 
 env:
   PROJECT_ID: Cc9a9YwB
-  RELEASE_TYPE: release
+  RELEASE_TYPE: beta
 
 jobs:
   build:
