@@ -37,7 +37,6 @@ jobs:
         uses: loopwerk/tag-changelog@v1
         with:
           token: ${{ secrets.SECRET }}
-          exclude_types: other
 
       - name: release
         uses: ncipollo/release-action@v1
