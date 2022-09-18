@@ -10,7 +10,7 @@ hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8fd65a8406e86f16e590af3e56131539b5ffa1d1631245e8ce4e4922ad941178"
+hash = "5c29277c173977b36cdeecb9077b434c6d5006529d814393afe090257b955566"
 
 [[files]]
 file = "config/couplings.toml"
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/emigration.pw.toml"
-hash = "bc551c69c2c8fe0d5c95fc77c0ee0ee1ce2dbdc9e41b6098312fbd8eb8be92ab"
+hash = "4dbbb8e91a4c3d79b431558a4add9679283b8a0926db212e1fd385c525b79cd8"
 metafile = true
 
 [[files]]
