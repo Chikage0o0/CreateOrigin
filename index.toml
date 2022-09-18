@@ -767,6 +767,11 @@ hash = "a5647bfaaf5069924ba2ac08ee486e389698257d34a838630724792d248513a8"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "7820c8134f410c6e48d661005e42359204b7bf32a5170645f42edbb41ad3b635"
 metafile = true
