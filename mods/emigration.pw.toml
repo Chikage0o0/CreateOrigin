@@ -1,0 +1,7 @@
+name = "emigration"
+filename = "emigration-2+1.18.2.jar"
+
+[download]
+url = "https://github.com/erisdev/emigration/releases/download/r2/emigration-2+1.18.2.jar"
+hash-format = "sha1"
+hash = "03e02e6b3124e3715e3588471e32094dc1cfcd85"

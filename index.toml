@@ -357,6 +357,11 @@ hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
 metafile = true
 
 [[files]]
+file = "mods/emigration.pw.toml"
+hash = "bc551c69c2c8fe0d5c95fc77c0ee0ee1ce2dbdc9e41b6098312fbd8eb8be92ab"
+metafile = true
+
+[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "ae560f554ce70728cf3181d8163d99db22842563e6f68ea6167f91eacee2d123"
 metafile = true
