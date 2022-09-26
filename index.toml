@@ -38,7 +38,7 @@ hash = "683f58a21a80aab5da07f30cac9b137b76c26c60a3810276a7af0a200b101cd7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+hash = "a9df984019ee54c9174937bf071a146bf0f19bcff5f4eacff1835aa7034b3eb4"
 metafile = true
 
 [[files]]
@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7cf6e0731a97a85d16c4e15cbe79aeaab619a30c5ec7fb4954ed1fa5a12db1fd"
+hash = "88219de91ab0d82148c825707ff3e28fae85c9a19b339dd937c2e083d2dd7829"
 metafile = true
 
 [[files]]
@@ -172,11 +172,6 @@ hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
 metafile = true
 
 [[files]]
-file = "mods/can-you-trash-it.pw.toml"
-hash = "b9c4789a54dfbc61372a96e23d94de04c22e1f3a4c98d40176ab99a62c50ca24"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
 metafile = true
@@ -238,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "882d1a3f1b5f1a88a574004974a177585d86b01b12042cdd0575b345530337eb"
+hash = "87a02a394813fd3bba425eca03c227c6d5c7d31b6823a4fa386dcf1de7b1dfad"
 metafile = true
 
 [[files]]
@@ -312,6 +307,11 @@ hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
 file = "mods/displaycase.pw.toml"
 hash = "7942a11c74bd1877dbd8d8c0c977f3e298583630a0a416f285ce9f84541b3001"
 metafile = true
@@ -357,8 +357,8 @@ hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
 metafile = true
 
 [[files]]
-file = "mods/emigration.pw.toml"
-hash = "4dbbb8e91a4c3d79b431558a4add9679283b8a0926db212e1fd385c525b79cd8"
+file = "mods/emicompat.pw.toml"
+hash = "c66d1af8a97c41647c1deaeff6ba136222631cb56ce3559d5e0fbed9b55e6f4d"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+hash = "1f77f681bcbd02c3ba1b2284d29977a21e3fdd37b7e5cc29c5a973a2494e11a4"
 metafile = true
 
 [[files]]
@@ -429,11 +429,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
@@ -1009,7 +1004,7 @@ hash = "7ee240a67a7b63bcd4732a924e824d451ed8df9bc6c541df060ce201c5f7d152"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/trash.json"
-hash = "02ba2036a7384a5739eab39cca23eab92d0dc77677dbfe3d5258a2f1dd67636a"
+hash = "240ecd90e3176e61b38b597b88698d0cf5c185ef3e397dc644d5bb00931822fe"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/vial.json"

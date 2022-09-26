@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "cyti:trashcan_item"
+            "item": "ae2:condenser"
         },
         "title": "文明的象征",
         "description": "岩浆、火焰、仙人掌？我选择垃圾桶",
@@ -13,37 +13,13 @@
     },
     "parent": "createorigin:createorigin/backpack",
     "criteria": {
-        "trashcan_item": {
+        "trashcan": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
                         "items": [
-                            "cyti:trashcan_item"
-                        ]
-                    }
-                ]
-            }
-        },
-        "trashcan_fluid": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": [
-                            "cyti:trashcan_fluid"
-                        ]
-                    }
-                ]
-            }
-        },
-        "trashcan_energy": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": [
-                            "cyti:trashcan_energy"
+                            "ae2:condenser"
                         ]
                     }
                 ]
@@ -52,9 +28,7 @@
     },
     "requirements": [
       [
-        "trashcan_item",
-        "trashcan_fluid",
-        "trashcan_energy"
+        "trashcan"
       ]
     ]
 }
