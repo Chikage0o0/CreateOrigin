@@ -61,6 +61,17 @@ This package also supports the use of clientcommands for RNG attachments and oth
 
 For video creators you can also install the Replay module to simplify video production.
 
+## Thanks
+
+[Xaeros_Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+[XeKrSquarePattern](https://www.curseforge.com/minecraft/texture-packs/xekr-square-pattern)
+[naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+[When Dungeons Arise - Fabric!](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) add translate
+[Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
+[Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+[More Villagers [Fabric]](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric)
+
 <details><summary><h1>Chinese</h1></summary>
 
 <p>

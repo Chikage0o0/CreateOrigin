@@ -26,8 +26,8 @@ fi
 if [  -f "client-overrides/config/customwindowtitle-client.toml" ]; then
     sed -i "s/^title = .*$/title = \"${pack_name}-${pack_version}\"/" client-overrides/config/customwindowtitle-client.toml
 fi
-if [  -f "config/bcc.json" ]; then
-    echo "{\"projectID\":0,\"modpackName\":\"${pack_name}\",\"modpackVersion\":\"${pack_version}\",\"useMetadata\":false}" > config/bcc.json
-fi
+# if [  -f "config/bcc.json" ]; then
+#     echo "{\"projectID\":0,\"modpackName\":\"${pack_name}\",\"modpackVersion\":\"${pack_version}\",\"useMetadata\":false}" > config/bcc.json
+# fi
 
 packwiz refresh
