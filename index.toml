@@ -117,11 +117,6 @@ hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
@@ -242,11 +237,6 @@ hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "91a394b2cdf153332e2f39bb353203c94aeabb344432b2bb17b5197feebdcc1a"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
@@ -332,11 +322,6 @@ hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
 metafile = true
 
 [[files]]
-file = "mods/ecologics.pw.toml"
-hash = "e2508e1649e103c88dde5fd7d4babc78e0a84c92d115066bd79f8bb80213a952"
-metafile = true
-
-[[files]]
 file = "mods/editsign.pw.toml"
 hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
@@ -379,11 +364,6 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "5c5d020b4ed90f00b261ffecef052319f1df5ab5f4197158d3e3abb9ffcfd8c1"
-metafile = true
-
-[[files]]
-file = "mods/extra-origins.pw.toml"
-hash = "f21a2091e05a860abf1436effd976cfe281b907523d01cef9868f7b728302b6e"
 metafile = true
 
 [[files]]
@@ -529,11 +509,6 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "f4ef24404ac9ca161069d497d5abcb22ce1e9f7f36cd17cc9ac02c035b8ad00c"
-metafile = true
-
-[[files]]
-file = "mods/jade-addons-fabric.pw.toml"
-hash = "5730cc90f736b14bc6c6e61ece6713d20ccb77a41b9c0d68f8a05a008ed24ffb"
 metafile = true
 
 [[files]]
@@ -1140,11 +1115,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/xksp-naturalize.pw.toml"
 hash = "bbada0b71f2865184612d416a365be1ea50ba6d49c3f38debc36054e7fada969"
-metafile = true
-
-[[files]]
-file = "shaderpacks/BSL_Shaders.pw.toml"
-hash = "072268d8e1da9e847625c88ee898c78c8735d756ec8c60a33015a1b433a412ad"
 metafile = true
 
 [[files]]
