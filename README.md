@@ -1,6 +1,6 @@
 # Welcome to the world of Create Origin!
 
-## Please use [HMCL](https://github.com/huanghongxun/HMCL/releases) to install and launch the modpack
+## Please use [HMCL 3.5.223](https://github.com/huanghongxun/HMCL/releases) to install and launch the modpack
 
 **This modpack is made for Chinese players**
 
@@ -63,14 +63,14 @@ For video creators you can also install the Replay module to simplify video prod
 
 ## Thanks
 
-[Xaeros_Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-[XeKrSquarePattern](https://www.curseforge.com/minecraft/texture-packs/xekr-square-pattern)
-[naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
-[When Dungeons Arise - Fabric!](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) add translate
-[Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
-[Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
-[More Villagers [Fabric]](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric)
+- [Xaeros_Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [XeKrSquarePattern](https://www.curseforge.com/minecraft/texture-packs/xekr-square-pattern)
+- [naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+- [When Dungeons Arise - Fabric!](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) add translate
+- [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+- [More Villagers [Fabric]](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric)
 
 <details><summary><h1>Chinese</h1></summary>
 
