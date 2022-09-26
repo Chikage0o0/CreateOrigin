@@ -7,8 +7,8 @@ on:
 
 env:
   PROJECT_ID: Cc9a9YwB
-  RELEASE_TYPE: beta
-
+  RELEASE_TYPE: release
+  
 jobs:
   build:
     runs-on: ubuntu-latest
