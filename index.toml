@@ -522,6 +522,11 @@ hash = "4aaca2ff5a41c228fab619d11241204df5d5eb73e32a9fc7a26d4b98f34e7a5b"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-characters.pw.toml"
+hash = "dc78e0ab3d531bd238323ef799852818b3d51df320e895b64cb44c1556117fb6"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
