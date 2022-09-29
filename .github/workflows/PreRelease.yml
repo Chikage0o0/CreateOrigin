@@ -23,7 +23,7 @@ jobs:
 
       - name: get version
         run: |
-          echo "pack_version=$(git show -s --format=%B | head -1 | grep -o '[0-9\.]*$')" >> $GITHUB_ENV
+          echo "pack_version=$(git show -s --format=%B | head -1 | grep -o 'v[0-9\.]*$')" >> $GITHUB_ENV
 
       # Runs a single command using the runners shell
       - name: Run a one-line script

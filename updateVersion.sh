@@ -16,7 +16,7 @@ fi
 echo >&2 "Updating version..."
 pack_name="$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)"
 if [ -z $pack_version ];then
-    pack_version="$(grep -oP '(?<=version = \")[0-9.]+' ./pack.toml)"
+    pack_version="$(grep -oP '(?<=version = \")v[0-9.]+' ./pack.toml)"
 else
     sed -i "s/^version.*$/version = \"${pack_version}\"/" pack.toml
 fi
