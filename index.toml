@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/appliedenergistics2/client.json"
-hash = "dc10802574958a2e3b0f75f10f6704ed8050404b38f56fbdc83064799a235c95"
-
-[[files]]
 file = "config/appliedenergistics2/common.json"
 hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
 
@@ -58,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "88219de91ab0d82148c825707ff3e28fae85c9a19b339dd937c2e083d2dd7829"
+hash = "dc306d93b5994351925191bc52eeb1707ebafc07fa1dc3e1d846cb24fe0f452c"
 metafile = true
 
 [[files]]
@@ -228,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "87a02a394813fd3bba425eca03c227c6d5c7d31b6823a4fa386dcf1de7b1dfad"
+hash = "9c70229db18dd8779c121f5a3d379a039efa5b8dbf0514a056829f2873374e85"
 metafile = true
 
 [[files]]
@@ -258,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
@@ -388,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+hash = "819dc73d7428db15a2b4750222d8d329a6ec9b8867421dab1b8ce209985b49a6"
 metafile = true
 
 [[files]]
@@ -404,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "e326d593b81cd24964147dea21ed0b057c93790a6c8d96d4d00d47153f4ed205"
+metafile = true
+
+[[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "33deeb24717e168b7098a42af76890a4a2abc79a6d5129ab9eb8b0ebe3a3dd15"
 metafile = true
 
 [[files]]
@@ -493,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "292781d2996a70306b4ee7f747a4194d7b2e4741a4d9b77d3f3ab0d8baf1aacd"
+hash = "df97b2604d98d5d50ef004c0961988c2988666a7ead9843c208953edf6abcfd4"
 metafile = true
 
 [[files]]
@@ -512,6 +513,11 @@ hash = "f4ef24404ac9ca161069d497d5abcb22ce1e9f7f36cd17cc9ac02c035b8ad00c"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "5730cc90f736b14bc6c6e61ece6713d20ccb77a41b9c0d68f8a05a008ed24ffb"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "dd1b242d7347a9ca1be3489896524f3615efb8c284640156d871b8662be5fd8e"
 metafile = true
@@ -523,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "dc78e0ab3d531bd238323ef799852818b3d51df320e895b64cb44c1556117fb6"
+hash = "c1e2e85dd3db6f820885f87a81f81ebecaa454a5e95e7b74aea14a65ce4f8f53"
 metafile = true
 
 [[files]]
@@ -544,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "4f161155343d7d8ea0e5111b2fa601e2ece1501b932685a53487999524683100"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "df288385d36b0b6cca4e056bec41f65f5a8f574f04c61594fba1f70f0382cedd"
 metafile = true
 
 [[files]]
@@ -742,11 +753,6 @@ hash = "9a63d62fbc2310528a2b770e9cab13830a819e2c88b5b51479c717a47f3ebf9a"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-characters.pw.toml"
-hash = "a5647bfaaf5069924ba2ac08ee486e389698257d34a838630724792d248513a8"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
@@ -773,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "2ad443646863100af0f66138402e8cbfdf78ea565956d95d8e3e2b32c264d8a6"
+hash = "39269eb45ca79786c4eac3ede212feb85ccd90fe3e25ca0e4ab7e9fc1270d96e"
 metafile = true
 
 [[files]]
