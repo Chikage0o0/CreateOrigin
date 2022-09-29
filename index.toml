@@ -403,11 +403,6 @@ hash = "e326d593b81cd24964147dea21ed0b057c93790a6c8d96d4d00d47153f4ed205"
 metafile = true
 
 [[files]]
-file = "mods/followers-teleport-too.pw.toml"
-hash = "33deeb24717e168b7098a42af76890a4a2abc79a6d5129ab9eb8b0ebe3a3dd15"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
@@ -764,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/simpledrawers.pw.toml"
-hash = "7ac6334176da0086da14c358110b5cfd0687c4dac0a498ee49f28070fa1aca1c"
+hash = "b5d29ef8e04a43b562e1932578d86f48a509bef06452bff0516a5270a1326aa5"
 metafile = true
 
 [[files]]
@@ -859,12 +854,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5c7c55fad4e5608db24e79c92c52786c839f3de92582604465744d4eeaade9d7"
+hash = "123db5d5087b0d59f274203b18e82a950121b936bd1dfefa7ff11c22a426bf48"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b7058b854c23cd8bb4d7de6f2cdd75d79dc4feaffcc203a25e140cfb3661af3e"
+hash = "281f8835df770ee31d49005c6f1fed976db81250a2d6b08538c78a1993d5e637"
 metafile = true
 
 [[files]]
@@ -1090,7 +1085,7 @@ hash = "cad83a53874b4cbe1816e7c6feb71eab4426c85295be89b139c6e174e91f130e"
 
 [[files]]
 file = "openloader/data/CreatePlus-datapack.pw.toml"
-hash = "106779154b76a3d6c7ab1407a870c4861f2e26c8c9058aa39393ec35ee976321"
+hash = "7ddcb4c0a4d974d6296ce1e6cd655da8e03b73e622e2707b704b0eede6a8e75d"
 metafile = true
 
 [[files]]
