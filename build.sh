@@ -20,7 +20,7 @@ if [ -z `which packwiz` ]; then
     export PATH=~/go/bin:$PATH
 fi
 
-pack_version="$(grep -oP '(?<=version = \")[0-9.]+' ./pack.toml)"
+pack_version="$(grep -oP '(?<=version = \")v[0-9.]+' ./pack.toml)"
 pack_name="$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)"
 
 echo >&2 "Creating mrpack archive for: ${pack_name} ${pack_version}"
@@ -32,8 +32,6 @@ downloadLinks=(
     "https://mediafiles.forgecdn.net/files/3555/653/fabric-experiencebugfix-1.18-18.jar"
     "https://mediafiles.forgecdn.net/files/3779/559/guard-villagers-fabric-1.18.2-1.0.14.jar"
     "https://mediafiles.forgecdn.net/files/3745/563/Properly+Worn+Backpacks+(inmis).zip"
-    "https://mediafiles.forgecdn.net/files/3965/904/RoughlyEnoughLootTables-1.18-1.1.jar"
-    "https://mediafiles.forgecdn.net/files/3962/679/RoughlyEnoughTrades-1.1.1.jar"
 )
 for downloadLink in ${downloadLinks[@]}
 do
