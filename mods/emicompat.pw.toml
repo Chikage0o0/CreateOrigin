@@ -1,13 +1,13 @@
 name = "EMICompat"
-filename = "emicompat-1.0.1.jar"
+filename = "emicompat-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cK0i8gTV/versions/OJibNucs/emicompat-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/cK0i8gTV/versions/wOTmLUGS/emicompat-1.0.2.jar"
 hash-format = "sha1"
-hash = "5e4df42e81dd15fe878e11cdbcc2ff6a9a9360bf"
+hash = "257c6cd1b63cd013c1856824477fab9d2934eaec"
 
 [update]
 [update.modrinth]
 mod-id = "cK0i8gTV"
-version = "OJibNucs"
+version = "wOTmLUGS"
