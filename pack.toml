@@ -1,12 +1,12 @@
 name = "CreateOrigin"
 author = "Chikage"
-version = "v3.6.3"
+version = "v3.6.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "280c12bd4767206de636ba0d00c537030f73477cb6446d86071bd83748225fd3"
+hash = "78260fed24c9f4cb21de1c759629e2bdeb6bf93d0cf7b164979b571392849dd0"
 
 [versions]
 fabric = "0.14.9"
