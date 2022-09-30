@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "866838fa8de51ac208db72e6e65a0b5095ddd6793466eaa399075c5237312560"
+hash = "a5ce6bbcb1f7fa324a5cc8c0cd6db33b26334f2ef9816f7cc2623b343b95ab62"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "c1e2e85dd3db6f820885f87a81f81ebecaa454a5e95e7b74aea14a65ce4f8f53"
+hash = "69000583529a9a2ec89c9a5cf66e07d00c7abd87cc0087c39f26b51783ac0b8a"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "123db5d5087b0d59f274203b18e82a950121b936bd1dfefa7ff11c22a426bf48"
+hash = "31f63492eb5997c554f44a18e3221b8d90532fd0731215fa9948c49e83778d83"
 metafile = true
 
 [[files]]
