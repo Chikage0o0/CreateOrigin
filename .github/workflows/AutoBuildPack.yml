@@ -24,7 +24,7 @@ jobs:
 
       - name: get info
         run: |
-          echo "pack_version=$(git show -s --format=%B | head -1 | grep -o '[0-9\.]*$')" >> $GITHUB_ENV
+          echo "pack_version=$(git show -s --format=%B | head -1 | grep -o 'v[0-9\.]*$')" >> $GITHUB_ENV
           echo "game_version=$(grep -oP '(?<=minecraft = \")[0-9.]+' ./pack.toml)" >> $GITHUB_ENV
           echo "loader=$(grep -oP '(quilt|fabric|forge)' ./pack.toml)" >> $GITHUB_ENV
           echo "pack_name=$(grep -oP '(?<=name = \")[\w\s-_]+' ./pack.toml)" >> $GITHUB_ENV
@@ -37,6 +37,7 @@ jobs:
         uses: loopwerk/tag-changelog@v1
         with:
           token: ${{ secrets.SECRET }}
+          exclude_types: other
 
       - name: release
         uses: ncipollo/release-action@v1
