@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9c70229db18dd8779c121f5a3d379a039efa5b8dbf0514a056829f2873374e85"
+hash = "4b9bc79b8fabd107e056d594f654321646d7a90b2dfa16567e2aba3ff9c02359"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "a5ce6bbcb1f7fa324a5cc8c0cd6db33b26334f2ef9816f7cc2623b343b95ab62"
+hash = "c4bed15089b2301f7d9b8953b115965df74368d7aa603940f81e1bf23bb8e4e2"
 metafile = true
 
 [[files]]
