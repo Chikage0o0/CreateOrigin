@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "dc306d93b5994351925191bc52eeb1707ebafc07fa1dc3e1d846cb24fe0f452c"
+hash = "e0b8ec07f4ceca7e316a5860a15362a64d75ef4e6f34f98fd7b88642b32d4892"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "83ead165b77f2051ac754cc0fcfedbf957820527ceec62023057ebbb63ae6e40"
+hash = "b4ef5ab91895a5cc8c2d6c43108e59870e10cb3d7c377007d0c46a172e3bab52"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4b9bc79b8fabd107e056d594f654321646d7a90b2dfa16567e2aba3ff9c02359"
+hash = "08c25e6f7491a7434d34ffaf2f25aa1bcca92216535522fd7eca4ee484e8615d"
 metafile = true
 
 [[files]]
@@ -268,11 +268,6 @@ hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
-file = "mods/custom-splash-screen.pw.toml"
-hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
-metafile = true
-
-[[files]]
 file = "mods/custom-void.pw.toml"
 hash = "5fd17dd6fa382c7838a81ed6bdcf48e6e44f76d3bb9b41b02e720f9db5284658"
 metafile = true
@@ -304,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
-hash = "7078f97a4a239c085e055df428e8e17f582bed84d0136989860fc90253be3498"
+hash = "424a9d7b104557c1b2cd0c88e862f77fd65a907de365c1d68a53d74549b5c727"
 metafile = true
 
 [[files]]
@@ -639,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "2d6d24f667346caebd0001b87b87de9c838786aedf510d3b9f0f8e7c17e6fcb9"
+hash = "eb27e30f2368b3d4c56a317d1cf605612a75423a8c39cb2601883f274e9f671a"
 metafile = true
 
 [[files]]
@@ -799,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "2130d0f1e6a65f7cbb9e4c1a7ee24b5b240a0295b467f2e9817826c7d84ccda6"
+hash = "1d78730dbc52f8a57dfb4a2b860947e17d8be2b75362e3524074149abe3fa50c"
 metafile = true
 
 [[files]]
