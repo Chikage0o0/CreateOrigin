@@ -1094,13 +1094,13 @@ hash = "f6f72151df165e01ad630aecec4276a3136da27f966ca0655d3dcf7925c1d1aa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/XeKrSquarePattern.pw.toml"
-hash = "ce3651b8085ff549dc762bb82564007d58d793303f9cac804ca8f511dc933e8c"
+file = "openloader/resources/xaeros-minimap-modded-support.pw.toml"
+hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
-hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
+file = "resourcepacks/XeKrSquarePattern.pw.toml"
+hash = "ce3651b8085ff549dc762bb82564007d58d793303f9cac804ca8f511dc933e8c"
 metafile = true
 
 [[files]]
