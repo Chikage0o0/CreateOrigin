@@ -1,0 +1,13 @@
+name = "Xaero's Minimap - Modded Support"
+filename = "Xaero's Minimap - Mod Icons.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2ad8584f0fade7d4abe3e53dc7e87b0212753adb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3815672
+project-id = 497405
