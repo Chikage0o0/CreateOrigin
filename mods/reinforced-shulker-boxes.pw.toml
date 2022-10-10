@@ -1,13 +1,13 @@
 name = "Reinforced Shulker Boxes"
-filename = "reinforced-shulker-boxes-2.0.1+1.18.2.jar"
+filename = "reinforced-shulker-boxes-2.2.0+1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "44196f70a0b3efbb9e9584fbc6ce602760239b58"
+hash = "db2d105224574a33d704a859af718667cff3b115"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3818018
+file-id = 4023342
 project-id = 529874
