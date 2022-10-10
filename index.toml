@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "e0b8ec07f4ceca7e316a5860a15362a64d75ef4e6f34f98fd7b88642b32d4892"
+hash = "91f992fa8b10ca4533bbf1d9fe579e2dd31dcc7e0500493ec204f839bf23548f"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts-fabric.pw.toml"
-hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
+hash = "85d6333b997a97a1dda2bc690188ebfd71eb4463dbb815de02344a633a2d366e"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1993df634eba8d6011932d8afc53adaec41856693b11c02e4c9cee3383656504"
+hash = "b9c3dad8b4315e4b241b8a2bc0c9e4fa69f185fb5b11f62cc63715e6746a9be5"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
+hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "df288385d36b0b6cca4e056bec41f65f5a8f574f04c61594fba1f70f0382cedd"
+hash = "8e69d511f4a0112cc811aaa3ca5c8dd06e86b65cbcad4e1a633a4caf6032a21b"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b8fc16dda19cf918380c01d8ffb49c1380904dbe6d8290c6758e4ae5e07b1a06"
+hash = "4c51026ac95600af08a5b1f1d2a380609d0e74f374ce38cfd30e9dbead294838"
 metafile = true
 
 [[files]]
@@ -714,17 +714,17 @@ metafile = true
 
 [[files]]
 file = "mods/reinforced-barrels.pw.toml"
-hash = "fbcdbe203898615b877aed981eb825845e8803e5227ca09e9bf24ef1837c91ce"
+hash = "4091f2c123eb081013e7cc4617b1e49c111abb3d0790852abd1c19ad6eb83aec"
 metafile = true
 
 [[files]]
 file = "mods/reinforced-chests.pw.toml"
-hash = "ff2405dcb7b24c329fe9df2439338824988105636f8d4caa0959f43af35e1838"
+hash = "274c8d4c0bae26da5dd97a212e1af9f989becf2dffdddc0f0b3a4cfb6fa42895"
 metafile = true
 
 [[files]]
 file = "mods/reinforced-shulker-boxes.pw.toml"
-hash = "280c8e209f3c23fa4522911c18f561c084109766624369f879fd95be353b92db"
+hash = "a9aedc4f668d2d9b1ca54a52d22823ce673175d479998efdae245b185a684571"
 metafile = true
 
 [[files]]
@@ -940,7 +940,7 @@ hash = "bb73bdc42b1eb24b8a26226b78758424948916eda90d368ee9ecb9efdf4352fb"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/netherite_shulker.json"
-hash = "4c709034e68ecef9e480002042bd36203df3e4b11c7d88333578696ca668314e"
+hash = "69a41f0e791d7dc6e5d21509259e16ecbc197a7a71f60af7260083dc940cc176"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/pet.json"
@@ -1096,6 +1096,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/XeKrSquarePattern.pw.toml"
 hash = "ce3651b8085ff549dc762bb82564007d58d793303f9cac804ca8f511dc933e8c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
+hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
 metafile = true
 
 [[files]]
