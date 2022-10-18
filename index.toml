@@ -473,6 +473,11 @@ hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
 metafile = true
 
 [[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "03de058430bb80ebfcb873fb5c978c691e338bb663a4953fe7ff80eeb23b8d21"
+metafile = true
+
+[[files]]
 file = "mods/interactic.pw.toml"
 hash = "e44b74c440a66bbb0f429d8439a4395885a68f7f31f29ccfc103a520587b0702"
 metafile = true
@@ -1076,11 +1081,6 @@ hash = "cad83a53874b4cbe1816e7c6feb71eab4426c85295be89b139c6e174e91f130e"
 [[files]]
 file = "openloader/data/CreatePlus-datapack.pw.toml"
 hash = "7ddcb4c0a4d974d6296ce1e6cd655da8e03b73e622e2707b704b0eede6a8e75d"
-metafile = true
-
-[[files]]
-file = "openloader/resources/Properly Worn Backpacks (inmis).pw.toml"
-hash = "e59dca0b2634dcb684295954b843328e5f46bd2b0679bce661343d94a6812959"
 metafile = true
 
 [[files]]
