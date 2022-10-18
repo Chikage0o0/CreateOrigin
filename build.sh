@@ -31,7 +31,7 @@ downloadLinks=(
     "https://mediafiles.forgecdn.net/files/3646/907/ElytraBombing-Fabric-1.18.X-1.0.0.jar"
     "https://mediafiles.forgecdn.net/files/3555/653/fabric-experiencebugfix-1.18-18.jar"
     "https://mediafiles.forgecdn.net/files/3779/559/guard-villagers-fabric-1.18.2-1.0.14.jar"
-    "https://mediafiles.forgecdn.net/files/3745/563/Properly+Worn+Backpacks+(inmis).zip"
+    "https://mediafilez.forgecdn.net/files/3963/391/inmisaddon-1.0.1-1.18.jar"
 )
 for downloadLink in ${downloadLinks[@]}
 do
