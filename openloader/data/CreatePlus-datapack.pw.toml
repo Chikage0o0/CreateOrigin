@@ -1,8 +1,8 @@
-name = "CreatePlus-datapack"
-filename = "CreatePlus-datapack-fabric-1.18.2.zip"
+name = "CreatePlus"
+filename = "CreatePlus.zip"
 side = "both"
 
 [download]
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/CreatePlus-datapack-fabric-1.18.2.zip"
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/CreatePlus.zip"
 hash-format = "sha1"
-hash = "7ce8cdc3c8d718427d797d3fe38b704c0f3320aa"
+hash = "2cffa203560d629926958461e3fb44f601680565"
