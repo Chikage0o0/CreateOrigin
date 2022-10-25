@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "openloader/resources/XeKr+redstone+display.pw.toml"
-hash = "857e3e70455e63dcec5b5316985a9922c204e910a9b0cf73bfc9260fbf85a2ab"
+hash = "d07780ddc301bd5118160d38bacf13bb1286183ba3c7f82a226fe76db5f0303f"
 metafile = true
 
 [[files]]
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/XeKrSquarePattern.pw.toml"
-hash = "ce3651b8085ff549dc762bb82564007d58d793303f9cac804ca8f511dc933e8c"
+hash = "47d9acc0b45141751d3ba4cda6918c44d1e5f05f685924020cfe302d31aea7d5"
 metafile = true
 
 [[files]]
