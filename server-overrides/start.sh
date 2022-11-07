@@ -5,8 +5,8 @@
 
 JAVA="java"
 MINECRAFT="1.18.2"
-FABRIC="0.14.9"
-INSTALLER="0.11.0"
+FABRIC="0.14.10"
+INSTALLER="0.11.1"
 ARGS=""
 OTHERARGS="-Dlog4j2.formatMsgNoLookups=true"
 

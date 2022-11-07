@@ -1,6 +1,6 @@
 name = "CreateOrigin"
 author = "Chikage"
-version = "v3.8.6"
+version = "v3.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "30eab0ce7555483adc38708dfc0d2b7bd6571b881d8c819390a9ea2313d78fdf"
 
 [versions]
-fabric = "0.14.9"
+fabric = "0.14.10"
 minecraft = "1.18.2"
