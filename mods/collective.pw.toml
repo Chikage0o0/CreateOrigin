@@ -1,13 +1,13 @@
 name = "Collective"
-filename = "collective-fabric-1.18.2-5.14.jar"
+filename = "collective-fabric-1.18.2-5.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/BWgT7zC5/collective-fabric-1.18.2-5.14.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/JuVfVQNh/collective-fabric-1.18.2-5.15.jar"
 hash-format = "sha1"
-hash = "8dd4379d32bd80f6aa6b29fcb681bec464404c95"
+hash = "454251745b015742a484c1dcea01e0ec564bee22"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "BWgT7zC5"
+version = "JuVfVQNh"
