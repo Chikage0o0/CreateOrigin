@@ -1,0 +1,8 @@
+{
+  "items": [
+    "farmersdelight:onion"
+  ],
+  "reload_ticks": 15,
+  "damage": 5,
+  "knockback": 1
+}

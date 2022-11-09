@@ -1,0 +1,9 @@
+{
+  "items": [
+    "gofish:baked_seaweed"
+  ],
+  "reload_ticks": 4,
+  "damage": 2,
+  "knockback": 0.5,
+  "sticky": true
+}

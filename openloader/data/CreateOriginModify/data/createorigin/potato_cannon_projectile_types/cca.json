@@ -1,0 +1,10 @@
+{
+  "items": [
+    "createaddition:chocolate_cake",
+    "createaddition:honey_cake"
+  ],
+  "reload_ticks": 15,
+  "damage": 8,
+  "knockback": 0.1,
+  "sticky": true
+}

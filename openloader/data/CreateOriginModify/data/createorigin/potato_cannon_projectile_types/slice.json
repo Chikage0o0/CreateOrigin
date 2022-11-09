@@ -1,0 +1,11 @@
+{
+  "items": [
+    "farmersdelight:cake_slice",
+    "farmersdelight:apple_pie_slice",
+    "farmersdelight:sweet_berry_cheesecake_slice",
+    "farmersdelight:chocolate_pie_slice"
+  ],
+  "reload_ticks": 8,
+  "damage": 4,
+  "knockback": 0.2
+}

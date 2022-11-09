@@ -1,0 +1,8 @@
+{
+  "items": [
+    "farmersdelight:pumpkin_slice"
+  ],
+  "reload_ticks": 8,
+  "damage": 4,
+  "knockback": 0.1
+}
