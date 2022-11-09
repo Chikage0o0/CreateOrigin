@@ -1008,6 +1008,38 @@ file = "openloader/data/CreateOriginModify/data/createorigin/portals/voidportal.
 hash = "8d92a657ecaad47de83a7bb7af35931ee27f5a3a2571d7293eb79b339192cd82"
 
 [[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/cabbage.json"
+hash = "4fac180875265ad3fb189fd0dbcbd9dd76b0fe495efd6f5e2eeeb1e35c56ebc3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/cca.json"
+hash = "b8fb06e07e34af0d950e3d623cd3f6a15e3b7994d39bcc815b34789906b22049"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/onion.json"
+hash = "e97fb5fcd88562f25d496be50665a728bd5f46553c921736258c529a3a3b1871"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/pie.json"
+hash = "0a63c2463265c8ffdafb7929d4c9a1c9b709862d10085d4953969b4914ed2f11"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/pumpkin_slice.json"
+hash = "8a29668db313f90df20a7a13e217cfadd1f2e685f9769153606b886d3d01dc10"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/seaweed.json"
+hash = "9cda1318eda31bbc52f20c60c27f0fe29cd3a3c674647ddd19cb3ed3a15f377b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/slice.json"
+hash = "e5d3df932d091b2b52fb32c466218e8abbd208a59475bb24f36fe50f65c62354"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/potato_cannon_projectile_types/tomato.json"
+hash = "9b7e739d5cc9e79ca0df269b5f2b5940959ebf65ffc7a8b9797056d8d32f3408"
+
+[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/recipes/barrel.json"
 hash = "648bf556ad0a0365df6c46945adbc9622aab0f5bce85ab2351e6e49526b2688d"
 
@@ -1125,7 +1157,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Complementary Reimagined.pw.toml"
-hash = "88e0357a39989a7122cc59ddb0f72f43d704ce0259a5da9fad42852318876e36"
+hash = "1129b6a9d6fb9e504713b1517edfb67133ca2ae6c7dddafdb6ae505ef5f77c6c"
 metafile = true
 
 [[files]]
