@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "2aaf135eaa528fc6d41059e9c5d5e11e4e9ee3628747ba2babe94cfdd95f8b4e"
+hash = "07dc53495f2c3a353019d4f6c4f97192370284076e5213fb6dbbf0a6965627a2"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "21011aebe000cc840f7d1b0f51e31d4a43ee6077a00e07332f1139a71813a5da"
+hash = "9384012f50f3f22f4d60bbe0fa68232630a684550a90028abadc8160f54d7318"
 metafile = true
 
 [[files]]
@@ -593,6 +593,11 @@ hash = "864f962d828ab8276226d19d2ad38156024ea39aa4c01ecd73e9f5b2b43c9443"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "4c9daadb16fc212d84345841ffa0bcacb721b92358fd47ed06a8723f555afa62"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "3458dce0dfc7cde76c30a5a8cbdb5ebd0c89bf1669d3f408f6e910a4e3d49b2d"
 metafile = true
@@ -794,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "1d78730dbc52f8a57dfb4a2b860947e17d8be2b75362e3524074149abe3fa50c"
+hash = "97bd3a52c7c421a39951cf84d47e8e4cacf8f824b491b261f226a51591171fd2"
 metafile = true
 
 [[files]]
@@ -849,12 +854,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "66c4e4b81b0319014a907cc3701fbda678fa762f97f3c7cb748eddda69accb9a"
+hash = "4c5722365130c297f9ab8692ed7eb22b70c6c866209193beaebf115b26af8559"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c2c2fddd094022bfeaa71de099417804464163693b06fa6bd982b0046edb7b47"
+hash = "7f814f504ff4d4c6b94eadbc8ad2fefae907d5dc8e8c7699407c2df875cb329a"
 metafile = true
 
 [[files]]
