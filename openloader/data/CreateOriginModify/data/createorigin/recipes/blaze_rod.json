@@ -1,0 +1,58 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:stick"
+  },
+  "transitionalItem": {
+    "item": "minecraft:stick"
+
+  },
+  "sequence": [
+    {
+      "keepHeldItem": true,
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:stick"
+        },
+        {
+          "item": "minecraft:blue_ice"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    },
+    {
+      "keepHeldItem": true,
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:stick"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "nbt": {},
+          "amount": 27000
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:stick"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blaze_rod",
+      "chance": 50
+    },{
+      "item": "minecraft:basalt",
+      "chance": 50
+    }
+  ],
+  "loops": 1
+}
