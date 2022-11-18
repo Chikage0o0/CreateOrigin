@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "27bf7b57f2fd16b5451988e746b2464795c5e8f4"
+hash = "7c60946c18e23a023d8d2a60f1cf550005c0aa12"
 url = "https://www.planetminecraft.com/texture-pack/xksp-lush-plants/download/file/15734263/"

@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "286b15638963393b4eff697bdf48d57b8166229c"
+hash = "a77a583a5a5359c4129420678c3ee35af2a3226a"
 url = "https://www.planetminecraft.com/texture-pack/xksp-detail-models/download/file/15734255/"
