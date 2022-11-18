@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e34773d97267d663ff1516076b38cfb272472326d245377872c0c03b54658d1b"
+hash = "39269eb45ca79786c4eac3ede212feb85ccd90fe3e25ca0e4ab7e9fc1270d96e"
 metafile = true
 
 [[files]]
@@ -1044,6 +1044,10 @@ file = "openloader/data/CreateOriginModify/data/createorigin/recipes/barrel.json
 hash = "648bf556ad0a0365df6c46945adbc9622aab0f5bce85ab2351e6e49526b2688d"
 
 [[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/recipes/blaze_rod.json"
+hash = "a3893b9c5c61c41e090bf41fd5fc7f7b0727aa658a9e0c67f0a25fc4064562ff"
+
+[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/recipes/bone_block.json"
 hash = "607e4b5955123e35fe868f06d5f7528af89a755159b5ac1ee38bd48839de30b3"
 
@@ -1132,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/XeKrSquarePattern.pw.toml"
-hash = "47d9acc0b45141751d3ba4cda6918c44d1e5f05f685924020cfe302d31aea7d5"
+hash = "aaea805f8a42a6ef583aeea493efe48174d89ad3e79f57b8bf27194a12fdd770"
 metafile = true
 
 [[files]]
@@ -1142,12 +1146,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xksp-detail-models.pw.toml"
-hash = "81d293ca591ec3ad3124ce9e9ff257e8e5538b6ca7b178623125d144a72fafc0"
+hash = "5f73b49b007329e153eca53bfb774e88b51707bde9bd706fd632ff9f0740e68b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xksp-lush-plants.pw.toml"
-hash = "32cdd606cf11d13fada2b0796573339c6e5b86e3ea261b818c43d67311b4be12"
+hash = "0fbaa3e8c8487e825b0021832aaac234715ca13dc83ea1300fe371f1ecd6b610"
 metafile = true
 
 [[files]]
