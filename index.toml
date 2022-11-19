@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c68405e5d0dbc232ed1254f63fb8cd5094fe3ebbe6bac909090ee7f6458ab863"
+hash = "7d7ba7e53ccc1a6e5162fcc9842d8c92e412f27c01930baa7235f9e728ac51a9"
 metafile = true
 
 [[files]]
@@ -1121,7 +1121,7 @@ hash = "cad83a53874b4cbe1816e7c6feb71eab4426c85295be89b139c6e174e91f130e"
 
 [[files]]
 file = "openloader/data/CreatePlus-datapack.pw.toml"
-hash = "8834427fbf0b832f49edf206148eeb0bd372cc8a6f50da1c704e2cdbb9d3e427"
+hash = "fd87fbeaf95c630ff944404bd078dd23044ba065139188e295f3569787efa08a"
 metafile = true
 
 [[files]]
