@@ -5,4 +5,4 @@ side = "client"
 [download]
 hash-format = "sha1"
 hash = "6954fc6c3ac31cc9abc07a4d0630f5053458f941"
-url = "https://www.planetminecraft.com/texture-pack/xksp-naturalize/download/file/15734256/"
+url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-naturalize.zip"

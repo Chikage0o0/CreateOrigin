@@ -5,4 +5,4 @@ side = "client"
 [download]
 hash-format = "sha1"
 hash = "3260006ddc54b063bab88b00874ae856043de02e"
-url = "https://www.planetminecraft.com/texture-pack/xksp-alt-paintings/download/file/15734330/"
+url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-alt-paintings.zip"
