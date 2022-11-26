@@ -1,13 +1,8 @@
 name = "Create Crafts & Additions"
-filename = "createaddition+1.18.2-20220914a.jar"
+filename = "createaddition+1.18.2-20220914a-fix.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a627f7b2bebe58996ef6ef6b02e25a2647bb3812"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3989197
-project-id = 439890
+hash = "2fa62c92a0be96db9a6e4265605f4c71f99d4080"
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/createaddition%2B1.18.2-1.1.jar"
