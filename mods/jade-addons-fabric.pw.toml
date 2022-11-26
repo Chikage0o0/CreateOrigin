@@ -1,13 +1,13 @@
 name = "Jade Addons (Fabric)"
-filename = "JadeAddons-1.18.2-fabric-2.0.0.jar"
+filename = "JadeAddons-1.18.2-fabric-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc835f034bcb2f6fac04a131b659e055f100360a"
+hash = "6b14e4fbe882fa60fa034cd02647da2bfc650b9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3922942
+file-id = 4096562
 project-id = 656665
