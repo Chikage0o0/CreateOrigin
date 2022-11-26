@@ -1141,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xksp-alt-paintings.pw.toml"
-hash = "4870596504765ed536601d2cd246980ed43a72982de869dcd341422465de644a"
+hash = "363cfc01fdde7904e3acd58245815e284b101d33537d42ee4b27ab3592f1f735"
 metafile = true
 
 [[files]]
@@ -1156,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xksp-naturalize.pw.toml"
-hash = "bbada0b71f2865184612d416a365be1ea50ba6d49c3f38debc36054e7fada969"
+hash = "085b60ea1326016347ffa466f5c3e30c13b2360d5844b967268189c6d652da2c"
 metafile = true
 
 [[files]]
