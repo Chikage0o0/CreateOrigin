@@ -1,13 +1,13 @@
 name = "BCLib"
-filename = "bclib-1.4.7.jar"
+filename = "bclib-2.1.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/hyMhFkOC/bclib-2.1.4.jar"
 hash-format = "sha1"
-hash = "afc507e93908f0f27fcf68f333370264c8d49716"
-mode = "metadata:curseforge"
+hash = "3b7387822e5d666fe23c89971819d9ebef686a36"
 
 [update]
-[update.curseforge]
-file-id = 3814359
-project-id = 495191
+[update.modrinth]
+mod-id = "BgNRHReB"
+version = "hyMhFkOC"

@@ -1,4 +1,4 @@
-version:2975
+version:3120
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -12,6 +12,7 @@ invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
+directionalAudio:false
 touchscreen:false
 fullscreen:false
 bobView:true
@@ -23,6 +24,7 @@ mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:0.451913
+darknessEffectScale:1.0
 gamma:0.5
 renderDistance:12
 simulationDistance:12
@@ -30,17 +32,16 @@ entityDistanceScaling:1.0
 guiScale:0
 particles:0
 maxFps:260
-difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","resources/Chikage Chinese","continuity/glass_pane_culling_fix","continuity/default","resources/XeKrRedstoneDisplay.zip","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
-incompatibleResourcePacks:["resources/XeKrRedstoneDisplay.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
+renderClouds:"true"
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","continuity/glass_pane_culling_fix","continuity/default","resources/XeKrRedstoneDisplay.zip","charmonium/journeyman","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
+incompatibleResourcePacks:["resources/XeKrRedstoneDisplay.zip","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip"]
 lastServer:
 lang:zh_cn
-soundDevice:
+soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -59,10 +60,10 @@ chatScale:1.0
 chatWidth:1.0
 mipmapLevels:4
 useNativeTransport:true
-mainHand:right
+mainHand:"right"
 attackIndicator:1
 narrator:0
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -74,6 +75,8 @@ hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
+chatPreview:1
+onlyShowSecureChat:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -108,8 +111,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.resolutioncontrol.settings:key.keyboard.equal
-key_key.resolutioncontrol.screenshot:key.keyboard.unknown
+key_key.dynamicfps.toggle_forced:key.keyboard.unknown
+key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
@@ -135,17 +138,17 @@ key_key.craftingtweaks.decompressStack:key.keyboard.unknown
 key_key.craftingtweaks.decompressAll:key.keyboard.unknown
 key_key.craftingtweaks.refill_last:key.keyboard.tab
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
+key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.extraalchemy.magnetism_toggle:key.keyboard.unknown
 key_key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.unknown
-key_fpsreducer.key.openGui:key.keyboard.keypad.9
-key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.prone:key.keyboard.z
 key_key.prone.toggle:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
+key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.keypad.6
 key_key.inventoryhud.togglepot:key.keyboard.unknown
@@ -154,15 +157,13 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
-key_key.jade.show_recipes:key.keyboard.keypad.3
-key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.observable.profile:key.keyboard.r
 key_key.origins.primary_active:key.keyboard.h
 key_key.origins.secondary_active:key.keyboard.j
 key_key.origins.view_origin:key.keyboard.o
 key_presencefootsteps.settings.key:key.keyboard.f10
+key_key.projectsavethepets.allowdamage:key.keyboard.left.shift
 key_key.spyglass-improvements.use:key.keyboard.c
 key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
@@ -185,6 +186,7 @@ key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown

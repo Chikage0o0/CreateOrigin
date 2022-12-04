@@ -2,6 +2,16 @@
 
 ## Please use [HMCL 3.5.223](https://github.com/huanghongxun/HMCL/releases) to install and launch the modpack
 
+## Before you Update to v4.0.0
+
+v4.0.0 base on Minecraft 1.19.2
+if you update from v3.x.x you should:
+1. Backup your world
+2. Remove all items from the drawer
+3. Release all creatures in the Pokéball
+4. Retrieve all items from the grave
+5. Back to your home
+
 **This modpack is made for Chinese players**
 
 This is an modpack that fits the original experience and provides more fun in the game based on the original version. Whether you are a retirement, redstone or adventure player, you can find a piece of heaven here.
@@ -26,15 +36,6 @@ All modules are fully Chineseized.
 2. Install a new version.
 3. Move new version all of files to older version,Overwrite when there are duplicate files, this does not affect your custom settings.
 4. Delete your new version,Start your old version and enjoy your game. 
-
-#### Related actions
-
-- **Z**  creep forward
-
-- **~** chain mining
-
-- **=** switch rendering resolution
-
 
 #### Related commands
 
@@ -80,6 +81,16 @@ For video creators you can also install the Replay module to simplify video prod
 
 ## 请下载[HMCL](https://github.com/huanghongxun/HMCL/releases)最新开发版安装并启动整合包
 
+## 在你更新v4.0.0版本之前
+
+v4.0.0 基于我的世界 1.19.2
+如果你从v3.x.x升级
+1. 备份你的世界
+2. 从抽屉中取出所有物品
+3. 将所有精灵球中生物释放
+4. 取回所有在坟墓中的物品
+5. 回到你的家
+
 这是一个贴合原版体验，并在原版的基础上提供更多游戏乐趣的整合包。无论你是养老、生电还是冒险玩家，在这里都能找到属于你的一片天地。
 
 选择合适的起源将决定你开局方式，后期可以通过量产起源球在适合的场合选择适合的起源获得最大增益。
@@ -101,17 +112,6 @@ For video creators you can also install the Replay module to simplify video prod
 2. 安装新版本。
 3. 将新版本的所有文件移到旧版本，当有重复的文件时就覆盖，这不影响你的自定义设置。
 4. 删除你的新版本，启动你的旧版本并享受你的游戏。
-
-#### 相关操作
-
-- **Z** 匍匐前进
-
-- **~** 连锁挖矿
-
-- **=** 切换渲染分辨率
-
-
-
 
 
 #### 相关指令

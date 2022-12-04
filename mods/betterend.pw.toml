@@ -1,13 +1,13 @@
 name = "BetterEnd"
-filename = "better-end-1.1.1.jar"
+filename = "better-end-2.1.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/ANsvdFr8/better-end-2.1.2.jar"
 hash-format = "sha1"
-hash = "ec44636a77d9549fc7108051fb6ac7523c0dec57"
-mode = "metadata:curseforge"
+hash = "9426a80fe2ef48a645aba4d4d2ca5dc78ebddfab"
 
 [update]
-[update.curseforge]
-file-id = 3814370
-project-id = 413596
+[update.modrinth]
+mod-id = "gc8OEnCC"
+version = "ANsvdFr8"

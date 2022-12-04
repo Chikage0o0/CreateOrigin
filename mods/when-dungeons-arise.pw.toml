@@ -1,0 +1,8 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.19-2.1.51-fabric-beta-hf1.jar"
+side = "both"
+
+[download]
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/DungeonsArise-1.19-2.1.51-fabric-beta-hf1.jar"
+hash-format = "sha1"
+hash = "5b6ca1af5ebe33c7566f8678fb9ae9d55cbf9372"

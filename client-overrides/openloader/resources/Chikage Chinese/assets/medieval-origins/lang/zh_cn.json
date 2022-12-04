@@ -380,8 +380,8 @@
   "power.medievalorigins.troll/thunderous_stride.name": "雷鸣般的步伐",
   "power.medievalorigins.troll/thunderous_stride.description": "巨魔带着目的行走。如果他们坚持足够长的时间，他们可以直接穿过任何可能阻挡他们道路的障碍物。",
 
-  "power.medievalorigins.werewolf/carnivore_werewolf.name": "食肉动物",
-  "power.medievalorigins.werewolf/carnivore_werewolf.description": "狼人像狼一样进食，即使没有变身。他们唯一能吃的食物是肉。",
+  "power.medievalorigins.werewolf/carnivore.name": "食肉动物",
+  "power.medievalorigins.werewolf/carnivore.description": "狼人像狼一样进食，即使没有变身。他们唯一能吃的食物是肉。",
 
   "power.medievalorigins.werewolf/drained.name": "月",
   "power.medievalorigins.werewolf/drained.description": "不幸的是，在夜间增加的力量确实带来了后果。在白天，你的健康和力量都会下降。",

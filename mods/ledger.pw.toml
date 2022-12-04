@@ -1,13 +1,13 @@
 name = "Ledger"
-filename = "ledger-1.2.4.jar"
+filename = "ledger-1.2.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.4/ledger-1.2.4.jar"
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar"
 hash-format = "sha1"
-hash = "55845e0ab71515e27f4c7c77524a094b6189c10e"
+hash = "22b7846c9485c0778799978b1e5b77da1763571a"
 
 [update]
 [update.modrinth]
 mod-id = "LVN9ygNV"
-version = "BSpZzH6c"
+version = "KwzHK3mh"

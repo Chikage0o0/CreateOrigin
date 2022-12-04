@@ -1,13 +1,13 @@
 name = "FallingTree"
-filename = "FallingTree-1.18.2-3.5.4.jar"
+filename = "FallingTree-1.19.2-3.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/5DSiBB1r/FallingTree-1.18.2-3.5.4.jar"
+url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/9kSv8gsK/FallingTree-1.19.2-3.10.0.jar"
 hash-format = "sha1"
-hash = "a6359b210b3d097c03ea34f587f0e1091502ede4"
+hash = "52d1a2d2eba71bb0257af18c5013b8fef9cf3961"
 
 [update]
 [update.modrinth]
 mod-id = "Fb4jn8m6"
-version = "5DSiBB1r"
+version = "9kSv8gsK"

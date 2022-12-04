@@ -1,0 +1,13 @@
+name = "Leaves Be Gone"
+filename = "LeavesBeGone-v4.0.0-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVq17PqV/versions/7n0w2F56/LeavesBeGone-v4.0.0-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "54f4331e6873897e6eb278a05880466267d0988d"
+
+[update]
+[update.modrinth]
+mod-id = "AVq17PqV"
+version = "7n0w2F56"

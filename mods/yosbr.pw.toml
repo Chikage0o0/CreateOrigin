@@ -1,6 +1,6 @@
 name = "Your Options Shall Be Respected (YOSBR)"
 filename = "yosbr-0.1.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar"

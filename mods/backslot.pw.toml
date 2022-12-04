@@ -1,13 +1,13 @@
 name = "BackSlot"
-filename = "backslot-1.2.6.jar"
+filename = "backslot-1.2.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7c9af9f2a9daec8c5bb858f7935556237211d40b"
+hash = "b9fe36f50ce742251b17da38778a399abe7503be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3686502
+file-id = 3996297
 project-id = 402739
