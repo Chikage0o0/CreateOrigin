@@ -4,8 +4,7 @@
 
 ## Before you Update to v4.0.0
 
-v4.0.0 base on Minecraft 1.19.2
-if you update from v3.x.x you should:
+v4.0.0 base on Minecraft 1.19.2,if you update from v3.x.x you should:
 1. Backup your world
 2. Remove all items from the drawer
 3. Release all creatures in the Pokéball
@@ -83,8 +82,7 @@ For video creators you can also install the Replay module to simplify video prod
 
 ## 在你更新v4.0.0版本之前
 
-v4.0.0 基于我的世界 1.19.2
-如果你从v3.x.x升级
+v4.0.0 基于我的世界 1.19.2，如果你从v3.x.x升级：
 1. 备份你的世界
 2. 从抽屉中取出所有物品
 3. 将所有精灵球中生物释放

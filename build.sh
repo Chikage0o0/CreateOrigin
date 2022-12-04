@@ -28,10 +28,7 @@ echo >&2 "Creating mrpack archive for: ${pack_name} ${pack_version}"
 # manually downloaded
 rm -f ~/.cache/packwiz/cache/import/*
 downloadLinks=(
-    "https://mediafiles.forgecdn.net/files/3646/907/ElytraBombing-Fabric-1.18.X-1.0.0.jar"
-    "https://mediafiles.forgecdn.net/files/3555/653/fabric-experiencebugfix-1.18-18.jar"
-    "https://mediafiles.forgecdn.net/files/3779/559/guard-villagers-fabric-1.18.2-1.0.14.jar"
-    "https://mediafilez.forgecdn.net/files/3963/391/inmisaddon-1.0.1-1.18.jar"
+    "https://mediafilez.forgecdn.net/files/4024/443/inmisaddon-1.0.2.jar"
 )
 for downloadLink in ${downloadLinks[@]}
 do
