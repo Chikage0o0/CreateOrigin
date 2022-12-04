@@ -9,24 +9,12 @@ file = "config/couplings.toml"
 hash = "be21b33281635226c219c0531f88c32b568ebd13273152ee8af63d29b979499e"
 
 [[files]]
-file = "config/debugify.json"
-hash = "b94b9bf679a5d05d18608139c493511420c084a4b913338305c8792c942fa2e0"
-
-[[files]]
 file = "config/forgivingvoid.toml"
 hash = "dad4975745cd8e53a6871ec3b8f6bd42f5f32c895ea67c1fcb9c5ae6d3d335ab"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "b79d65321212e9842221c97b4cd5c28b92e38e902bf563fc257956bef4ecdbd1"
-
-[[files]]
 file = "config/openloader/advanced_options.json"
 hash = "e782cb89e41100148837060951ae2d29cf1151e5f7989f886f2c4bfb1d3b1859"
-
-[[files]]
-file = "config/quickhomes.json5"
-hash = "dfa688c5dbbcb0794fb1cd720ab6b4474b41d2406b4ad8e3ed595e2e2c2ccd46"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -39,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
+hash = "0dab01471af606f39a1a447537a0df53505b9ee020cef4a488de6b62ac911bd2"
 metafile = true
 
 [[files]]
@@ -209,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+hash = "7ed22be52dd112450b1770ef41d05768a4c44fa04442ffe244dd94fe2de35038"
 metafile = true
 
 [[files]]
@@ -285,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/custom-void.pw.toml"
 hash = "4aae89dd3f5a658043b4842e57dd40549c1a5326869333917b390c386ac108c8"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "a6ca0d0a0ac72bdde9afa918b36c3bfb9f49e6153a7cce5191e8783d8b1aa6d9"
 metafile = true
 
 [[files]]
@@ -649,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "2ac2a051a9802000b6b725d54732111ad678a229bd66f135fe5b429b18e77395"
+hash = "00b46b4a721210db8f481e2ed723e9636727c3e0e8bde270cc6c74e90438257c"
 metafile = true
 
 [[files]]
@@ -848,11 +841,6 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
-file = "mods/zoomglass.pw.toml"
-hash = "ef57abce58485859e381dd609f392017af289c887aede64e9716e74a632a0027"
-metafile = true
-
-[[files]]
 file = "openloader/data/CreateOriginModify/data/chunk_loaders/functions/create_chunk_loader.mcfunction"
 hash = "16b458dfe99f4323d7c403d0effd9b4934be6481234d9429f7d2582b28404242"
 
@@ -934,11 +922,7 @@ hash = "69a41f0e791d7dc6e5d21509259e16ecbc197a7a71f60af7260083dc940cc176"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/pet.json"
-hash = "dbee43bf9fd4c6020e15a9f7e2fe54d5afd7087b05c4fec9d11c739c8cad14ff"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/pokeball.json"
-hash = "93c2c579da9db41345d33a10af87655d90fc526fc2823e7d9676ef932ba8bc6c"
+hash = "13f2f2b12d97a1d5a24fbb25f850689fe55888fd10c0744ad7d91b0ef95b70c2"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/potion_bag.json"
@@ -1098,7 +1082,7 @@ hash = "dca2f2ea90c8da09f91910d87f8103854a25e4d56145d9c67b82ce9f0bdf6c9d"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.mcmeta"
-hash = "e6c34ca66d285fa8a673c63df6079f9eddc008fa67ddca2aa03c506d91f264ea"
+hash = "2366192c913094f3ba2a9103efdfb60e81f0e0438cd73fcc3cb13a035257e1e0"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.png"
