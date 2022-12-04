@@ -966,11 +966,11 @@ hash = "fb7a25ae0aa6df9656fc024e9a9e5fcdc4c15c32299c4935d00dbc2702464b0b"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/dimension/void.json"
-hash = "8648cf2d1b52ed6acbf0e7f40d2759ea2f86d120daebfec5f7ac64b89d23f1ba"
+hash = "5b0b514e34c341fb18ab7e5a871b4d3dafdd7dcc0a9da162fb109303f867fed5"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/dimension_type/void_type.json"
-hash = "ad53eccd983b0dac398b105dc30bb2c30d969a916a1a1e28688909680d36e9a6"
+hash = "0ec6f5f65edb601eed2f6b3f07081baf684dbbb1fe1700d9ece454acd13299d1"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/portals/voidportal.json"
