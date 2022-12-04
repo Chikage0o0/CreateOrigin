@@ -1,13 +1,13 @@
 name = "BackSlotAddon"
-filename = "backslotaddon-1.0.8.jar"
+filename = "backslotaddon-1.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2681e625797e8b3cb8c30df9a716ff3f07c19257"
+hash = "d1f6c9a0f0f61137169d5d8f83adeced12affe9b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3683633
+file-id = 3951134
 project-id = 411621

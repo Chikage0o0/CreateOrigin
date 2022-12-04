@@ -1,13 +1,13 @@
 name = "Disable Custom Worlds Advice"
-filename = "DisableCustomWorldsAdvice-2.0.jar"
+filename = "DisableCustomWorldsAdvice-3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HdwRs3kc/versions/2.0/DisableCustomWorldsAdvice-2.0.jar"
+url = "https://cdn.modrinth.com/data/HdwRs3kc/versions/3.0/DisableCustomWorldsAdvice-3.0.jar"
 hash-format = "sha1"
-hash = "3fd1adc79c42da6a7592c5d1c7fa413917782d86"
+hash = "99e87f4cb9a1cd2c3f7ce635b5db73e0f03e141c"
 
 [update]
 [update.modrinth]
 mod-id = "HdwRs3kc"
-version = "XXLeEb0H"
+version = "3Zi6jtYW"

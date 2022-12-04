@@ -1,8 +1,0 @@
-name = "simpledrawers"
-filename = "simpledrawers-1.8.3-1.18.2.jar"
-side = "both"
-
-[download]
-hash-format = "sha1"
-hash = "c7209b35629ed4cce448ebd80383219fcff303a4"
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/simpledrawers-1.8.3-1.18.2.jar"

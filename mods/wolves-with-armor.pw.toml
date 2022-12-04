@@ -1,13 +1,13 @@
 name = "Wolves With Armor"
-filename = "wolves-with-armor-1.7.1-1.18.2.jar"
+filename = "wolves-with-armor-1.8.0-1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fa10087f105beed7cc34c1ae4374a35ce85a60f4"
+hash = "d6444dd0b2b4a0726b55fc356817f69f0d5a4f92"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3769925
+file-id = 3853629
 project-id = 375969

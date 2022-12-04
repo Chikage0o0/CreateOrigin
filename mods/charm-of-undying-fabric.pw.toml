@@ -1,13 +1,13 @@
 name = "Charm of Undying (Fabric)"
-filename = "trinketofundying-fabric-2.0.2-1.18.2.jar"
+filename = "charmofundying-fabric-6.0.0+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56301e4e056ad0f2c15caec951f327b3c708ae5b"
+hash = "31a9dc36bd1a775060a7db8790dd841ee6430322"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3865295
+file-id = 3927423
 project-id = 395547

@@ -1,13 +1,13 @@
 name = "Naturalist"
-filename = "naturalist-fabric-1.1.1-1.18.2.jar"
+filename = "naturalist-fabric-2.1.1-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fe2bbb80314746ef6731aaa8163b5710075447d4"
+hash = "ec4f556979e5677c0a1282f23c971555cfb39061"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3930805
+file-id = 3930808
 project-id = 627986
