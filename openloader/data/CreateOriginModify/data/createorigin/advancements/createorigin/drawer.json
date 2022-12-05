@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "simpledrawers:oak_drawer"
+            "item": "extended_drawers:single_drawer"
         },
         "title": "归纳整理",
         "description": "制造一个抽屉，将物品分类存放",
@@ -18,7 +18,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "simpledrawers:drawers"
+                        "tag": "extended_drawers:single_drawer"
                     }
                 ]
             }
