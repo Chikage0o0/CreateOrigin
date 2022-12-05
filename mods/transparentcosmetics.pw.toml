@@ -1,0 +1,7 @@
+name = "TransparentCosmetics"
+filename = "raw"
+
+[download]
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/TransparentCosmetics-1.5.0.jar"
+hash-format = "sha1"
+hash = "6486447fd6bb789ebcdf9a4fb0c462b5e1f3d344"
