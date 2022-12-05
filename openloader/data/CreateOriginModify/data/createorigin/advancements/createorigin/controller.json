@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "simpledrawers:drawer_controller"
+            "item": "extended_drawers:connector"
         },
         "title": "组建网络",
-        "description": "制造抽屉控制器，将抽屉控制器背后3x3的抽屉连成一个网络",
+        "description": "制造抽屉连接器，将抽屉连成一个网络",
         "background": "minecraft:textures/block/stripped_oak_log.png",
         "frame": "task",
         "show_toast": true,
@@ -19,7 +19,7 @@
                 "items": [
                     {
                         "items": [
-                            "simpledrawers:drawer_controller"
+                            "extended_drawers:connector"
                         ]
                     }
                 ]
