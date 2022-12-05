@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/transparentcosmetics.pw.toml"
-hash = "a49a95499fadba52590c3d33d154786ad7ee27d208839553d19123546de11ecf"
+hash = "ecd904ed1ef5fba4bcd9b6180276562e954dacb508e82df1dc074f302ea033da"
 metafile = true
 
 [[files]]
