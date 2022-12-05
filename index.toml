@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/appliedenergistics2/common.json"
-hash = "18c0dd1a8f6daa2e7f725f0a8d59366096063d420bd3b5396ff915fb371569aa"
-
-[[files]]
-file = "config/bclib/client.json"
-hash = "e5eee30f49b0aa1c08138c0a2bb06caec935870c0e40af749da9c987f91a1f3c"
-
-[[files]]
-file = "config/bclib/main.json"
-hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
-
-[[files]]
 file = "config/couplings.toml"
 hash = "be21b33281635226c219c0531f88c32b568ebd13273152ee8af63d29b979499e"
 
@@ -53,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ccafa1559f7296be0743d0971e5c81042a35d71e89c99df0c4ed1ee371f1664a"
+hash = "c087a37e3766bca4444d34d34c57a88b08f114a119fafdd2507d93440282449e"
 metafile = true
 
 [[files]]
@@ -243,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "68ab3dc40925137d87e72bfbc8382459baa79a2dfa6eb277a0fecae4a840f24d"
+hash = "f6025d268bb12ce23687888c7b96c95d5b6e73f5ef95ff88005275edcb484de0"
 metafile = true
 
 [[files]]
@@ -409,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
-metafile = true
-
-[[files]]
-file = "mods/followers-teleport-too.pw.toml"
-hash = "cd8503c0470e7b254f1ef4b1b321e3aa265271ae4a77020459287d6dd2ec2ad6"
 metafile = true
 
 [[files]]
@@ -803,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/thonkutil.pw.toml"
-hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
+hash = "4466eba391a9a0521a3c4269f7483e1887754a9afee805182a49e72db5f4996f"
 metafile = true
 
 [[files]]
@@ -915,7 +894,7 @@ hash = "22b48b616c087ea2edc8ffca4221754549fa4499fb7bbffa225b0e687c905a4c"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/drawer.json"
-hash = "c46bae0c64364f74d5b3241728f858a4a6dc96ad46e258f636afb00442636480"
+hash = "82bd67734e73594a9e598c0d4abc8c08e0c1ba01b07dcd4f5a504965b8655260"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/elytra.json"
