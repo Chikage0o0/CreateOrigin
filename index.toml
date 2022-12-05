@@ -807,6 +807,11 @@ hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
 metafile = true
 
 [[files]]
+file = "mods/transparentcosmetics.pw.toml"
+hash = "a49a95499fadba52590c3d33d154786ad7ee27d208839553d19123546de11ecf"
+metafile = true
+
+[[files]]
 file = "mods/trashslot-fabric-edition.pw.toml"
 hash = "da15ba648e0d6f9a092975d26bdeca271d9fcddb5dad2fbd38357cc3f6e1064f"
 metafile = true
