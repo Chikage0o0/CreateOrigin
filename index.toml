@@ -890,7 +890,7 @@ hash = "b8b11d1ece2c345b790a5d340504f002881b24f458e6f522d77c09673afd2cc4"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/controller.json"
-hash = "22b48b616c087ea2edc8ffca4221754549fa4499fb7bbffa225b0e687c905a4c"
+hash = "211abb15893041b9086b13923e14bd97892be9429a84405415f4b9f682f3bcda"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/drawer.json"
@@ -1078,7 +1078,7 @@ hash = "48b91d374c622157af04d5ff6ed45d7c8773a3997c74a1e851353b728c4aca12"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/origins/tags/items/meat.json"
-hash = "dca2f2ea90c8da09f91910d87f8103854a25e4d56145d9c67b82ce9f0bdf6c9d"
+hash = "5a667f0baa3144aa9a51b11c72b19fc30c75d9770cb55c4aba6d93a26a54553e"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.mcmeta"
