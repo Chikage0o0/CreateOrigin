@@ -1,13 +1,13 @@
 name = "Bosses of Mass Destruction"
-filename = "BOMD-1.4.1-1.19.jar"
+filename = "BOMD-1.4.5-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/du3UfiLL/versions/1.4.1/BOMD-1.4.1-1.19.jar"
 hash-format = "sha1"
-hash = "d8c55f652cc139678b731e29d52cf50a512a1b08"
+hash = "3f56505ea5af774e46cb3ddb597ce447c55bf020"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "du3UfiLL"
-version = "gQWRmqCk"
+[update.curseforge]
+file-id = 4136214
+project-id = 438365

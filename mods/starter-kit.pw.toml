@@ -1,13 +1,13 @@
 name = "Starter Kit"
-filename = "starterkit-fabric_1.19.2-3.9.jar"
+filename = "starterkit-fabric_1.19.2-4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/LkoWb7wY/starterkit-fabric_1.19.2-3.9.jar"
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/omJXB9H5/starterkit-fabric_1.19.2-4.0.jar"
 hash-format = "sha1"
-hash = "d33bb1dbd91bc6e2e81c75cb402a901636380997"
+hash = "261da648453eb613762169b7db6172cdfb451e7d"
 
 [update]
 [update.modrinth]
 mod-id = "6L3ydNi8"
-version = "LkoWb7wY"
+version = "omJXB9H5"
