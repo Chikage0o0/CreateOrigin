@@ -11,7 +11,7 @@
         "announce_to_chat": true,
         "hidden": false
     },
-    "parent": "createorigin:createorigin/pokeball",
+    "parent": "createorigin:createorigin/root",
     "criteria": {
         "feeding_trough": {
             "trigger": "minecraft:inventory_changed",
