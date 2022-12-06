@@ -37,12 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c087a37e3766bca4444d34d34c57a88b08f114a119fafdd2507d93440282449e"
+hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
 metafile = true
 
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "898d6c0d1e60abb621e0ae98a964f2e91ff1899967dfd21fdf7c22241af2c3e0"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
@@ -127,17 +132,17 @@ metafile = true
 
 [[files]]
 file = "mods/blossomhomes.pw.toml"
-hash = "b334acf9a76ea16a2223b709ef78ec9c861c3f7d6a153bfbd1956edd562205c6"
+hash = "c05503959f0b034ce285ca63815ed4d1cc5be28f4dfa58b55dfc08707d29a088"
 metafile = true
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
-hash = "cd63a1765da62ceb595f11723dd56903c7f999d163a0013e4553b0ca70adcfb4"
+hash = "2658389dea783084a35750e70fb0d28fd0313140f1965a12fba9604a0b47d5aa"
 metafile = true
 
 [[files]]
 file = "mods/blossomtpa.pw.toml"
-hash = "d8e7c4a9b07b1710e2a9f8fc8e7a36b7929d6962acaa7bcf7005a24b827bb10a"
+hash = "d24f6ffbfd29fb8e71e91bf228ecd2219a23ac1241fc485dcf34b7b2d4aa3553"
 metafile = true
 
 [[files]]
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "630f2a08fec8cbd13578bdd277bf664563c81ce94d1095b0a8e2a71f80819251"
+hash = "f683d5aece9a9fe63e39539b51c4e0dd66f78f7893eea5332add1441efb83be2"
 metafile = true
 
 [[files]]
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "c03658b4aba418310cdb8996521837c295e6faeb4caae3def78bfb1d115489ed"
 metafile = true
 
 [[files]]
@@ -227,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f6025d268bb12ce23687888c7b96c95d5b6e73f5ef95ff88005275edcb484de0"
+hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
 metafile = true
 
 [[files]]
@@ -337,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
+hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
 metafile = true
 
 [[files]]
@@ -358,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
 metafile = true
 
 [[files]]
@@ -697,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "a850837cc82c573f9175b4b17cb577c6aed01653795b67ab3e560795837ee158"
+hash = "0025c12618815fa7875c8978bad5ee0fddf095a02a863876526c402b81d60977"
 metafile = true
 
 [[files]]
@@ -752,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "a0ce095f6538f498b19e7238ffc452faeed0fb865891d9c58b4a797c865038f9"
+hash = "2bc9743c3786e66b5de8c237c350b6b7cd046e7845f2a44c617d92342caf7cfd"
 metafile = true
 
 [[files]]
@@ -901,7 +916,7 @@ hash = "abf58b58e0d56889cec5e2ef114498208d621c8b1fada831567d28c4dc8f297d"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/feeding_trough.json"
-hash = "13f21eed594306cd6df9f400711115f4688e52a437358dc37a963ab365066714"
+hash = "a4ebbc1092bab561bb25b2e0c0b839bc65c6ddd2cb8b6b4302017c9af9a06af8"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/killboss.json"
@@ -1101,6 +1116,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/XeKrSquarePattern.pw.toml"
 hash = "7a384de6bf472d5c4987a82efd8f76a933589b892e8687d99f6d6db41e03283a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshanimations.pw.toml"
+hash = "416825c771d3dc1a6924e321f588551d45239ebeb514ee1ddb914f7fd39e1d41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshanimationsadd.pw.toml"
+hash = "74fab6da8c303eb8dcdbb25e09e5ba152162b94522baca4524267fe04a612c49"
 metafile = true
 
 [[files]]

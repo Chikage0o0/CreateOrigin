@@ -1,0 +1,8 @@
+name = "FreshAnimations"
+filename = "FreshAnimations_v1.7_S8.zip"
+side = "client"
+
+[download]
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/FreshAnimations_v1.7_S8.zip"
+hash-format = "sha1"
+hash = "c8f5608dc67c5ee2190f80ca5b6675d1c45f3c3d"
