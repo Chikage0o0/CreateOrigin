@@ -1084,6 +1084,322 @@ file = "openloader/data/CreateOriginModify/data/createorigin/recipes/tnt_minecar
 hash = "fd1f97864debaa67b6ff7948584525cf48b5840b61fdbabddd0501adb07bafbb"
 
 [[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/compacting/tiny_tnt.json"
+hash = "dd2c1e122c7a977a0bf143b57f00399169e236a79660d2beabab8748ef2061f8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/milling/certus_quartz_dust.json"
+hash = "3859d0292f4cbd1245780cc29f036c2a5240ad79be54b3bddde2bec1014e2e9b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/milling/fluix_dust.json"
+hash = "faec7ab4d78c602b4df659dc3cde1c4463da26b0b6154e3d6365cf7e053128d6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/mixing/fluix_dust.json"
+hash = "2e34065310f42e98503e8bcc1d7bad1f279439eed7eba9dad305bde63c63972d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/mixing/quartz_fiber.json"
+hash = "2047cd2e36e4ea2d1a3c7ba0f8aa5efd7a4a5c3baa603719bf5e00f8f9851368"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/fluix_glass_cable.json"
+hash = "eba893be63eb237737bf16069e7f05e3d1e689f7674a5e230cba1739dab512cd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/fluix_smart_cable.json"
+hash = "ab96af0d79a77379e540ceadfffacac52b42670ca33065d0777af70d3054760d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/fluix_smart_dense_cable.json"
+hash = "59f07816a23a6575bd93eab08775b624d883d8fb0adaffdbcb2a0e93e1144d6d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/mixing/calculation_processor.json"
+hash = "9175b8ec83eb550bc24eca55592a6725be699bd907ca5103817384f81db429eb"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/mixing/engineering_processor.json"
+hash = "33f80d752fbd42f73708ea688822d412068c35f5cbfea4c64db53adf614be98f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/mixing/logic_processor.json"
+hash = "2abc92490e72e41050d8ffeb974006b1b786b3b16c4d80dc519a11310a224353"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/printing/printed_calculation_processor.json"
+hash = "40e66598d7cfc68eadb28f1c87b49e8dfc12b44229225bd19b7941cc90673351"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/printing/printed_engineering_processor.json"
+hash = "cac01bec4637419a4cdb66bfff80a9e009bb4fa92f7300237653174caa7c5887"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/printing/printed_logic_processor.json"
+hash = "09aaa9891f02c54925c88a7316264ce4c54ae2ad24d970aa6ff3f2f1d6bd81cb"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/sequenced_assembly/printing/printed_silicon.json"
+hash = "8272dc8429b71a3a003cd120076703fd64a7a81e6ff962711fd6f8e4190e13a7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/splashing/fluix_covered_cable.json"
+hash = "a2774cc6047371ff91abd696a01d160e1d3803eba46877878dbcd5bcee8f4f21"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/splashing/fluix_covered_dense_cable.json"
+hash = "0b136f087af3421f4fcb5cfef2158d605ada6e701d4c9230c0bc25187280bb9c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/splashing/fluix_glass_cable.json"
+hash = "8a082757ebd7c8ffd8881605224e8fe229e5494dad2f82a91b35d303c35df886"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/splashing/fluix_smart_cable.json"
+hash = "111e5e3dd0ce1e72253bc9a0d6123847ac3e1fa3f18db74f8a0efac65cc3a0a3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/splashing/fluix_smart_dense_cable.json"
+hash = "7860da598db7369bd85d3aa0173940409856e4783bebaffe13b63b15606ccb31"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/ae2/splashing/matter_ball.json"
+hash = "b3c3670dddfb1ea1735908045def1902944dc5498edbe04b356b39a3d65eb496"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/crushing/ores/nether/cincinnasite_ore.json"
+hash = "56542f7d59dc2e385188bf1b309405e69b7ad5d4c9859209e9b7c5529e0cb89e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/anchor_tree/anchor_tree_bark.json"
+hash = "f8d2852bc05e9bd5716a629b96cb60125c7355ca51ce0665d7bb0415cf8fc474"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/anchor_tree/anchor_tree_log.json"
+hash = "79277bbf84ba6f7eace4db9dbdf887016305ce27ecaf3c64f8a85d23756d6cef"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/anchor_tree/stripped_anchor_tree_bark.json"
+hash = "fd1493c03268c4744d8cd15f650599c17c197a6f5e3b548bac6c7fc9d43475f3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/anchor_tree/stripped_anchor_tree_log.json"
+hash = "71c7c6fc3abd0aec0d0a8442a6eda0bd1671770faca42c3b2c13778162cd9907"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/mushroom_fir/mushroom_fir_bark.json"
+hash = "1befa32c04504ff264fbcb909f5eec1986f68b29f3f50265e79bca16ecf1c0fb"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/mushroom_fir/mushroom_fir_log.json"
+hash = "b0d9b1f1d0dbed049471a548c8bbef85004f91228e300a6260c43d21656cf33a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/mushroom_fir/stripped_mushroom_fir_bark.json"
+hash = "b7e94a129016e78bc89eba3f1dc06230666b297d217706d449c1cc4deb2b41f7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/mushroom_fir/stripped_mushroom_fir_log.json"
+hash = "e00a23970342c223d7b8c3e22c8b9430cdef77de75ae8551bc90311b53ca0351"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/nether_sakura/nether_sakura_bark.json"
+hash = "b9dae834d3477b3e9c351ec23edba3d4429a502d97977c89de635e516e3b52b2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/nether_sakura/nether_sakura_log.json"
+hash = "21de64e837a18b22afa6bbb211bc1eac54cf5f07a8526b4b7b61c6845624102c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/nether_sakura/stripped_nether_sakura_bark.json"
+hash = "a811a1f6fc82a5492b28b38c2c052e885a7dff67ccc49747d5703027e37e84e5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/nether_sakura/stripped_nether_sakura_log.json"
+hash = "80e6a4393d3c8c131cc0b8c57b0c821e3f558b8e2966634bc69cbfa3c6c75031"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/rubeus/rubeus_bark.json"
+hash = "87ff4eb574f7cadd298c645e70848b9651aa141abcb72d201471da3e96a1da38"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/rubeus/rubeus_log.json"
+hash = "bf274a2c24bc87610b735637339fb060f0d34ad7c72b9dee65d01b32d6a5b9ed"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/rubeus/stripped_rubeus_bark.json"
+hash = "d753e80058ead42f8eb8a40192ad2e756ce2ace5bca28e4da08854f4e00228ac"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/rubeus/stripped_rubeus_log.json"
+hash = "ea7eb2cb3176443c893dfc6b2f29a1b6c3717f8b2aecb3dca3eb93d6fb8e2d77"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/stalagnate/stalagnate_bark.json"
+hash = "51c9de112ee6530cf256723ab9c023334924dca2b306d07b41c96649c613766b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/stalagnate/stalagnate_log.json"
+hash = "690c875d45b7c16b4ad93bcfba436c17de574f2926e436db65b7bd3e92f8d4ee"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/stalagnate/stripped_stalagnate_bark.json"
+hash = "d29149f976b04407fcae6b57fc49e2915cb77ee0df53d6f60b2f2bfef32a6405"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/stalagnate/stripped_stalagnate_log.json"
+hash = "ffab50bdce23c256824740d4ec5da1a4243d81d4efc8e97c57bfbb3fa209acc7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/wart/stripped_wart_bark.json"
+hash = "dce6598ed895dfc433b3524dd07723e1cc5ed4dce8aff8a10df5ab9050476fb6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/wart/stripped_wart_log.json"
+hash = "620a6cf1db8b90d9432377dd9c1f80046f65d7570fbdf83fcb467d26156e3b8e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/wart/wart_bark.json"
+hash = "9b892c0b9cb16b96496862aa57b4d8017b6bc5635eb3a01fd0172ffa4b7abcee"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/wart/wart_log.json"
+hash = "e6bfc1f81a895709c5af02b41b5f28004812fd35a19e43ba0f521ba8947817c1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/willow/stripped_willow_bark.json"
+hash = "0a3605885015f388533c11158e9e61ebfc4b5f9c6c6e94c5b22a1c7981f25b12"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/willow/stripped_willow_log.json"
+hash = "b893c529fc72811497626e867b5e29a0528e63e5ce9d0d9e4ab4927053b5a934"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/willow/willow_bark.json"
+hash = "6671ec9af0d18629f6a0b708ebd2ab372ca776a30da0c4e908debae79d453966"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/cutting/willow/willow_log.json"
+hash = "045d042aa7271905aa22faff1246529c83bbe54d2a9d7572e221271115033912"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/betternether/pressing/bone_block.json"
+hash = "607c6e53835c2f0bba32f65ca070fa7e1866a2a881a6ecb49d638dc537e9f842"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/mixing/raw_pasta.json"
+hash = "6008813415a28f3163f7508862acadf1574316552bf23043ad19523909c095f9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/sequenced_assembly/apple_pie.json"
+hash = "0b4ebdc96de7f07d752c83fb919ce28c1bd56ef3be4aae1f42e6d62a72b0e022"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/sequenced_assembly/chocolate_pie.json"
+hash = "b5575c87faeb1534d04631bee30ed96a41c075cb34ccabaea375aa0f6feec02d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/sequenced_assembly/honey_glazed_ham_block.json"
+hash = "41315a827a7e51c7e0c657d20e80488765893bf96de5a54ed08c52b714d02456"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/sequenced_assembly/shepherds_pie_block.json"
+hash = "46773c410afd4c1a1bb8359660c3c75435bddf2d918826c4c80a355100e5f64f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/sequenced_assembly/stuffed_potato.json"
+hash = "ec80955ca30bec0dcb4a73d3cfea6983535bdcd5b60acce0addc821d121988b9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/farmersdelight/sequenced_assembly/sweet_berry_cheesecake.json"
+hash = "5c37f4695f706b1edd43645f4fd03cd632308de7a00a4c80a8940a0cca9fc915"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/gofish/haunting/soul_salmon.json"
+hash = "4dc23433af74ef9ed24ecb28447631c155aafc898aa322bdae297583aff28d61"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/gofish/haunting/soul_salmon_from_cooked.json"
+hash = "7bbd83656352a4b102eeef29b9bb5b16c66ee71b7fb73656206496c4e0622836"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/deepslate.json"
+hash = "147a9899430b4c6217149575d4a5b2d2c6c5e54f7666c584bcd3cf8baadfd37f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/half_ores/asurine.json"
+hash = "4aece6ace65d06652b02c17adeb4ffde7fe2ea0e5ddc83f809f74abe334c9651"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/half_ores/crimsite.json"
+hash = "137839ac159758f61f086e7e7549588e4d54076c62b2b1848b58cb6e50d0f4f5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/half_ores/ochrum.json"
+hash = "6485bb3c5ba21dc7f0367acfd38e63b5c5cda736f32d6f8840b267443977e00e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/half_ores/veridium.json"
+hash = "b04a4693f8dd6db9ae251008da2d749dccc3adad6effe19056781e18ee53e788"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/prismarine_bricks.json"
+hash = "0befde8b2db45c14e975dd690a1e306af0f0e0d673edfcf785f8ba2f2b8dd097"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/compacting/tuff.json"
+hash = "d7d57efe0a9ca3691fba88c03b9a1bfbb721dcc656dda68480a9f430fc7233ed"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/crafting/limestone.json"
+hash = "ed782c3f291cac97421583453916473e0b5e3d60eda5d229d51e78ee0eb19e9c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/deploying/experience_bottle.json"
+hash = "621f231527c5f214c3ca787b1f32af00d8ccb788e7d67aebce6a678558f03ba8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/emptying/dripstone_block.json"
+hash = "bef41e977bcaa589785426e41588a7db2c3ec1f571499e832dc08a2393f8e9be"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/emptying/wet_sponge.json"
+hash = "346929e9b2f3e55d6b706a89af2e745dd1278791dca2195648d09fd026d73581"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/filling/dripstone_block.json"
+hash = "e6529fab57038d8277ff57faa354f8efa3a39162e559b5412002e5d7be029fb8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/haunting/enchanted_book.json"
+hash = "b93dbae823485ed9ec4bbc420bf5a14ccc6e4bd7443e2c0a99cd3fa5b84b7a9d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/mixing/diorite.json"
+hash = "7e785208873cf36ac1080a43b8d41a29586eb312e52f9d7c6a1a9a801a72c4ef"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/pressing/prismarine_shard.json"
+hash = "31ea887ccf3fada1d87a6833daaa9297e66ce333b902abd5cbc9f4e364e14342"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/sandpaper_polishing/rose_quartz.json"
+hash = "d6634d9af4b1e64e55de6a5b193fdefb17b31a3c71f63d255a0352f74216b3fb"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/sequenced_assembly/electron_tube.json"
+hash = "1d008c8d4cd846c668cfded988676660327329f74056db434d4e1efe9f00337a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/sequenced_assembly/netherrack.json"
+hash = "3c52abfbec3064b55e51d7785c073c80cf33d76edd75f7d83880f655671b9b24"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/splashing/limestone.json"
+hash = "e3a385cd565bd4349c180479a069a7802896c4f2509990d5ab822dedfebe6038"
+
+[[files]]
 file = "openloader/data/CreateOriginModify/data/minecraft/tags/functions/load.json"
 hash = "d829e7a1f454c82a77e57c81e5db67fd36ced7e1169d8885e7589f1967477846"
 
@@ -1102,11 +1418,6 @@ hash = "2366192c913094f3ba2a9103efdfb60e81f0e0438cd73fcc3cb13a035257e1e0"
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.png"
 hash = "cad83a53874b4cbe1816e7c6feb71eab4426c85295be89b139c6e174e91f130e"
-
-[[files]]
-file = "openloader/data/CreatePlus-datapack.pw.toml"
-hash = "fd87fbeaf95c630ff944404bd078dd23044ba065139188e295f3569787efa08a"
-metafile = true
 
 [[files]]
 file = "openloader/resources/XeKr+redstone+display.pw.toml"
