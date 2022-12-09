@@ -1,13 +1,13 @@
 name = "InmisAddon"
-filename = "inmisaddon-1.0.2.jar"
+filename = "inmisaddon-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8efb57d6bc5f94517b1e7f87c1ac58c35b3fb49a"
+hash = "2ed9a60abb61cc944640843d3b45269a64e3a345"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4024443
+file-id = 4139885
 project-id = 666672
