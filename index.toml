@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "37031b97299b444d87cebb4c40091fca6130cc1ffd5d5eac7bd56ff1406cfa10"
+hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
 metafile = true
 
 [[files]]
@@ -346,21 +346,6 @@ hash = "0e47b1328fabc6872c409910a090ec24051381f23e289efd6d0507d63013adbc"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "c607c7f81a931c158807ce6625af6b3d6c2c2d8f13f0fd5d95aa8494e4b4d4d0"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "34937c108a74455347f53276aedc8a670dac3c430ef23392487a75868a6e6091"
 metafile = true
@@ -412,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4d7ecd93d92bab7af57de8b71aa52676dc93df2b92991702af582b026f256448"
+hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
 
 [[files]]
@@ -472,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/inmisaddon.pw.toml"
-hash = "68aae324d7a920d9bb76a146ad50673c86aa4b60373b9d31f446a4a05b47912d"
+hash = "de1c6321991e538bae09a89a3e890b4e1117d075c8b16f3766e22af42044522e"
 metafile = true
 
 [[files]]
@@ -482,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "ea6db77eedf358ad059f0d57a9eff50d6c7719e4267a836c08e247b08a9d43fc"
+hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
 metafile = true
 
 [[files]]
@@ -492,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
@@ -552,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
@@ -562,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "2a53a57537b1e0cd973a4147ef80610a90533b788148d96f967335c43558104f"
+hash = "056d867e226a65d47a019541865ca85a2123979c042faa6f63f9d4d5efa8799b"
 metafile = true
 
 [[files]]
@@ -612,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -726,6 +711,21 @@ hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "8475c32e2c1bbee5dd0b21e67ef7968499e2c5d57d0864591d8f8f3c9cc31e83"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "2bc9743c3786e66b5de8c237c350b6b7cd046e7845f2a44c617d92342caf7cfd"
+hash = "6d59181ee1d152519a201bb34b0215648ca17807a6764b12518f4ae3ece9a765"
 metafile = true
 
 [[files]]

@@ -29,6 +29,7 @@ echo >&2 "Creating mrpack archive for: ${pack_name} ${pack_version}"
 rm -f ~/.cache/packwiz/cache/import/*
 downloadLinks=(
     "https://mediafilez.forgecdn.net/files/4139/885/inmisaddon-1.0.3.jar"
+    "https://mediafilez.forgecdn.net/files/3963/321/RoughlyEnoughTrades-1.19-1.0.jar"
 )
 for downloadLink in ${downloadLinks[@]}
 do
