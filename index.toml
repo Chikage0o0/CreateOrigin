@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/inmisaddon.pw.toml"
-hash = "de1c6321991e538bae09a89a3e890b4e1117d075c8b16f3766e22af42044522e"
+hash = "2f5970bc9dbd6e1ffea0762b6fe7b33d113c08666c180e65b40be93977968181"
 metafile = true
 
 [[files]]

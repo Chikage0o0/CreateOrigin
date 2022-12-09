@@ -1,13 +1,13 @@
 name = "InmisAddon"
 filename = "inmisaddon-1.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/c4aa1Mqq/versions/QaTVb4Cq/inmisaddon-1.0.3.jar"
 hash-format = "sha1"
 hash = "2ed9a60abb61cc944640843d3b45269a64e3a345"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4139885
-project-id = 666672
+[update.modrinth]
+mod-id = "c4aa1Mqq"
+version = "QaTVb4Cq"
