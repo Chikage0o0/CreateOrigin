@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "c:gold_plates"
+	},
+	"result": {
+		"item": "createaddition:gold_wire",
+		"count": 2
+	}
+}

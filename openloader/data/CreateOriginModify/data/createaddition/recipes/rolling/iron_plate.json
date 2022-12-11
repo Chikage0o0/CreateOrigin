@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "c:iron_plates"
+	},
+	"result": {
+		"item": "createaddition:iron_wire",
+		"count": 2
+	}
+}

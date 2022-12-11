@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "c:brass_ingots"
+	},
+	"result": {
+		"item": "createaddition:brass_rod",
+		"count": 2
+	}
+}

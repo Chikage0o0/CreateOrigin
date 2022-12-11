@@ -2,7 +2,19 @@
   "pack": {
    "pack_format": 10,
    "description": "CreateOrigin的数据包"
- }
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "createaddition",
+        "path": "recipes"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipes/create/filling/chocolate_pie"
+      }
+    ]
+  }
 }
 
 
