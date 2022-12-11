@@ -1,13 +1,13 @@
 name = "Syncmatica"
-filename = "syncmatica-1.19.1-0.3.5.jar"
+filename = "syncmatica-1.18.2-0.3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bfneejKo/versions/0.3.5/syncmatica-1.19.1-0.3.5.jar"
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/puXZgSxL/syncmatica-1.18.2-0.3.6.jar"
 hash-format = "sha1"
-hash = "cb6e7369f98d12cd97c42990d32d0016c12c1066"
+hash = "509253f0aae91851692c7b89540ac32b0e6f490d"
 
 [update]
 [update.modrinth]
 mod-id = "bfneejKo"
-version = "Hd3m7tpx"
+version = "puXZgSxL"
