@@ -1,13 +1,13 @@
 {
-    "type": "create:pressing",
-    "ingredients": [
-      {
-        "tag": "c:gems/prismarine"
-      }
-    ],
-    "results": [
-      {
-        "item": "minecraft:prismarine_shard"
-      }
-    ]
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:prismarine_shard"
+    }
+  ]
 }
