@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:dark_oak_trapdoor"
+    },
+    "_": {
+      "item": "minecraft:dark_oak_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "item": "farmersdelight:dark_oak_cabinet"
+  }
+}
