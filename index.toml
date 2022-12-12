@@ -586,11 +586,6 @@ hash = "2f5745bd7d8c66fdb305f71292fa64f54b5d0aad35f156e4fbc101c6643cbb05"
 metafile = true
 
 [[files]]
-file = "mods/medieval-origins.pw.toml"
-hash = "c81cd4187a550cf6de2f677498d01e782f33a074dc5c9dbb9c10427cf01a1a70"
-metafile = true
-
-[[files]]
 file = "mods/merequester.pw.toml"
 hash = "4426ee463eb7708c9c19cce376b0c0eca86a08b8551336e3d6185cdc34c813e1"
 metafile = true
@@ -798,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/thonkutil.pw.toml"
 hash = "4466eba391a9a0521a3c4269f7483e1887754a9afee805182a49e72db5f4996f"
+metafile = true
+
+[[files]]
+file = "mods/touhou-origins.pw.toml"
+hash = "6f2e0829b974d2729365485623b9bf4290a2809dc66c610bfae85fe5a934b620"
 metafile = true
 
 [[files]]
@@ -1632,8 +1632,1168 @@ file = "openloader/data/CreateOriginModify/data/createplus/recipes/vanilla/splas
 hash = "e3a385cd565bd4349c180479a069a7802896c4f2509990d5ab822dedfebe6038"
 
 [[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/acacia_cabinet.json"
+hash = "6440dbe8d493f4ae7b47dfb047a292858acb3f95d121148b2a706385e6648711"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/apple_pie.json"
+hash = "51ed54a98e0e2cef046ee66e92a164a4386be298e3de3c4e8ec9b749afcaa906"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/apple_pie_from_slices.json"
+hash = "8d79d68a0c0547996b9ffc0e004c8b7bfe0dfd557769a0b0ee0f10c068150003"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/bacon_and_eggs.json"
+hash = "f9f18ecf1e4b16906308afe6d8050efda04b6fc968475576c8b6a35d7bed7a57"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/bacon_sandwich.json"
+hash = "6e05aeba547361dfc8f95e99e25409ff59529c60333f2a7be35d03aab3ecc556"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/barbecue_stick.json"
+hash = "9ecc0dbd936a0aa87b785cefdeed22c96ba32d3e4a87c64a9d74d8face0633bd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/basket.json"
+hash = "ae932f5a2e3760bd49ab4664cc6454c690a04f380105e9e31736b3dc7b6fe233"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/beef_patty.json"
+hash = "a2110ee7cd9ae69e4bb145e0cbe37a49db928a73e5228488f001549c724c913b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/beef_patty_from_campfire_cooking.json"
+hash = "802a9808536fd4530fa633b5e65b932bdcf617aba30287923214a0bf5f16f746"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/beef_patty_from_smoking.json"
+hash = "8626f881c587f5211dfe73ee7236d9f6041a059201dd2d81ca82e0f697de940e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/beetroot_crate.json"
+hash = "b06124ca6a91416211f3ef35aca80ff6bb7f7f2f59eca7bd816832fe7b6f819c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/beetroot_from_crate.json"
+hash = "c2d041225b37a5e0b419f75b9993fcccc17a3ec903a3952bb6a25d69ceb77ab9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/birch_cabinet.json"
+hash = "b65b6ec668d69c488645ac6ec3f46b8d5ace7a6899e1b567987cd456b45c48c5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/black_canvas_sign.json"
+hash = "b3d899289ffb8bb3c3b5ba4c1cc0ad63814859dd7fa570c043e61c1d1dd84b37"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/blue_canvas_sign.json"
+hash = "8459acd2a9be85ff2157f48fa8d3f11b99d3dff4c76f7b6f71a0bd3b9e6c48b8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/book_from_canvas.json"
+hash = "ba05cc549c107530d04b1b8b96252ddb9a32ad98d3c9ba0005dc2f3435b49484"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/bread_from_smelting.json"
+hash = "fc10db6d33e08db05b4780a0bd2ee2002588de1341db0bdf209998d2b84d4278"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/bread_from_smoking.json"
+hash = "ce9b9bce1dde9ff8795f14caa986c822e240bdb2fd8b0dd3035efda1406d6a88"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/brown_canvas_sign.json"
+hash = "46f81b5321bd20abb0691c0b440e4687451b9b0a266379de2bfdecf8dc3ecadd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cabbage.json"
+hash = "2fac0d4d6558a388087ee98771423f8b98910042cf334b911ca7db7ef8036d2b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cabbage_crate.json"
+hash = "7b4574af4a99111b9c65a024f78ad7e37ecb6d0769630a74740b83bc8d268a03"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cabbage_from_leaves.json"
+hash = "8e6281386e1a927dbab38deb001c9feeb5290c1d60bd3afd885327b911177d43"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cake_from_milk_bottle.json"
+hash = "79b3b8ac7a233945c6059ac48f8c88502c5dd5843db74f9c9bed3291a0fccda7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cake_from_slices.json"
+hash = "111e5f85a836d29a9611d37fd4a4cc605e55abcfa9060eb2571f19a2cbd183f2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/canvas.json"
+hash = "8f4d3593c7eff161b6120c538a8137af6ba9e9e360ef7aaf75f3fc9b8295f501"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/canvas_from_canvas_rug.json"
+hash = "819c711038c15e9958d18735bdd769155a7d62965bb030ab684f75711609e684"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/canvas_rug.json"
+hash = "8be8c63fb21b32c36823b61b38ff86f5c4299dab020c5bcbf6496199e40ceb62"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/canvas_sign.json"
+hash = "6477ccc4ea8dbf6b8af506f6432918f94764959d4d4e8f77f003f68be6c353d4"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/carrot_crate.json"
+hash = "de18a7d1f7667b86b0e338c06bf86334b1eb6b51d2b2be56a8b66cdc2fd3bfb2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/carrot_from_crate.json"
+hash = "d3908b90a73a1cb1e6e399dbf44c97864de2286ce94b14aea19f5688726619dd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/chicken_sandwich.json"
+hash = "12778a86f3d3ef8368ef8e4cff61a7bb52f47bbbe0cd5975f481dc25c99cf8f1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/chocolate_pie.json"
+hash = "c1e2126c8bd746fc5c4a534415ff17753a31bc226616be29c58c7698c9464d81"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/chocolate_pie_from_slices.json"
+hash = "ccecaa6399447a43887859185b247e49a68878a573fca8ef9b6f0b3e405c7f15"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cod_roll.json"
+hash = "8def8b511257e2d48a34bb8141761599ca79efeb0602e4eb0339a64af529508d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_bacon.json"
+hash = "5412aecaa6278c30a59531ce54cb07bd77bc5350f4b648d522694ececd5301cd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_bacon_from_campfire_cooking.json"
+hash = "b1f11c4c94aa77ea5c629182fcfb40ed529afe67e719e0d9d3b11f5f6b50b1e2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_bacon_from_smoking.json"
+hash = "55b8a63153e9aeeb0217ff4f11a115bbcfdaebefd898d4499b7b9f84fab9e274"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_chicken_cuts.json"
+hash = "501e95ca1a46e6b5181a8036028b1afe75a2551234e7f568d71a64e43aaf1de9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_chicken_cuts_from_campfire_cooking.json"
+hash = "5b24511f68be7c5097cbbdd26b8665c3dffd1b7df4ac6fc6b32e8456ded074c6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_chicken_cuts_from_smoking.json"
+hash = "7faf8f78e298f901515052a26e69b9757cb49fd905a526815bf585f76ff3b1a9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_cod_slice.json"
+hash = "c013b8d09512c6f33dec8b4e27ba8791c99af0f0490e9d99ba78aa95e052c171"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_cod_slice_from_campfire_cooking.json"
+hash = "17b86d7553cc4657ccf63b14cce03880e2144d2b38a6b4b32c0d3e8f9fd87087"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_cod_slice_from_smoking.json"
+hash = "867b004cafe2d0ef31904124c3de7b6fb46d55f48d568525a705aefee8d173d6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_mutton_chops.json"
+hash = "78fee9d1760a3c6ffb6dd1f8117e8335417f0f6702cb41686daa92300314dc82"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_mutton_chops_from_campfire_cooking.json"
+hash = "b65c93941f1ab684fe1656e4b25f2339783b8ce897a135a4f643893c37af2b14"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_mutton_chops_from_smoking.json"
+hash = "2c83039a4b1ad35bed6d7b29258bceb380bf8bc591272080804caf8721865a6d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_salmon_slice.json"
+hash = "772d8c33ae1d92431cc4b7121b6fa0fa455c15c8f9fe72f270fc9fdeb7c8b1b6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_salmon_slice_from_campfire_cooking.json"
+hash = "371f60dd5ce65e54018a5023e263638bc40f044d7332453103b8e39ca2ccd3b3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooked_salmon_slice_from_smoking.json"
+hash = "338b7665b5bdaf8a6b0ca75cef719133663418748677619d1fb974ca4c524bcb"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/apple_cider.json"
+hash = "b25d0d8f072c6f1083770355e1588151b6b11584893bdbaa9ba90128c977910f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/baked_cod_stew.json"
+hash = "c1201b34435f0515a2a70250e7a8a5a04e44dde6838bec0b3686d65e4577dc1e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/beef_stew.json"
+hash = "fa6cfd31cbb4edc4dcedb1acb965c7a8dbe0f85d4f2dea3e6b4d8959915b8c4f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/beetroot_soup.json"
+hash = "d9069ba8620fe6f9d9265f4786b5bb4ae9b81f552d4b487fcd63b3297c95ab92"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/bone_broth.json"
+hash = "d201c96732dedd07447210b80413b37b3425361ea03c4541548f621eaa185928"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/cabbage_rolls.json"
+hash = "d47d44e6c1f280c65a3b2d5ba64d8e984db44149c88584c813bdc25df55678b9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/chicken_soup.json"
+hash = "1ffe3f5167e774a91591327a35356b700bd10f67c2a465d1b87506c6e49d3a1b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/cooked_rice.json"
+hash = "313dca9019936b0bfbaf8d5bceff46ec89238465efcaa5f4ff0d9ef7019f6e37"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/dog_food.json"
+hash = "0d4c60e11a6d6b20333670e2c780933d1aca45d14f5caa72263e7ab22d5a3351"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/dumplings.json"
+hash = "f4ef73dc2583d31820ddb7104cf000bb94bed2c92d672f6ba97f0312f84a95a2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/fish_stew.json"
+hash = "90cef90713139975dba1d66e1ff2893ce46e5719d71b6eed6d270feda9111856"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/fried_rice.json"
+hash = "40e362dcc9c110e4cd4683ec3d6670e10687763ec029f8b8f14884933245c1f1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/glow_berry_custard.json"
+hash = "64948a40e127850f3eed51e8786c0990051bbee9431f2721d3a2e3d0b3c2265f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/hot_cocoa.json"
+hash = "b6539242633869d3fc91eadcb039d6e7545a9daadfd4abc95a2abfa2a5f8ddde"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/mushroom_rice.json"
+hash = "96d6873ab1a8f7f61ab9e66741ac9b26fd64efd867f8d2ab1a8fa3eecffb3f8e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/mushroom_stew.json"
+hash = "549c73398f2aa799665a90aa75a939fe13796e1b465fd9b17ccdb0e696d04288"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/noodle_soup.json"
+hash = "3d56c2a791d9f179b3d2d13b8813be2169f9ba2799db10340aa9be3102e72322"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/pasta_with_meatballs.json"
+hash = "6245a56783e937370693a4325f23fa335d877549ae4c4529d5c2f03bd5e879e6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/pasta_with_mutton_chop.json"
+hash = "4984dfa38c2348a8f2b7fde2198f522a0a2308ed56aae03a521c95db5a89fd69"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/pumpkin_soup.json"
+hash = "513f4716bddbe21b7361ecc22f304eeee42349c6239ea78672f158d64191ec0d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/rabbit_stew.json"
+hash = "864171a9fb13cf218824b303b588826d488953fdb6d8eefbf977cd57bfb577b9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/ratatouille.json"
+hash = "1ab7ce69ce9b0f56f8f892251c39738faa83c2b2fa6b302dbdede5aa151f6d6a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/squid_ink_pasta.json"
+hash = "20f6fcab9278ade2c0b8128b83f90f518a138cf5d263249c542b0248f767e0b0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/stuffed_pumpkin_block.json"
+hash = "027e0b728a7104f969c06f02766d4df614d127a4ede968d5763480291cfa5156"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/tomato_sauce.json"
+hash = "1a7adf5d12a1079f3f8e064f0f9bf1405a1a91e2f0e7eb45271192ddf965fea8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/vegetable_noodles.json"
+hash = "36eb5d44bdcf3537f549b9fc5d1dcd018958a9cc87f92cd57dd77ad7e2484d68"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking/vegetable_soup.json"
+hash = "9399aac24eab05b76e1bd98c971aed5aee2e30f90f64bd01d9c538b5c93aaee9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cooking_pot.json"
+hash = "fedca2612ee1b67886bb41efc9da528a9e8ffc8a812eae8ac579f42a1c8193c4"
+
+[[files]]
 file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/filling/chocolate_pie.json"
 hash = "dc2cdc92a332d8d3548d2ee20377f8df85f6d904979a0ea42c42a97302e80063"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/rice_panicle.json"
+hash = "cbe83cb0d647b23570e6ecddfd108b12b5c6a274c931d52cc5153209bb715a19"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_beetroots.json"
+hash = "c70b60d7f8a7253350f9182f28e41aa507b979e605b5d385ca1149d3f3fbc702"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_cabbages.json"
+hash = "a98a642219b1fba684f1ec7fcf84a7091cefcd1f25aa27c48c1dec5237b9b07a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_carrots.json"
+hash = "46dfe2fc8d0f5a30366e7415902b338a61bb8a80cd67ed81f11a77ebc6468130"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_onions.json"
+hash = "ad243b69fdc1d207bbc3f12503674105aac061fdd9defb7fbf35101403bb60a5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_potatoes.json"
+hash = "a0879cf82b07be7fce86b01719a61fc5c35453b2468060f801c57de767d7a02b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_rice.json"
+hash = "111504f3bd866ae85a0130fd28b35e8e84551e1e1890bb465909fd87a655069c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/milling/wild_tomatoes.json"
+hash = "c67fe255c987a307c28879640391f9e2dc9f0c7d98dcdb9a6afbc41076d40ed3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/mixing/cabbage_slice_from_mixing.json"
+hash = "bf412b6c657af7a04dac4671cc5bd9cf93b34cb8bedb17f1b108757ea66cec73"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/mixing/pie_crust_from_mixing.json"
+hash = "5769c90a4a0bad82ff64cff803cd1e3c2034428bede59498547465ad5e246225"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/mixing/tomato_sauce_from_mixing.json"
+hash = "fff08fa1fa9a6d83c866f585b9d1de07b5b7f6ff1f9cb69213da7d10c593be0b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/crimson_cabinet.json"
+hash = "773402380d859e95de99cbba265ee6c252464bcafa7b942db72a9bb6f17b2305"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/acacia_door.json"
+hash = "9b33f3ea3340e069c347d351434d4aa9a238e0cb85b3ef2d0242539aa2b22db8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/acacia_log.json"
+hash = "628406825f29a27c5ad52314fe2de014c6c387f1a9f6f7d7f02e92d64ab09f66"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/acacia_sign.json"
+hash = "e2405e58a44b290fa9e24998569b1b49c84216178408ffa9b13a1387d06be1d3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/acacia_trapdoor.json"
+hash = "0bb241ab8334fe012634b6889ef1d285f5f357eaf652bbd3090cebf84c4747e9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/acacia_wood.json"
+hash = "b584b345b003b1bd10557d684a1b94a1354bb3bb0cbb29ff708f32836c34ef53"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/allium.json"
+hash = "4a6ac1f5ffd44a4bfb4ad2ab2a93ab12f2e5c97fb2745b97a1783ffcba4d914c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/amethyst_block.json"
+hash = "93a0cb4069ddc1e429c72cb9d6686ff9c0ca3556f0bf85ec9bc348bacdf28394"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/apple_pie.json"
+hash = "ca4933d9dfd130f5c94459104e13bcf8f74f96058d0e58dd5835a3c38d65eb35"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/azure_bluet.json"
+hash = "ee011084dd160b78a319805f46bcaecde24e170069eb541bf40d7034ec62ac64"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/beef.json"
+hash = "411b87fb062901a946d1981cf37b97b8058272b522f40cce24e18a94bd0bda65"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/birch_door.json"
+hash = "6e129f7194f70051d666265cdf0299f9fbf4754a3c8be3597a50ef06b0ad7436"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/birch_log.json"
+hash = "3f6f648e502762d7046f5f434be9fbb680d63d42c69ad9fb2ed34f688c338091"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/birch_sign.json"
+hash = "ba56ff85a0f5311b8decf2ae845c3295ffaa529d7e81be5f4db3cc8d15f68019"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/birch_trapdoor.json"
+hash = "de74e538878ab5eec1764ff1736176246565cd50629148c026a8438b76ac0e1c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/birch_wood.json"
+hash = "53269cfb282576314a9b666eb52cfdd850e7b4c978f6031d158a7916afb68fd7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/blue_orchid.json"
+hash = "80b0092ff372c93acbd6465a13f9c50626fa3c15c9ce6b05877cb0d6f4c8974c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/bricks.json"
+hash = "e50dae6a42954a7b55958aa823dd1bd6548e7d0a2327fcafb8c1afeec913599b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/brown_mushroom_colony.json"
+hash = "d2ca5391e64ad67a3aa0db82c22855b04347ff74784a62f27528af024f01a41e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cabbage.json"
+hash = "c02d6bf3a0063c0f1d247ae6846273062ee8b6e37e070e6a59a964476cfe1ebe"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cake.json"
+hash = "5c2287a8be473d9d67232dcf53b8d19249de91c5c00df310fe9ef05c389e178b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/chicken.json"
+hash = "ffbec6d6d58321ee5691d82d9a4d8b5dee8046942156a3fba75c21a1bd825145"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/chocolate_pie.json"
+hash = "6ec8872db710ec186c1cde4a51d456e60966dfa6aa18e688f09cff91ab0fe318"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/clay.json"
+hash = "570c9619f7983937767d92c5a3cb8861aed1f65da00afe34b20909db6160afa1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cod.json"
+hash = "ae1a9adc9f513fe458572bd4c7485a837424588c55813b9fe722c42b8beb3479"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cooked_chicken.json"
+hash = "0e84baa02f353245cac5b309c0fe8daf5b79a7e2871bafbaf189ff9044a6c5ec"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cooked_cod.json"
+hash = "848a9d014a4a6e291cecb1d451f2726d4b9f67292dbd8764fc73dc9c8b88203f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cooked_mutton.json"
+hash = "4eddd143d114fecc0de5afffe467f53ca2a45ef514d0cc84df5e0f258d3f1e45"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cooked_salmon.json"
+hash = "f217e3c48bee93ad57109adefc28231e2a68b294f72bb933e940589f106f0cf6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/cornflower.json"
+hash = "692b9149116e9d74f8bb2dc97bffb08c41d59981dbbe209d08613f44245072b5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/crimson_door.json"
+hash = "a26580fdeaa025fff30ffd2424f396fea7af76725ee317fc6975ee05a51f11d0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/crimson_hyphae.json"
+hash = "a115ef5eb2711880e04ef6f1a216a9afb9a24490c461563deb6c89793843e81c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/crimson_sign.json"
+hash = "865514fe81bc3792b41f6600488f5e0e6448d0fd18c4945f77db0ff5db0ca3ea"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/crimson_stem.json"
+hash = "1e181a19c5a4fb60a5f0a449ac32c6e6ee03a1aa6dfdc2dac5ef31c54c6233c7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/crimson_trapdoor.json"
+hash = "da8a095711be1f5308e61b55c6f2bf7a9ee0645b6dd7e67bbb42e268faf17436"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/dandelion.json"
+hash = "664be769f80530d57b5280986aa947e1581ea871f70482b64b2040cc6a4813b0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/dark_oak_door.json"
+hash = "41b33717c635ba7c8444408d421aad80088a75b46f732f5a6c7fee0fbb859c79"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/dark_oak_log.json"
+hash = "12e19c3cfa4f016c5bd42d97db142370dd55ad03de569fcae1be461c45ff240f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/dark_oak_sign.json"
+hash = "0f12bdca91062b32db6a2d80102545f52aed2de1df823a783f9ff23ff40fdf6e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/dark_oak_trapdoor.json"
+hash = "d4b70b7a08f8b156cd17e1e9141bec0fc45b072230c5844ffb5d88d59e7d21fd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/dark_oak_wood.json"
+hash = "5dd8162765cacd60dd0fe18b84996be58cc425abf6b7b1518ec8ef5c8a045355"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/deepslate.json"
+hash = "6e72e6b9d1513c6b92e4f591b922fea6f635fb203c2367da452503285b629321"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/gravel.json"
+hash = "5bd78dbce75f8d06b9904a96a450a2d6b0d1a4a67977d1ecaef22c9bef67b932"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/ham.json"
+hash = "d996fc8765daacab02dab167201d1164b03e559a5b890123d8ff0fbbaebcd686"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/ink_sac.json"
+hash = "87682f052fc502a4eb12aa4901f1163d199bf913aa08c354e270cd72fbe696ce"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/jungle_door.json"
+hash = "3056039d6f5d989855911a6b8143ed5f228264f8a6e5d1cd6630199959d4d3a2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/jungle_log.json"
+hash = "54623390c499a2b0b3abbce0e88a630c51673de1402aa5c51c322bf76bea9658"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/jungle_sign.json"
+hash = "efa69b116f7b75e5ba7c452f67db2355168f56ba5f95e1b974246a16383dd80a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/jungle_trapdoor.json"
+hash = "054250552a37dd7cf9dc54fae75620b5e06cdff3534d7e97b501cef020565948"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/jungle_wood.json"
+hash = "28230b0dd810dbf82e2430d6359d15180641f1be44037456ffa5e286ef33a30a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/kelp_roll.json"
+hash = "0bf47ee5b3317d1db7d4e30e35652cfa026ecff2bec55b7c4166fd4a170858fe"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/leather_boots.json"
+hash = "19cb346ce1c0635a2e8a23f20928886fe890739d51b18d8afb749eaedeb3826e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/leather_chestplate.json"
+hash = "28c69ac6d2dd53d8cd144bd0ee6aecb3c689342d5881ae5bac6819b447d425c3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/leather_helmet.json"
+hash = "ec05435f492880e703aee219924142836115fde97bc1c6503d77d0d5f0007b40"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/leather_horse_armor.json"
+hash = "d19160463bc12991372fd542ce934d0a9c257da593500eaba56be0c220a1a30b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/leather_leggings.json"
+hash = "8e015f17819c5a1e1c48e20d0e6c4b811487cbdc14f0875f87c117a0a9593bfd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/lily_of_the_valley.json"
+hash = "bf9c5847410aecbee1ebca4b8e3994d9c96a294263ed8f740baafce7b77090ab"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/mangrove_door.json"
+hash = "136aa58325b0221219f615a00a580a12b540fb032ef5d8ef089909a53f9fb8ba"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/mangrove_log.json"
+hash = "f08752d4aa9fd3244263d15809b3257285b66a517165b327484626701e97dcd7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/mangrove_sign.json"
+hash = "86360b6e00c545c047a93f64e6e48b4fc167e37054af5569dbcea5f063689183"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/mangrove_trapdoor.json"
+hash = "1cbd89401753dddf072f5cc2e21d8714e56c22d2ef50cea064f470ee1e16efd1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/mangrove_wood.json"
+hash = "b40440293b3eed79de1db8aa9159aaf0e0e9d926d5737842bb958bc43142240e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/melon.json"
+hash = "97d132ba01375df71f195693a0cefcd3a0838666abc4fc262be84ef20dbb7840"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/mutton.json"
+hash = "9dab7a323ad6944905177e48def73b1d69382df3fe471b303b788a8ebc6aed53"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/nether_bricks.json"
+hash = "3f62cbdb71dadf27e47e027ace3e4b2c34b377b82f5df3ac03df185ef522832e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/oak_door.json"
+hash = "30b2d25ace9e46b388eee3712e94e21458fa84675d08ba9bcb6d691496123ff1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/oak_log.json"
+hash = "501bc04814d56636ecefbc26d203bc6ccd1a38e0283de9ab70afc8d32bd1942f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/oak_sign.json"
+hash = "b9e3ae83cfa6ffb7bb2a3638b5fce4f367821ea61edceed00a099d8506218b0c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/oak_trapdoor.json"
+hash = "37c49af22683fc4d5145213d24dcd7156c8d2e2267bedf17375536fa4e8ad2ab"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/oak_wood.json"
+hash = "689a7e22f558285ffd14143481d4716c2955eafc722a18dd7ffdfdbf7af28e8a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/orange_tulip.json"
+hash = "090ac9e020c823a90ad100b2ed2df94ac7bf3434e3753721bce01a78d48fe103"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/oxeye_daisy.json"
+hash = "1cbee25547fdde2947523be9e161c3ea0e99cdb25affe3f6238f162b3bc12eb5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/pink_tulip.json"
+hash = "24282968aa8a58c0bae3db71e21f488496390c08d72a7cc7836eaf82b91cd571"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/poppy.json"
+hash = "beb3b8cfbf63290e1c653cc39c84a5a25b9b83d25d12899417321936822aa362"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/porkchop.json"
+hash = "ddf3bc84910aba99e551c40ab100c28dbc4f987cf83d6c0150f26009ab19ac7a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/pumpkin.json"
+hash = "2d9973c504bae6ebb3469b9beed75943fce5dada4119089347b6f5600df0a4a5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/quartz_block.json"
+hash = "54f4c6dfe3e3aafca6d0dcbc618cd11c1e3589c80848e8a34d6cb694867d1d5d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/red_mushroom_colony.json"
+hash = "a1b0ba95afa4b5b3367dfbdea39750dcd7fac90402ba8cf0116f700d481bcb6d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/red_tulip.json"
+hash = "b2315a63ff79147d9b0d7d1194f9e99a590da9507dd32ce32997c094bbefa906"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/rice_panicle.json"
+hash = "04c50a4655c4e9a40e415e491adb930eff1d299206d9a0d2af02614e58a9ec7d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/saddle.json"
+hash = "b45fad9436250a351aebc2fa184962ea2cd3b29fe060fe7d0bb57683a0e6505c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/salmon.json"
+hash = "fb9f745d8f9055844dd12d67dff596ce2e53ca21748e3ae05cbeba8afe6d151f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/smoked_ham.json"
+hash = "84a810e1ffd73429b1ef49465d52ca47206d87e4964778e2ed5cd236fc5f93de"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/spruce_door.json"
+hash = "f9eeb859051139dbb4cf7f32b134081e5a711ca0c46b266173df79b49425d872"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/spruce_log.json"
+hash = "b45c9ccffe91ba3e090e657b88a1e72ea0f651e2a895f249bbfe9ad48a48abbb"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/spruce_sign.json"
+hash = "88fae675665ec9b99711a2dfcf206f8297bbf9796537379daa44857d7d3dcf57"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/spruce_trapdoor.json"
+hash = "9317845da1b954065ccc9c3a2c86e84fc136e064cd4247dc5d3f4ec63973c78c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/spruce_wood.json"
+hash = "2aa1bc0f575418beafe49863cff6a0af991dbe18bf4ffa5dc99f280896910171"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/stone.json"
+hash = "d328f6dfd22a96ce02409b7358878efd0b99d896543bf7941ce85b927ffdd5e3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/sweet_berry_cheesecake.json"
+hash = "a210f03452b794c5589696ae6ea9b17f8808ffc6ae59bbd46955af24d28cf06e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/tag_dough.json"
+hash = "01e129099574039009721f80ff5cb388dfbeb0b2e0a47b0a7aa7ded26919d3be"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/warped_door.json"
+hash = "a0991a6107739cddc7b4cdf843a28bf43e0aa38c41fb366f2f4fdd03d1ad4110"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/warped_hyphae.json"
+hash = "8173832253f7a1da02408ced302c459f7907da6d6dbae26e61c29e965d168233"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/warped_sign.json"
+hash = "204fc2e8ff73aaf26e0833005c0e16efaabca5dd539c92f4a1442d89a9eccba1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/warped_stem.json"
+hash = "ddacf6553a193363fa62d5adb6d5c2baf36658bcc5f2d44beb11ba9db74b0a6d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/warped_trapdoor.json"
+hash = "707c56ca22e18889f7ca700942ccb43dc56fdd64630277abdc0fdaaad9cc35d1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/white_tulip.json"
+hash = "ef3a06c931c2ff4b9af6581335338bf5520af475e5822200d523ad11c0a205e3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_beetroots.json"
+hash = "5e123ac9d150ede764acad4f31c1357e768148f51ce28a0504d3129081213bcd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_cabbages.json"
+hash = "703ec4f9bf4c488515420a60b481345ad63008c2bf8dd4387b5a5e72c3a4ce82"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_carrots.json"
+hash = "bf0c2e87643b7e789658ccf1f2fccf96750b57460fbe5d5bbe9d2ce602f4da66"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_onions.json"
+hash = "420657cd107592df3fe1a02e95cce0215c18a0bcdf8d9ca906464e904122cb8a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_potatoes.json"
+hash = "23e62479b012a3ae8c2322f34b4349c3723aec88894f267e6b231ff6af5caf77"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_rice.json"
+hash = "00613fedb6de127ec038d5e06aaefdf64ea6fdbe13728dc3ce9d06ac26498e63"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wild_tomatoes.json"
+hash = "a552266eba38bc6cd62dc00f9a97ca11a70d6d9fce80dc9266d130aeae2a02f0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting/wither_rose.json"
+hash = "aef6a9f2d3c453371e7427bae5670e2ef66db75db4d9b14ee83eb434ebe7c47d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cutting_board.json"
+hash = "be1260308923d7db1f97dcf5a755d7b8373dbef948696bf070277f696f0cc647"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/cyan_canvas_sign.json"
+hash = "25ee506e0533db9d3aa71a6603d12bd9478b3dba970ef989f6410c73f1423df0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/dark_oak_cabinet.json"
+hash = "dbac0eeaef927baebade9a92c510f3885feaafeef93856f6304d64b69ae41ed7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/diamond_knife.json"
+hash = "4127b7dc6f109a0edfa303b22273da344a9b315d09351cac39d99e6e6ddb9eb1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/egg_sandwich.json"
+hash = "1eebfb947b15208d3b2544fb3600865d46551e5d9ab6f1c11e5fffb664bfe674"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/flint_knife.json"
+hash = "bee175e12ac1666255801902f4c59c437c604ccbecb5209457e394552cbad817"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/fried_egg.json"
+hash = "a31ac13b9cb3e8e45c18d1775b6906e9de8de2fb2b4dc2841e00b9e823c54f18"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/fried_egg_from_campfire_cooking.json"
+hash = "faeb03f7e8d1dbf5fd6b3332bc559f10c732dcacc44580a79ed95aa1c62f7e35"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/fried_egg_from_smoking.json"
+hash = "88ccea3cafaed13330603627e9a66de36e9b06b2864888c1064caaa97f2f631b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/fruit_salad.json"
+hash = "edc52a60298fef4ba00d45f084f8ec5500e905e54922955f80c18c4ebf4cc7c2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/full_tatami_mat.json"
+hash = "13db022f8f71f13e2141efe4c122f91351ad29a6c901a46af7b14abbe7de6d7b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/full_tatami_mat_from_halves.json"
+hash = "48fc6ef790955638555aafaa510e96c9e0f7f44b22d970e26f32dc24428fd767"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/gold_nugget_from_blasting_knife.json"
+hash = "1a63591be2c3f82c81e04846ffad8c287697afb3a3a4df173fc548dea835e737"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/gold_nugget_from_smelting_knife.json"
+hash = "ac3aa4dca3fcb31912f8dc744ba7fd6a082a98fa7944b433a8191da186cf9532"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/golden_knife.json"
+hash = "4f821bc1deff23ef701e540a2de0dac9e61f3c1ed3020a132a9f0574278a1cbd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/gray_canvas_sign.json"
+hash = "6d30cf3427f122f4a57ad5546ea8c639a9089b095fa47b8d212d06654437ef7c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/green_canvas_sign.json"
+hash = "5e2026167c4df1aac6054abda61a5aabb91de49213736870b9c7a6ef6336fcf5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/grilled_salmon.json"
+hash = "bf45f259536a3dd485f49e9fa87bfb1a0a5f188d0d3e9d2082a045195f22d6ac"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/half_tatami_mat.json"
+hash = "74d785198058c2305d0e919e9be0169e3a85e600bfeb2a82f2fbbe0bc3e3ed21"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/hamburger.json"
+hash = "72e6c3ae04fda4c47f64f48276a7d466dbbcd0c28611cd36e24543e86002b20a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/honey_cookie.json"
+hash = "1941077bc8e3a2788e0787ab6a110ac097c8b106f733c6b54dad561e805575db"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/honey_glazed_ham_block.json"
+hash = "df155527c80aa7391c93514b51ded4160b0979e45606e204563363bd25b714e7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/horse_feed.json"
+hash = "44535e72e2eb93e2141c77addb4266b392d68c0129befc2de160371ea39fba62"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/iron_knife.json"
+hash = "2b2d097637f0140333bcd45eac26e9eb1fdfcc0244ae7d33b75f019c3071941b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/iron_nugget_from_blasting_knife.json"
+hash = "90f8bdb379049e9d87914b55e4244c616e7153ba0b687259411aa14757af56d0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/iron_nugget_from_smelting_knife.json"
+hash = "0b889021ff3d3f0eb957ac0ca75c155aa87a9edda426ea61bbac217a15924be7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/jungle_cabinet.json"
+hash = "c064d8772677f84c1ca43e5402b2d6eacf9268e3721834708294bcc54cb3bae3"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/kelp_roll.json"
+hash = "e5ce8e5daf6675776333ad1ba4733c19dbc5c2eb616e38ecd75c9940421e2c59"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/lead_from_rope.json"
+hash = "1e2c9fcc8e9d53101230bee6e527fb4d3ec4562e07e8ecf5aed352077ccb9bab"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/light_blue_canvas_sign.json"
+hash = "91dcaf9eb25c71a9c64f3555b8fabfdc281ddd0368b7b802c62c8d9829af2e8a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/light_gray_canvas_sign.json"
+hash = "ec0ca63ec67be5c1fe4c673f555c6fbc4d2418e5d2b3d9824f31ad1b66d380fe"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/lime_canvas_sign.json"
+hash = "5df6a599be0a1cbf0e4e46a8fe6cfb48fdd9c35bfafc3e632b164a95c6a09bc4"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/magenta_canvas_sign.json"
+hash = "97316a10575ec484f8794a02424b396f7b40bd16303064d573669b9f8d50162b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/mangrove_cabinet.json"
+hash = "19eacca624ccd126b82cc6489ad1e777616f251c9b1d62e6a4901df816856b6b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/melon_juice.json"
+hash = "a82b7550ea85bd20fbfd9696b8b806da0a331bb8ed77047fc5cb3cabd4d96b36"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/melon_popsicle.json"
+hash = "aec3776e3ef7cb94261d7065e85a6676c622c0b2875aca5ea8efd9c71a034eb1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/milk_bottle.json"
+hash = "00038496413b0f8f883a7d85f6cf2ec21c5818c06319b63f4bd84999be34423b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/milk_bucket_from_bottles.json"
+hash = "27319c252e7516e832f2f65687e05a474bfb7061853a556fc8930646805b7d85"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/mixed_salad.json"
+hash = "95a87b4e49931dc4475db601e69935ab75873b6371f7280630f9c240c82e8383"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/mutton_wrap.json"
+hash = "c6314bb3fb1c77ddb69c55cb594b0077a15d3a4624252b2dd86af89ca7cd4704"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/nether_salad.json"
+hash = "06769d463de7d26d2f5e7bc19a722ad52b391dc7f49d1ed68f3596766642e8f2"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/netherite_knife_smithing.json"
+hash = "9fa00403c7f41ed01273552aebc47886c40e5e796b534e686988075d038e7d5c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/oak_cabinet.json"
+hash = "1daf87fe026f93aa0d230dfeecc061f76302e5570f871861566b04419e7f6c74"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/onion.json"
+hash = "46ea05f428062c367608ea8304e186a91d7c629d0a486ce160397f2c65de590e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/onion_crate.json"
+hash = "636b7ca5ccca81fbb109f6893d7295d5864262b2c8acb352b899749f6c05a10d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/orange_canvas_sign.json"
+hash = "fd75f8c4cbeca25fc3dab6eeefea61d2796547d63414847a3a52e02b59cdee4f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/organic_compost_from_rotten_flesh.json"
+hash = "b16c08df2025563ee19627bb8ded0df456b3927ee16b33e2103eb7b0e0bb3bca"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/organic_compost_from_tree_bark.json"
+hash = "80b81aba6ffce3a73ed23372525ff104917fad90650ccc874cecb0eae3567c80"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/packed_mud_from_straw.json"
+hash = "990da71d0fe2426b6a9fff45c010b3d7b4812a4589366a197ccb88237f5170dd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/painting_from_canvas.json"
+hash = "eff3cdc7ff1e5db41bc78641260314768795aa3d6d2e1c56a1c9c711e2cf0164"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/paper_from_tree_bark.json"
+hash = "1b87f383e384ac208cf3ba9ae789d585742f4cc1a1a39793f723bb69124f0f26"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/pie_crust.json"
+hash = "1c753f9a7c1708778d583382611fbc8436373ea9d72111dddd3e3acd0467e0de"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/pink_canvas_sign.json"
+hash = "041c9cda72cb3ea764a678fdff05c9597f1bd832bb381625bf0260e18768d730"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/potato_crate.json"
+hash = "3f68d2c69926ffc763bc25141395900374751e508591efcd1a72b0bb65007431"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/potato_from_crate.json"
+hash = "9ab8aef5c827ba92dd1ac5a6ca85dd76b7ffcd2be6f41b8be9914892e161f851"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/pumpkin_from_slices.json"
+hash = "fce7448a739d2b1837c319422f43618d563f88bcffa058fa278b62376e0a99df"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/pumpkin_seeds_from_slice.json"
+hash = "36c29f490844b86267326f1b2f0345616b059bcd89e9f96262221ab13fbd9285"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/purple_canvas_sign.json"
+hash = "f958f84131ff426692b98f749c35bacc146eb0b27fb6c54c7bf8e757d753c579"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/raw_pasta_from_eggs.json"
+hash = "a81c805037955b31895e5913e3097852bad620601f2cdcd854b185606d9993ff"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/raw_pasta_from_water.json"
+hash = "600dc4be40e6057772828762e684beceb6d950c2f52f8f310c2b0db0df75c63b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/red_canvas_sign.json"
+hash = "e5252fb61680b2c5fb23a1c695b4b77f7c6b36fc57e7477cd11a2df232bb74de"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rice.json"
+hash = "51c1d11b54077f4202e6a3705061c3e3294abd4f49b12ed6d6f6866a441db70e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rice_bag.json"
+hash = "1791ad8b07844c1078b3ca2a1ce69823ab49c863d34b0e664b09b79d10b7e3f1"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rice_bale.json"
+hash = "2752b5b5ee4fe1c29ebd0cd704a82e313b8dbc85bef72ddfcb22f9c4674911c5"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rice_from_bag.json"
+hash = "f64b36470a131be36c3dff53fd0b7497d28c8d9280243cc65398a4a9c7908954"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rice_panicle.json"
+hash = "063f058d017bc2d9a19354db34f5c3cf57a7d7b446564626b82867c3495e5f7e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rice_roll_medley_block.json"
+hash = "90093013b8b07f79afdfd96c26aa36c7afa05ac14d5cb3f73e6697c5a1c930ee"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/roast_chicken_block.json"
+hash = "1dd3f36ff8441211fe11ea8bb0234459ba0bf6af80ecf60c88dd326b7d93789b"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/roasted_mutton_chops.json"
+hash = "1155a3bb4f96f294aa9a6c3e749e4a8484c6f814e5e3cc2df3d6f8f1d6a4d1d4"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rope.json"
+hash = "f406ec1e3837f27eff67f77fc03283d73e4f4300b3b6d98d1ea4251b995f20cc"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/rope_from_safety_net.json"
+hash = "ae79c02b620b76c86192d631534e862ec9cba3eb28d0217d6ea4384e8d00a811"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/safety_net.json"
+hash = "ab4ad31f271086ad5ef29e211ec575af9e2fbdbdc3ec0b1115bcc70dd0a9869a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/salmon_roll.json"
+hash = "9f68c7cafd165fde652823744ae53e0a69184769a8dc2de33ceae839a4eb19cd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/scaffolding_from_canvas.json"
+hash = "971db80f982fc74acf550bba890bc1e35a9d93954ff89c1c19570ca4936f01f9"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/shepherds_pie_block.json"
+hash = "4a34b615b098fb79da21f950bd66f7bc479a4893fa4e56c19ba53fae33256937"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/skillet.json"
+hash = "da6aed54b1960323f279872b283a31fbc98a724cf9f8502ee3d9fdf3c9fa5514"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/smoked_ham.json"
+hash = "ebffa00c03259ca648cff98665664ffe0d5ee18632f27b1b8af99acf9b8908bf"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/spruce_cabinet.json"
+hash = "2aa5ac15de05216e4bcac83984468a50b4f982645567d2483fdeb192c2e4861f"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/steak_and_potatoes.json"
+hash = "a60301cdfd587288448f66462406558c14ed1cd25fa8a4043b03f66ccb6bf704"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/stove.json"
+hash = "b24e5ea16e6146d38b12576fe3d055f9880e7d9ca8cef7168ee9653eb6114354"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/straw.json"
+hash = "56a84f9e5f1611eaae11c22657e25f2b7162d11b02379ddc15aa49c82faf90d7"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/straw_bale.json"
+hash = "4717a490f506b395bb564ca1de2990fb0bcfbbb949f9b555886c6d733c4235bd"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/stuffed_potato.json"
+hash = "29c3df301adbc628a571ad7b21fbe253d7919eea3d6721eb3e42ab7ecb8cc922"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/sweet_berry_cheesecake.json"
+hash = "d5ebb1b2ba1d0cb33b2460b1cc5808ad13bd8118b95b1d878fe777dca0082f33"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/sweet_berry_cheesecake_from_slices.json"
+hash = "eb351db4c4e90eb88d5b150a70851ef4e17cfa5680f706b55e23028d0cc206b4"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/sweet_berry_cookie.json"
+hash = "e4275a4cc5223c2bbf99036e8079dcd45e29ad300911630ad13db2f2a7b80503"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/tatami.json"
+hash = "87afef8189879646f17e418a75a37130c650343f89aeab0201281c3d5014409c"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/tatami_block_from_full.json"
+hash = "4b8897afa93140ce373667850bbaf464a4308bb7f07859f4e0e40787cd761d0a"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/tomato.json"
+hash = "d626e7ea980b1f61958785ef4fbf14d1a72794d8d151d01ec3ab92856626110e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/tomato_crate.json"
+hash = "9fa66cf4c9d3c27b43870bc4bac2e189d1aca48bc3166c02fa5aa182475c5b5e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/tomato_seeds.json"
+hash = "0aad702b10258c8d44517d8d9db39925ed5f2c7b4a86d1a251b3a0020bbc1ce6"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/warped_cabinet.json"
+hash = "09fd7ccbcef9b1ad48239c1c0a0c38b23ad4a78dc8c0d7a5977c6fd023716ec0"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/wheat_dough.json"
+hash = "c108bae1fd9d1e0118827747ee869cbf9882c982f311fac0eb34d37bd26eb668"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/wheat_dough_from_eggs.json"
+hash = "7ce26cad2098231f5e7cf18f9d3cd6a9373d1cfc946d82a4a42f41e7238f0c51"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/wheat_dough_from_water.json"
+hash = "e9b3691b6dd7d7da7047a6d93f271364d4b480d6391fb32d45e2b48ebc246391"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/white_canvas_sign.json"
+hash = "e1f856ccb0a7adc894546113380e1575227aa45dcb5d2dc1f6fb1e751f58177d"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/yellow_canvas_sign.json"
+hash = "5b4afdb0a74900d38f04902edd2e96059a79e50d4cc00ac1ea79008a6649ae95"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/minecraft/tags/functions/load.json"
@@ -1649,7 +2809,7 @@ hash = "5a667f0baa3144aa9a51b11c72b19fc30c75d9770cb55c4aba6d93a26a54553e"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.mcmeta"
-hash = "50f1da8e13dd45d397e8f6a0340fb888fe29793468b75279c4f8fd92a9ac6d48"
+hash = "7bf0d52406b6b7bc842f3ec1c85a3cde12ace4ab53588b9249fe22ad06d21f01"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.png"
