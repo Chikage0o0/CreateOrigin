@@ -1,0 +1,13 @@
+name = "Touhou Origins"
+filename = "touhouorigins-0.8.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f54b32754880cbbc2d65be3b9ae46079c94f5ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4123627
+project-id = 690767
