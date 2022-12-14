@@ -1,13 +1,13 @@
 name = "Bosses of Mass Destruction"
-filename = "BOMD-1.4.5-1.19.2.jar"
+filename = "BOMD-1.4.6-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3f56505ea5af774e46cb3ddb597ce447c55bf020"
+hash = "c4d0c1d4cd89b71dc162913233a4b08927d41ae8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4136214
+file-id = 4175430
 project-id = 438365
