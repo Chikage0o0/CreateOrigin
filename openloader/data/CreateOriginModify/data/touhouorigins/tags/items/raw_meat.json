@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:chicken_cuts",
+    "farmersdelight:raw_pasta",
+    "farmersdelight:bacon",
+    "farmersdelight:cod_slice",
+    "farmersdelight:salmon_slice",
+    "farmersdelight:mutton_chops",
+    "naturalist:venison"
+  ]
+}
