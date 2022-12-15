@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "f683d5aece9a9fe63e39539b51c4e0dd66f78f7893eea5332add1441efb83be2"
+hash = "ca55cf03f10f766e8c4680ab1b41e7b7645e7df87524580d3ad55a7a47fd7b0a"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3d28bad288dc9c76a041f008c4778b52b419a8bec8caf792623e50addf21d2a3"
+hash = "0005fdb6353a966721159b411e9121f11343b1187cf3f9c70fc4fd1c871fefd2"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b3d979146ffc548ff5aa6c121f3f73e5749ca04e2e39e1597f10e76f6a5b7cff"
+hash = "8375f634df8513b4b5e481fc6188f3e4158f9208f47798c5adb337815c952dec"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "0025c12618815fa7875c8978bad5ee0fddf095a02a863876526c402b81d60977"
+hash = "461569ffb1c6803e6e3ebac3167ca67979b4db807f1aa56d9f817e6ad5fe6ead"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "57b43721e0d13972a9bd204645eed00598c0b42c18a585910d1affd3633f5713"
+hash = "9e359c77f18b91efa93e2af7a0f2a1eaa2d976eba420dc2a9d8532a9021c46ec"
 metafile = true
 
 [[files]]
@@ -1981,7 +1981,7 @@ hash = "bf412b6c657af7a04dac4671cc5bd9cf93b34cb8bedb17f1b108757ea66cec73"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/mixing/pie_crust_from_mixing.json"
-hash = "5769c90a4a0bad82ff64cff803cd1e3c2034428bede59498547465ad5e246225"
+hash = "572b38dda125c3a1d8b256526ca18c08acd17d2676cfdf3a8a99b556484c2727"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/farmersdelight/recipes/create/mixing/tomato_sauce_from_mixing.json"
@@ -2806,6 +2806,14 @@ hash = "48b91d374c622157af04d5ff6ed45d7c8773a3997c74a1e851353b728c4aca12"
 [[files]]
 file = "openloader/data/CreateOriginModify/data/origins/tags/items/meat.json"
 hash = "5a667f0baa3144aa9a51b11c72b19fc30c75d9770cb55c4aba6d93a26a54553e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/touhouorigins/tags/items/celestial_food.json"
+hash = "7350dafea2fa98d85bc1a306ed69c11caa51a287af269b30ffe73b607d6b013e"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/touhouorigins/tags/items/raw_meat.json"
+hash = "e33356eefa2d0f38feb1a03c0a75b14f048213dfb83ab88aab4892c944fbb3a3"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.mcmeta"
