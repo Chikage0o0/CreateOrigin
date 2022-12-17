@@ -1,0 +1,13 @@
+name = "Companion 🐕"
+filename = "Companion-1.19.2-fabric-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/rn2sV10Q/Companion-1.19.2-fabric-3.1.2.jar"
+hash-format = "sha1"
+hash = "8557463fc2719b032cc21d778b0df02f2c3d6a79"
+
+[update]
+[update.modrinth]
+mod-id = "4w0EzGRW"
+version = "rn2sV10Q"
