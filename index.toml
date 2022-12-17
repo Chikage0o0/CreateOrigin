@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/backslot.pw.toml"
-hash = "fa5517cefe71a658930f1ef7dcd8078a944be8339afdf5a6ed3cc5c68ba7b7e2"
+hash = "7e4b1d5a842e15847e5b2cf2f17304576fc1a8c87b5e0f135b919cdc1def3bca"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "36aa3982777d8dc3ce83dbebd2b8db93aec7a86b1b6e154736fedc2db4a25a67"
+hash = "4fa598a0e4428c29c635137e46df3c0cda954e517d2f850bd2e42dff888382e5"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1479880e76cb389a1d510c260a975636ca4213c452445a1e51b55c4ce43e8906"
+hash = "0717883870a50b4ae1cbbbc0b65de9106dfc49295a5eef8dbe3d5719db963f0b"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "056d867e226a65d47a019541865ca85a2123979c042faa6f63f9d4d5efa8799b"
+hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
 metafile = true
 
 [[files]]
@@ -832,12 +832,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
+hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
+hash = "58597c005d0dd721e5a6d307bd35680f57e31d128fd10eb3848bc7d188c71df6"
 metafile = true
 
 [[files]]
