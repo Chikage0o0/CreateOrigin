@@ -15,5 +15,13 @@
         "enable_profiles_ui": {
             "value": false
         }
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "number_of_notifications": 1
     }
 }
