@@ -1,8 +1,0 @@
-name = "Custom Entity Models"
-filename = "cem-0.7.1_S8_1.19.jar"
-side = "client"
-
-[download]
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/cem-0.7.1_S8_1.19.jar"
-hash-format = "sha1"
-hash = "805f07865c131983c71fcdc73839da01b39b3e70"
