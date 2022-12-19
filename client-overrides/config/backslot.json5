@@ -10,11 +10,11 @@
 	"offhand_fallback": true,
 	"put_aside": true,
 	"drop_holding": true,
-	"backSlot_x": 0,
+	"backSlot_x": -35,
 	// Example: -18 on Y to move up one slot
-	"backSlot_y": 0,
-	"beltSlot_x": 0,
-	"beltSlot_y": 0,
-	"backslot_scale": 2.0,
-	"beltslot_scale": 2.0
+	"backSlot_y": -5,
+	"beltSlot_x": -35,
+	"beltSlot_y": -5,
+	"backslot_scaling": 1.0,
+	"beltslot_scaling": 1.0
 }

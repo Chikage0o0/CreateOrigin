@@ -476,8 +476,8 @@ hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "0005fdb6353a966721159b411e9121f11343b1187cf3f9c70fc4fd1c871fefd2"
+file = "mods/inventory-sorting.pw.toml"
+hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
 metafile = true
 
 [[files]]
@@ -528,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "8375f634df8513b4b5e481fc6188f3e4158f9208f47798c5adb337815c952dec"
 metafile = true
 
 [[files]]
@@ -849,6 +844,10 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/c/tags/fluids/plantoil.json"
+hash = "5b972ac3a77c5fd9cd366b196e42666134fb81da5cfc403fd3f5a3f21c938e23"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/chunk_loaders/functions/create_chunk_loader.mcfunction"
