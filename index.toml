@@ -641,6 +641,11 @@ hash = "c13a1895ef4eaf7479df34ec9d2a48d308af2273b094fd1bb1df5c9bf751fadc"
 metafile = true
 
 [[files]]
+file = "mods/offlineskins-fabric.pw.toml"
+hash = "aa6f61a303b17c729c1fabf515f1d39d1f0abe9fd877e4179d1789603e919753"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "7e7a9fc6a8457d8b2c1ed8332cec6dadba305a25191a5aa0cb34ddd1623c8f72"
 metafile = true
