@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/offlineskins-fabric.pw.toml"
-hash = "aa6f61a303b17c729c1fabf515f1d39d1f0abe9fd877e4179d1789603e919753"
+hash = "198de5151af91057f697b8c632bbb5cc30e1cbc22f4898832fc155121cd3a37c"
 metafile = true
 
 [[files]]
