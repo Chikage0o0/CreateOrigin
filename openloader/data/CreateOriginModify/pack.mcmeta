@@ -6,10 +6,6 @@
   "filter": {
     "block": [
       {
-        "namespace": "createaddition",
-        "path": "recipes"
-      },
-      {
         "namespace": "farmersdelight",
         "path": "recipes"
       }
