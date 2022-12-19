@@ -46,11 +46,6 @@ hash = "898d6c0d1e60abb621e0ae98a964f2e91ff1899967dfd21fdf7c22241af2c3e0"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
-metafile = true
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "f1ffb8abda9257de8a042d745b453f4f42dab3f518914c96abbf30a60cfd4cce"
 metafile = true
@@ -181,11 +176,6 @@ hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "c03658b4aba418310cdb8996521837c295e6faeb4caae3def78bfb1d115489ed"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying-fabric.pw.toml"
 hash = "53e553b71cee8e262fecc0c50108025324fb5beb2d34e25213dfcefe01d0d837"
 metafile = true
@@ -246,6 +236,11 @@ hash = "5d19cd64cbb1e9de6db743c89c42cb0f322fab01688749eb1101f5bf9474aee2"
 metafile = true
 
 [[files]]
+file = "mods/companion.pw.toml"
+hash = "1bfde123e481d40f80aa388b3ac8873e55562149bed5eb6f3ae66fc4deb506c8"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
@@ -272,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "764a6cdea2421bda98ef550c43cf26c5e18c1667edde42b451e13ca3e6ec6e98"
+hash = "c65f96adfcf4e320ca17a7d8eed555d045cc890f1e992215be177f41f8b547ac"
 metafile = true
 
 [[files]]
@@ -362,17 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "4fa598a0e4428c29c635137e46df3c0cda954e517d2f850bd2e42dff888382e5"
+hash = "b1668f6df044f440e64ecdaa7d76c3829f7bd8575122a66d746d7f284b3e5ab8"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
 metafile = true
 
 [[files]]
@@ -502,12 +492,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "33607c7d6f60bcf0d27fbc68a89c66a3de04ff6721f04f2a46f823c0c7cbb5d2"
+hash = "edf8d8c443125e1e5ee2e35dabc3989e4a7a77b2f77cfb4cc47d1fc95d8ef6a2"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "548cfdf0c754e3143d5c3d670274dadde089f37e33f4ce5d009af5369907d475"
+hash = "aa8f79eb28ef62eb169757b8519ef45d93b8e259b45a788c24fae2e8d2683bcd"
 metafile = true
 
 [[files]]
@@ -582,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "2f5745bd7d8c66fdb305f71292fa64f54b5d0aad35f156e4fbc101c6643cbb05"
+hash = "a1c1b7caa37b8311deb621db7a9bec5e324f6a51e5ab879a7a82c7a38ceee966"
 metafile = true
 
 [[files]]
@@ -626,6 +616,11 @@ hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "ba16395309084d10f38956b832c56a6b30988eacb1b27ff242cb0308c0f7e7fd"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "58e4bee9f4aac1ccc4d395def3b958fae8e7c38c9374cb59355b86fe5e636fb5"
 metafile = true
@@ -647,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "00b46b4a721210db8f481e2ed723e9636727c3e0e8bde270cc6c74e90438257c"
+hash = "c13a1895ef4eaf7479df34ec9d2a48d308af2273b094fd1bb1df5c9bf751fadc"
 metafile = true
 
 [[files]]
@@ -672,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
+hash = "5911b5aabe250aaccaa98ff6462faf7acaf1eb01d2828d751f7aaa8c79186a46"
 metafile = true
 
 [[files]]
@@ -752,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
+hash = "1fb5451e07f74a2557f6f1de9454183e3c3bc818464657680c8096528198e0b9"
 metafile = true
 
 [[files]]
@@ -832,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
+hash = "f1ec05912f909f1bc88fa91203c90ec00f1e54bb68045b8b9509b6d6d444e757"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "58597c005d0dd721e5a6d307bd35680f57e31d128fd10eb3848bc7d188c71df6"
+hash = "641516c58e075bffbed9e339210b00c9aa7fa06f13c70b40b77957277687f4ec"
 metafile = true
 
 [[files]]
@@ -882,246 +877,6 @@ hash = "2f7c9c36a1a9b9fd59a29b8b009012db73f35042dd1880f20924fd8e3f08618e"
 [[files]]
 file = "openloader/data/CreateOriginModify/data/chunk_loaders/functions/uninstall.mcfunction"
 hash = "f33ff1dc545226d5f94348f50ea6ab1f0ca0445091ef48be9e144b3f5917b759"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compacting/biomass_pellet.json"
-hash = "e7877c6cb02b6afdde06c9bd2c69966eeade485a5631e71b15b4fd0d3ac12abe"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compacting/cake_base.json"
-hash = "cb0b1227d70ed0fa4f483521928c8dc18c1fb0a83ae9e597eb7886dbd38b60b0"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compacting/seed_oil.json"
-hash = "ffe149830c1309fbb7884c4fd4412207fe04eec5a91cc2f3ef5eceafb4d523e5"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/ae2/charged_certus_quartz.json"
-hash = "6df51bb87a645433a472c5fc85dab754d1705c693bad07b434758a97d3e2bfa2"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/immersiveengineering/blastfurnace_preheater.json"
-hash = "716f028ff6a5040092d4ddb85050abe708a6aa84a644733f4dc36bfdb88661c1"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/immersiveengineering/constantan.json"
-hash = "6cf71366be04171ab6783a4c33c0350a02c8398eb65b149187fc446b7065fcf9"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/immersiveengineering/electrum.json"
-hash = "c9b7e1d92923bc7d65ac0eee3f9c422cd300d973c4ef97a10554ce515f9c9883"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/immersiveengineering/fabric_sail.json"
-hash = "547b3a4442f6e5372b2a12b173e49c6e13c57735c208edd69053fd777fc6e7e4"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/immersiveengineering/sphalerite.json"
-hash = "116ee88861945c68a231b64d0c0498f4f185fafee29185919f2372995b47357a"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/mekanism/rose_quartz_enriching.json"
-hash = "fa4d19576a168099c706faa9c9b4ae79179615b479c95a6fd6ce37348719148b"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/mekanism/rose_quartz_metallurgic_infusing.json"
-hash = "bcad72309b67c0fb18e1ccf941bfd8a17735889a325d8fe5c4be1575c3b7015c"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/simplyjetpacks/thruster_ie1.json"
-hash = "79bd1da8985c72ba98283e365fb5c2cb003f8549da581081938c970bbef27f78"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/simplyjetpacks/thruster_ie2.json"
-hash = "7d9c90b4871385647c7a42b20ceeb16839cbda738cc8b9308a270063c98542ef"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/simplyjetpacks/thruster_ie3.json"
-hash = "a2552a318dc16c76da66c3a55de3ba5de985747a140fcf7821196845de3c9269"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/hepatizon.json"
-hash = "df42446089bc2cb27899c7fc35012efc81b59265b77f3bc1dd13a2dcf8b866ad"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/manyullyn.json"
-hash = "168e4ae7034829e0bbbada3cfc3c3255417d09a0b29e83dc211855b14deb99c6"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/pig_iron.json"
-hash = "b6642875111f9ba136907c1543a9ae3e6cdf098c3fd07460a0a98f4e818fff5e"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/queens_slime.json"
-hash = "a1dc6b73c181929b9aab88be2d7dffa57d65dfaf6e5ef5e118a38ef4b9c12be0"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/rose_gold.json"
-hash = "61e7501f3af4911f58bcd28b39c74c076667b5544a810688f90abab79f359e02"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/slimesteel.json"
-hash = "8f97f18cbe80e6b77329a6af49a023a6ec44192d5251fbe0515f5e0cf45ed6b9"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/compat/tconstruct/tinkers_bronze.json"
-hash = "16affab48aaa170feae8ad9efdd6360f60f067fe3739d3e88d35e0695a661f9e"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/capacitor_1.json"
-hash = "d670ca6497ed230861f7d483ea3d6f30c5e269c78c3f874e99770182e54195e3"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/capacitor_2.json"
-hash = "102deaf7826613e0c528ddec9892beea357f6f75e79f11a0012ec615b2c98f71"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/connector.json"
-hash = "1e6387c0902fca4834deee1d062c457e852194f36ba426d5fbf6102c983f0b3d"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/copper_spool.json"
-hash = "2beb65854471c848e266fa9639a0842a9e77984799a052f314d16c0f0cf3a323"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/diamond_grit_sandpaper.json"
-hash = "838debcbd5c9b1ca43940c23e617c0c8033181009faef2ce137b0355573a1661"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/gold_spool.json"
-hash = "9cfdfd692f1e6ed7e90cf2088542c3fe171f2a87e391f2f75945d50d7a9931a9"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/redstone_relay.json"
-hash = "4450cd774c3c630956dc3c45330e2ae2a7510fbcf7cd25709388d22546b60d07"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/rolling_mill.json"
-hash = "9e4ba7fdfe3970b37f0308c5740c337f543520f2a4fad4543d5934264386f8f4"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crafting/spool.json"
-hash = "a883dc471d521fd29a5d1f62d332c9ccd8141cc0d7e5a0e714f382a04e524606"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/crushing/diamond.json"
-hash = "8c75c6a49c5c912bc80490ea51b11825b8070816b552fc580fda8b5800993a30"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/filling/cake.json"
-hash = "235bcf69b072ce18f745c6be6390167edebf4f3317b6d8e2e4ba8fd4274739c2"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/filling/chocolate_cake.json"
-hash = "8fbe209d8ab9cc0d9054028f173786cac56ad1e0424abf0c6b5781a0197a26d2"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/filling/honey_cake.json"
-hash = "d76edfda8a5bd46c9ee347d731f0eed0eb28b8b5517a241fdbce77e1bbe9e57f"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/filling/treated_wood_planks.json"
-hash = "9562e891bb3d00c94e6cedd502b1f04390ade0a2ad5e8d067a5657a7dc39b03e"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mechanical_crafting/accumulator.json"
-hash = "26043fdef3e825da40f9b9877c94cca3b7cee1983bd2b781952913e787dab008"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mechanical_crafting/alternator.json"
-hash = "a2daf726974839dfddb0064c61dc52d292ab3127fcaf9215a52b5f9934e005b5"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mechanical_crafting/electric_motor.json"
-hash = "09294f75e9fbc0eb9015c76756a3679f1ab25e2fded8ae18658c2a58c2696aac"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mechanical_crafting/tesla_coil.json"
-hash = "06292efd864b871583bbdbc1bc7b6cc67acc4bd72f53f84993ed785bb61fc5f4"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/bioethanol.json"
-hash = "f44d541d963bd4123b02b722f619f70e28371b0515d8ea9514f779d5983c633d"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/biomass_from_flowers.json"
-hash = "bda2bc3993a2f6536e58c1e3e757fd74a7e6e6179c33fbe7950dcd5e777feb68"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/biomass_from_leaves.json"
-hash = "92b8f4a4cd54281f7cf5ad4e341e0f9427aeee493a60592ddc14df304e88a899"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/biomass_from_plant_foods.json"
-hash = "5f0ac3f8b686fee1b245e0ca376a0092968a3e01bcd7e48874eb1d064addad1d"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/biomass_from_plants.json"
-hash = "f267b664531ad0adffddd8d0718f0c172f5ff9d6a6795807f52dc95980a35afb"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/biomass_from_saplings.json"
-hash = "660f2a90114f70f8bd99a439f2da1cf280f6dddeae53ff5cc30b0e3cad5904b8"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/mixing/biomass_from_sticks.json"
-hash = "6b39d3cad4151905d80da785bf1f9baf6c11dddc8b790283c585487fa3290a81"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/pressing/zinc_ingot.json"
-hash = "5f6d8a829a00e05f995ac5333ccba5f157e2dc1b810fa132dba695477b940e23"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/aluminum_ingot.json"
-hash = "0fd31bfa718b419814cb6548f9133778eaf0dfd451f9cd33d300a95d58b4b0b3"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/aluminum_plate.json"
-hash = "5f89173be6dd1d41c96085bbf1446dfef195be227f9e22c638d752ba0c304149"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/brass_ingot.json"
-hash = "df4353b512884ed65ab6a8425f45c01b6cfc6251f740534315e3d0b088874610"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/copper_ingot.json"
-hash = "525f7cf9efd9aa5ac59e222d46888857758cf0b6bfa8e522431c3eefeac7909c"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/copper_plate.json"
-hash = "82724e44ff9d02514920808ff04a4859f6e60b6285ea7caa95f30e6d065ff00c"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/electrum_plate.json"
-hash = "8fd97180a060bbf81c93742decfa6ddd3f94781c59df5fa1ed4ca0ddb51ee947"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/gold_ingot.json"
-hash = "1659e368e1b513735712b8f016fb8c07dafd42acdedb85f4d931303ad415b36b"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/gold_plate.json"
-hash = "8ccaade11559b8ebc6f356507a44bb2c719e4b56cc3e38c415a64c74751fdf6c"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/iron_ingot.json"
-hash = "9d674eff2aa0783080efbadaf4c97c420b6abc737155b5b341bce9f0ce46ea23"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/iron_plate.json"
-hash = "a7280d24fda1cd4db416ad3ac567bc3a4e8d5e9d3373074c702a6e121d0baba4"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/steel_ingot.json"
-hash = "86efe250b4748b123973bf712cccadcc928e87b52a2c23f5e0adbde533e12a09"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/rolling/steel_plate.json"
-hash = "06c9ed9def079430a3edb16eb13c81ff0a5aaf8ff0b57434e0f128a247a1fdfc"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createaddition/recipes/smoking/cake_base_baked.json"
-hash = "145d3027c19c81536560cc37074ffddac50987cc29c35d2cd5bf5f233fba26ee"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/backpack.json"
@@ -2817,7 +2572,7 @@ hash = "e33356eefa2d0f38feb1a03c0a75b14f048213dfb83ab88aab4892c944fbb3a3"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.mcmeta"
-hash = "7bf0d52406b6b7bc842f3ec1c85a3cde12ace4ab53588b9249fe22ad06d21f01"
+hash = "2c53c1cc02a6600d94ad172ba61b8352b3f8d72af2a96f3f3da90509383749e9"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.png"
@@ -2836,16 +2591,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/XeKrSquarePattern.pw.toml"
 hash = "7a384de6bf472d5c4987a82efd8f76a933589b892e8687d99f6d6db41e03283a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/freshanimations.pw.toml"
-hash = "416825c771d3dc1a6924e321f588551d45239ebeb514ee1ddb914f7fd39e1d41"
-metafile = true
-
-[[files]]
-file = "resourcepacks/freshanimationsadd.pw.toml"
-hash = "74fab6da8c303eb8dcdbb25e09e5ba152162b94522baca4524267fe04a612c49"
 metafile = true
 
 [[files]]
