@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "f1ffb8abda9257de8a042d745b453f4f42dab3f518914c96abbf30a60cfd4cce"
+hash = "751d031fd61c3f5fddfc5ada7ea71a1f62af4c4a1b464f43dafe83049abbe7c8"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "f53f6e9fd20d04b26e04ad91b9cd541146d0691d4b463949c8192a9a706cce97"
+hash = "01f61383c435ed778141df52dab29b882b9e26db161f73110e5d031961b39a96"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/blossomlib.pw.toml"
-hash = "2658389dea783084a35750e70fb0d28fd0313140f1965a12fba9604a0b47d5aa"
+hash = "58a9a920c7e5d1cbd5bc3f0e6e73a6ba956b58ea7af09d4fc997e64b70c1b158"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
+hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
+hash = "d5125dcf51d480c8e0f95ef01387e356df1fb21cd1dd5dde75b0ade06a8e44dd"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "7f14a3cd8a778320832136630cd0f415106cb810f12d35617986b830b2e03097"
+hash = "5f20882767644a2547d07ae9bfd76e4f73c9688e19d4f6eea8e9b2b970d665bd"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c9914628f328f6a137621cf27068aa0742e57cfdf1268a363c21c2aef63ab339"
+hash = "75c2c9732f980f22c774856f93fbea35a6a7f80a98af136f173956abc6cf5665"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicer-skies.pw.toml"
-hash = "ba16395309084d10f38956b832c56a6b30988eacb1b27ff242cb0308c0f7e7fd"
+hash = "913a9a11e2d7fa8f1898d89f1c01f90471547276173cf618b8ab79363e143a9a"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "137460be130a91349243be497e0e33f61d8631d271a1d420cbb37e4ddfd6ab62"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
 metafile = true
 
 [[files]]
@@ -767,12 +767,12 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "9e359c77f18b91efa93e2af7a0f2a1eaa2d976eba420dc2a9d8532a9021c46ec"
+hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
 metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
+hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/touhou-origins.pw.toml"
-hash = "6f2e0829b974d2729365485623b9bf4290a2809dc66c610bfae85fe5a934b620"
+hash = "f944daebc118e84d86683840127c197f64413b55e60131b738fcb47e736a7b1c"
 metafile = true
 
 [[files]]
