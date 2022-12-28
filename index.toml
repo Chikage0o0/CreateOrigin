@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "c94c1de037596582d9d417f6efd87b5076e66f533073bce83de94b4a7bb20d30"
+hash = "3c35c1971d12185bc44e31a2622a80b8feed85a222e708f3e6df0cc733b9050d"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "5f20882767644a2547d07ae9bfd76e4f73c9688e19d4f6eea8e9b2b970d665bd"
+hash = "e120708bdbf3dfea3bf2e6bd351284c1771458a63df929f9be9a883aa5fef3f5"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "2c296414ee384c7e4fa022ccd41055b2529051ec8b7be15137ba873f6aa5a17d"
+hash = "12e979ed4b2c95f3ea323f6882989c238b829b30c59664a7890fb7bfba27389e"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
+hash = "13edb6ded702c85072a99ebe5f36de5d36522a50c1360e01c2a88d2d46a6616f"
 metafile = true
 
 [[files]]
