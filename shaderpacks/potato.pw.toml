@@ -1,8 +1,0 @@
-name = "Potato"
-filename = "Potato_v1.0b.zip"
-side = "client"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/3711/845/Potato_v1.0b.zip"
-hash-format = "sha1"
-hash = "717cf36345ddd6b52e2651776df3e43343442322"

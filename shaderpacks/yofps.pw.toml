@@ -1,0 +1,8 @@
+name = "YoFps"
+filename = "YoFPS+Low+(Chocapic13+Edit).zip"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/3212/972/YoFPS+Low+(Chocapic13+Edit).zip"
+hash-format = "sha1"
+hash = "c3035dfdbd68efab506dd4f07a3df108ec4eb429"

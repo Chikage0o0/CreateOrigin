@@ -2633,11 +2633,11 @@ hash = "c72105a43cf0e757a5bb6cdd2601284c4278b6dcf25a161916d61f1783ba28b8"
 metafile = true
 
 [[files]]
-file = "shaderpacks/potato.pw.toml"
-hash = "bb8e84544fa26c78dc8dd5766fffd07f3de713288a097a7961ded9bf7c5aa665"
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "14a7ad38e46b476f95ed861950bf145ce16a8840428b3209ed6173247387ce2d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "b3691b95dc7165dc1f8dc8d4adf2898356fd99fb357603386427bba7f1c65895"
+file = "shaderpacks/yofps.pw.toml"
+hash = "8fd22ddc944ff4d66958effc8df99a8683c92e39ca5881d068d06558d0e6f928"
 metafile = true
