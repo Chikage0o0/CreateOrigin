@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
 
 [[files]]
@@ -193,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/chest-tracker.pw.toml"
 hash = "d1a1e11e85756093c08e2658aa12b45073315781ba52d4d287a1210bd93925f7"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "c638f4444cdf3bf1097ba4cd728f9c94c75e5b8284d93c8e71a84ab74aa01eb4"
 metafile = true
 
 [[files]]
@@ -286,6 +291,11 @@ hash = "a6ca0d0a0ac72bdde9afa918b36c3bfb9f49e6153a7cce5191e8783d8b1aa6d9"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
+metafile = true
+
+[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "fec5b46a8549426a5243f65ff16fa9b144cbcb457dc449c3ff57954290801a09"
 metafile = true
@@ -357,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "b1668f6df044f440e64ecdaa7d76c3829f7bd8575122a66d746d7f284b3e5ab8"
+hash = "6dad053322a96cac8bb46941b9ebd4765f8f2dcb8365d5e78ed030259a17de7d"
 metafile = true
 
 [[files]]
@@ -377,12 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d5125dcf51d480c8e0f95ef01387e356df1fb21cd1dd5dde75b0ade06a8e44dd"
+hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -442,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "c94c1de037596582d9d417f6efd87b5076e66f533073bce83de94b4a7bb20d30"
+hash = "2a917f831b65bc75e867b942f7cd65e435b84278fd935ca410bf166ba69bb913"
 metafile = true
 
 [[files]]
@@ -482,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
+hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
@@ -497,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "aa8f79eb28ef62eb169757b8519ef45d93b8e259b45a788c24fae2e8d2683bcd"
+hash = "a815fccc0ee5ca28005633bc120c83636d9bb812305ea37d38acd21093b9e2be"
 metafile = true
 
 [[files]]
@@ -572,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/merequester.pw.toml"
-hash = "4426ee463eb7708c9c19cce376b0c0eca86a08b8551336e3d6185cdc34c813e1"
+hash = "645e78bf78f6cb6ad5791b1a112e06e07c35c30caca8ce68e1f0f710a061d4b5"
 metafile = true
 
 [[files]]
@@ -622,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "12e979ed4b2c95f3ea323f6882989c238b829b30c59664a7890fb7bfba27389e"
+hash = "ad8578b528cf2f712ef04d7d84aca2a9aa1c379989940a8ff209d1f724d848f8"
 metafile = true
 
 [[files]]
@@ -667,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "5911b5aabe250aaccaa98ff6462faf7acaf1eb01d2828d751f7aaa8c79186a46"
+hash = "bfb2ed4cb4f501621eab3467dc6c6206525a414d0fe401a8f91f8aaca7232993"
 metafile = true
 
 [[files]]
@@ -692,17 +702,17 @@ metafile = true
 
 [[files]]
 file = "mods/reinforced-barrels.pw.toml"
-hash = "6065d2b0832274e58d873a5f69030e28dca1dc8dbd26ac98a1819cb8832a7263"
+hash = "65c5f9436a550a224a16dd25482a7282f7421fea6f5308913705af59842a264a"
 metafile = true
 
 [[files]]
 file = "mods/reinforced-chests.pw.toml"
-hash = "d358348d23bdf2fbceae4a961e48a2a4e5b1faebe941f5e59d9b7d038ae74973"
+hash = "ef25a480535daa14950ad983c552cfcfc06e56ff4345fbbec00d7df56f49868b"
 metafile = true
 
 [[files]]
 file = "mods/reinforced-shulker-boxes.pw.toml"
-hash = "260666f60a35edb3ef7cf1c79c3bb97f86008ee029d31d7293b8ce6a670659df"
+hash = "a86baaf3977b9b61422968a87bf4b4c0814e8f02704e0ea844ee8ba7a5e3ea5f"
 metafile = true
 
 [[files]]
@@ -737,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
@@ -792,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/touhou-origins.pw.toml"
-hash = "f944daebc118e84d86683840127c197f64413b55e60131b738fcb47e736a7b1c"
+hash = "ad3593db1cb1577d5f26985968b6fbc94642ea37b021d362aee9c2eea8613a02"
 metafile = true
 
 [[files]]
@@ -2619,10 +2629,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Complementary Reimagined.pw.toml"
-hash = "1129b6a9d6fb9e504713b1517edfb67133ca2ae6c7dddafdb6ae505ef5f77c6c"
+hash = "c72105a43cf0e757a5bb6cdd2601284c4278b6dcf25a161916d61f1783ba28b8"
 metafile = true
 
 [[files]]
-file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "fbbb30a62db29b99149209f48ed8c16e0bc4f8e99c8852b3fc9bf965be3a6db4"
+file = "shaderpacks/potato.pw.toml"
+hash = "bb8e84544fa26c78dc8dd5766fffd07f3de713288a097a7961ded9bf7c5aa665"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "b3691b95dc7165dc1f8dc8d4adf2898356fd99fb357603386427bba7f1c65895"
 metafile = true

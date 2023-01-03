@@ -1,0 +1,8 @@
+name = "Solas-Shader"
+filename = "Solas+Shader+V1.4.zip"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4283/915/Solas+Shader+V1.4.zip"
+hash-format = "sha1"
+hash = "be607580df2ddd7c462286bf3941f2244252a52d"

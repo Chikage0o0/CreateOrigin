@@ -1,8 +1,0 @@
-name = "makeup-ultra-fast-shader"
-filename = "MakeUp-UltraFast-8.6g.zip"
-side = "client"
-
-[download]
-hash-format = "sha1"
-hash = "ffb9c9eff289f42fe60b55ae08693e8469edd7dd"
-url = "https://mediafiles.forgecdn.net/files/3971/512/MakeUp-UltraFast-8.6g.zip"
