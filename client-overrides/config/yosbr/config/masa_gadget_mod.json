@@ -108,7 +108,7 @@
     "inventoryPreviewUseCache": true,
     "inventoryPreviewSupportShulkerBoxItemEntity": false,
     "restockWithCrafting": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
