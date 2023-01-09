@@ -7,41 +7,10 @@ SET JAVA="java"
 SET MINECRAFT="1.19.2"
 SET FABRIC="0.14.11"
 SET INSTALLER="0.11.1"
-SET ARGS="-Xmx5G"
-SET OTHERARGS="-Dlog4j2.formatMsgNoLookups=true"
+SET ARGS="-Xmx4G"
+SET OTHERARGS="-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1"
 
 SET AGREE="I agree"
-
-IF NOT EXIST fabric-server-launch.jar (
-
-  ECHO Fabric Server JAR-file not found. Downloading installer...
-  powershell -Command "(New-Object Net.WebClient).DownloadFile('https://maven.fabricmc.net/net/fabricmc/fabric-installer/%INSTALLER%/fabric-installer-%INSTALLER%.jar', 'fabric-installer.jar')"
-
-  IF EXIST fabric-installer.jar (
-
-    ECHO Installer downloaded. Installing...
-    java -jar fabric-installer.jar server -mcversion %MINECRAFT% -loader %FABRIC% -downloadMinecraft
-
-    IF EXIST fabric-server-launch.jar (
-      RMDIR /S /Q .fabric-installer
-      DEL fabric-installer.jar
-      ECHO Installation complete. fabric-installer.jar and installation files deleted.
-    )
-
-  ) ELSE (
-    ECHO fabric-installer.jar not found. Maybe the Fabric servers are having trouble.
-    ECHO Please try again in a couple of minutes.
-  )
-) ELSE (
-  ECHO fabric-server-launch.jar present. Moving on...
-)
-
-IF NOT EXIST server.jar (
-  ECHO Minecraft Server JAR-file not found. Downloading...
-  powershell -Command "(New-Object Net.WebClient).DownloadFile('Optional[https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar]', 'server.jar')"
-) ELSE (
-  ECHO server.jar present. Moving on...
-)
 
 IF NOT EXIST eula.txt (
   ECHO Mojang's EULA has not yet been accepted. In order to run a Minecraft server, you must accept Mojang's EULA.
@@ -66,6 +35,6 @@ ECHO Java version:
 %JAVA% --version
 ECHO Java args: %ARGS%
 
-%JAVA% "%OTHERARGS%" %ARGS% -jar fabric-server-launch.jar nogui
+%JAVA% "%OTHERARGS%" %ARGS% -jar fabric-server-mc.%MINECRAFT%-loader.%FABRIC%-launcher.%INSTALLER%.jar nogui
 
 PAUSE
