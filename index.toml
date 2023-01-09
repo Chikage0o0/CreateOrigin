@@ -291,11 +291,6 @@ hash = "afd568b3935e043d47329b428be3f8b65a4413d5a9e572da7a957e4e00f419c7"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "9af34e7f2337362fd66f670437f0ded019550ee16fb3618b80e55a69df02af81"
-metafile = true
-
-[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "fec5b46a8549426a5243f65ff16fa9b144cbcb457dc449c3ff57954290801a09"
 metafile = true
@@ -2629,30 +2624,30 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/BSL.toml"
-hash = "e354bc29083899cb4c9515b85899d03e1a60000f5d01094eb61b63ac67491dc8"
+hash = "5eefc73d9a1e9f0dcc7c198038cf5520312345cf6182088040ba777f0df28279"
 metafile = true
 
 [[files]]
 file = "shaderpacks/Builder's QOL Shaders.toml"
-hash = "5b11c89d9a104728d7fbfbdcd7970ed6cfe4f2b9f7723f7b934cde4b61f11b29"
+hash = "c867065e54a6643df6251992d9ccbabedac57be98940814250a04bf2b16bf90b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/Complementary Reimagined.pw.toml"
-hash = "20da3f271f3d5e9c9da44b3514f962dad60b76fbd7049d63e2426bd4d5da8cc8"
+hash = "ee5b589cd522074b3379e1a4f9a1883ecb1a57f7630f98c4f59c6b556c184714"
 metafile = true
 
 [[files]]
 file = "shaderpacks/VanillAA.toml"
-hash = "7eb504effba53670932b4ad6dc3024400b03d0dad9cd37686ce4aa95711468c3"
+hash = "6b4d9fb895668be477fbc531fb4aa215c51bb92c175fdea83e69317bc6ebab5b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "ab24ededcfde8c341bc7ceda9f6af4a561fe442ff9c2e1ce4b07253744be02ec"
+hash = "760ef8c3cbc794a1516e6a7cee6d06b8570d717fbfcc53ee627f4737cc0f4fa7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/yofps.pw.toml"
-hash = "92c3222f071c2fd50fd79fdbce73a3bfad8fb2365aa7022e44055cd4d5742d3f"
+hash = "9bb8c1e8d31fd0a3f39a950502f65adcc9d76e41e06b50d807582190fa2c6f9f"
 metafile = true
