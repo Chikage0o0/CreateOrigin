@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
+hash = "b8fc16dda19cf918380c01d8ffb49c1380904dbe6d8290c6758e4ae5e07b1a06"
 metafile = true
 
 [[files]]
@@ -733,11 +733,6 @@ metafile = true
 [[files]]
 file = "mods/skin-swapper.pw.toml"
 hash = "e0c7424135d603b333038541da47a65ee7a859fcb96c80eb3ff0f0feccd2fb8b"
-metafile = true
-
-[[files]]
-file = "mods/slumber.pw.toml"
-hash = "b2c63236b7a11ad31f6b09aee3c3ad957543c2d0f7c78a079449df4991be9b8a"
 metafile = true
 
 [[files]]
