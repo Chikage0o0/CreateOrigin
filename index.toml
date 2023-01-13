@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "37701f581414b4d172d23a70ae169e43ff3416d905c403e0e2c88ebf2dbcbbc8"
+hash = "ca774309a060de1880bb4998abdf61c9aed1f1e6dfeb0410ee43e9c485795b16"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "1bfde123e481d40f80aa388b3ac8873e55562149bed5eb6f3ae66fc4deb506c8"
+hash = "50f7a1e8eff013c3f18e648b9985614940c7fd1773263a4ba9235f0e4359cec6"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
-hash = "cad4b88c578109c05e22c2b50ee16ed0009855eee9ad69525d1c4b8ac1978df5"
+hash = "982c05b63f9fd3b54df24c8854f468bcda6247aa96c2aaa55b8cb842400561d0"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+hash = "2d49cab5101c2e62117383dce8910aab3410f1938217c492a2faaec7e3447104"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
+hash = "7ae83690f725e59e7d527fc272e16a120a7fa683f25b4e4142b121b3828ecfc5"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "eb0c72ca113e287f459b5b0dca65d28bac43a4161a66d10cd058e36b113fe208"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "58e4bee9f4aac1ccc4d395def3b958fae8e7c38c9374cb59355b86fe5e636fb5"
+hash = "743a204dbcc45577079c9416c609bc2a5bc0f229b58b2c6c1ab36aae88b5a1ea"
 metafile = true
 
 [[files]]
