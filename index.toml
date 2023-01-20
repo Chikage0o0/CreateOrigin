@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "751d031fd61c3f5fddfc5ada7ea71a1f62af4c4a1b464f43dafe83049abbe7c8"
+hash = "e84d01f41e4eb7f10b07eb991b7534b20d4d9ca83ececd38dc6b719ea4a5a928"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "63dc69c2b6fe30ccd872f25ad724105d24032368886ce719c5ab75bbd6692952"
+hash = "0d809d0bd272839d9f755af6e9a78f4039f159defaae90082d7febb5f4f94573"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
+hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying-fabric.pw.toml"
-hash = "53e553b71cee8e262fecc0c50108025324fb5beb2d34e25213dfcefe01d0d837"
+hash = "d9ebd61b15db17061ca3ace40f4053b2c15f216e631a14eee887db64d3eeb326"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ca774309a060de1880bb4998abdf61c9aed1f1e6dfeb0410ee43e9c485795b16"
+hash = "42b6e0731689eb86ac57e502a91a6d0b355dc1a3f4cbbfd82ebcea77d249654f"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "2d49cab5101c2e62117383dce8910aab3410f1938217c492a2faaec7e3447104"
+hash = "c08de5c2c6219526d9b61ec46a65554247de9a205de9d867f0eacb7dae9de270"
 metafile = true
 
 [[files]]
@@ -491,11 +491,6 @@ hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "34229e600fb26341545e086a524e3584df903aac2b04001930bebee25a1ae8ac"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "edf8d8c443125e1e5ee2e35dabc3989e4a7a77b2f77cfb4cc47d1fc95d8ef6a2"
 metafile = true
@@ -552,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/login-protection.pw.toml"
-hash = "932351d8b57cddc7176d663b37d8f5550bef1cdbcffe626a634b1a5c6cbdb007"
+hash = "a80160377d220c8e9aa3026a4e68941af37d23713ca1787936a3c7c98cb22ca9"
 metafile = true
 
 [[files]]
@@ -812,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
@@ -832,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f1ec05912f909f1bc88fa91203c90ec00f1e54bb68045b8b9509b6d6d444e757"
+hash = "089672f11b05061e207098556864d08cf73c2206f74ae881b433cab807576484"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "641516c58e075bffbed9e339210b00c9aa7fa06f13c70b40b77957277687f4ec"
+hash = "612bd4ba42ba1010b7023b54080787dcf3a89d34aca6620f119eeced5f633aea"
 metafile = true
 
 [[files]]
@@ -847,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
+hash = "69369708233e70a88d14445ba54e7a227cfcaf6f13bd5c7cfd3cd09f6d4fab51"
 metafile = true
 
 [[files]]
