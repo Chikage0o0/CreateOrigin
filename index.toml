@@ -371,6 +371,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "c08de5c2c6219526d9b61ec46a65554247de9a205de9d867f0eacb7dae9de270"
 metafile = true
