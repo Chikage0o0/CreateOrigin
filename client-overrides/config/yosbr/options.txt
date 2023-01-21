@@ -38,7 +38,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","continuity/glass_pane_culling_fix","continuity/default","charmonium/journeyman","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","resources/XeKrRedstoneDisplay.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
-incompatibleResourcePacks:["resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip"]
+incompatibleResourcePacks:["resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/XeKrSquarePattern.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
