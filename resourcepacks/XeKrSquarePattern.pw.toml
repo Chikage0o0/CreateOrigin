@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "742bdb6ffaab369128e524270639c15ac0daa052"
-url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-v2-6-main-pack.zip"
+hash = "f9e1850ceed41544e7390474367e74ae3ec553fb"
+url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-v2-65-main-pack.zip"
