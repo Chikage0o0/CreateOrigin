@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/server.json"
+hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
+
+[[files]]
 file = "config/couplings.toml"
 hash = "be21b33281635226c219c0531f88c32b568ebd13273152ee8af63d29b979499e"
 
@@ -251,11 +255,6 @@ hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor.pw.toml"
-hash = "024e9ce1c59032baaf74867f7ceb8ec03e1de56bfa9ff8a8a14e4e00a91b3401"
-metafile = true
-
-[[files]]
 file = "mods/couplings.pw.toml"
 hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
@@ -456,11 +455,6 @@ hash = "2a917f831b65bc75e867b942f7cd65e435b84278fd935ca410bf166ba69bb913"
 metafile = true
 
 [[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "56465de2413772705c4afac308416c3795e4c5c942bf508943a94ca6d8485698"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -573,11 +567,6 @@ metafile = true
 [[files]]
 file = "mods/masa-gadget.pw.toml"
 hash = "16cecaf4a0a16a86028d6144f05078ff34e74bad0c7cf8ab9b6530e3afe00edb"
-metafile = true
-
-[[files]]
-file = "mods/mcwifipnp.pw.toml"
-hash = "a1c1b7caa37b8311deb621db7a9bec5e324f6a51e5ab879a7a82c7a38ceee966"
 metafile = true
 
 [[files]]
@@ -801,11 +790,6 @@ hash = "ad3593db1cb1577d5f26985968b6fbc94642ea37b021d362aee9c2eea8613a02"
 metafile = true
 
 [[files]]
-file = "mods/transparentcosmetics.pw.toml"
-hash = "ecd904ed1ef5fba4bcd9b6180276562e954dacb508e82df1dc074f302ea033da"
-metafile = true
-
-[[files]]
 file = "mods/trashslot-fabric-edition.pw.toml"
 hash = "da15ba648e0d6f9a092975d26bdeca271d9fcddb5dad2fbd38357cc3f6e1064f"
 metafile = true
@@ -966,10 +950,6 @@ hash = "415100bcac773834934001c3666630dd358b33d9bb7e334a94bdfb79e3a70c32"
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/swords.json"
 hash = "216bf24053023ad4a70d0e2a3509a6d36f2243d44a19a64696fdd7a684c585bf"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/transparent_cosmetics.json"
-hash = "7ee240a67a7b63bcd4732a924e824d451ed8df9bc6c541df060ce201c5f7d152"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/trash.json"
@@ -2599,7 +2579,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/XeKrSquarePattern.pw.toml"
-hash = "7a384de6bf472d5c4987a82efd8f76a933589b892e8687d99f6d6db41e03283a"
+hash = "c9bab8a47f126beae8b9b725c0f18fea73a8bf916a10140dc29041bae4f5ab23"
 metafile = true
 
 [[files]]
