@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "42b6e0731689eb86ac57e502a91a6d0b355dc1a3f4cbbfd82ebcea77d249654f"
+hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
+hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "e120708bdbf3dfea3bf2e6bd351284c1771458a63df929f9be9a883aa5fef3f5"
+hash = "faa86aa56906e111a89c9c81ed3fe27f1874cdfbc77dd17dcf1c510c225a70eb"
 metafile = true
 
 [[files]]
@@ -590,6 +590,11 @@ hash = "da4c6ce45e3c122cfa2e7f0a224ae6ce27646bdaf4cda96276de7c78e5fa9d8e"
 metafile = true
 
 [[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "7b9fca08ddf2525cc6d4c2ce7495234e7d56e6b5859b8de6c5ef5ab44f1aa6fc"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
@@ -597,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/more-villagers-fabric.pw.toml"
 hash = "ff6a43dcc382e17d47694ada1e704b7023d33a96aac2c78f6651109a332e56b5"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
@@ -745,11 +755,6 @@ hash = "1fb5451e07f74a2557f6f1de9454183e3c3bc818464657680c8096528198e0b9"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "38456e9947790ff0b8a0013ffdce9a28e45a53212e0aa37d9c95da423386d3f7"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -826,12 +831,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "69369708233e70a88d14445ba54e7a227cfcaf6f13bd5c7cfd3cd09f6d4fab51"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
