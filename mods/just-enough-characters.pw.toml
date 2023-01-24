@@ -1,6 +1,6 @@
 name = "Just Enough Characters"
 filename = "jecharacters-fabric-1.19.2-4.4.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
