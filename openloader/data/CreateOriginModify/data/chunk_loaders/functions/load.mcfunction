@@ -1,1 +1,0 @@
-scoreboard objectives add chuLoa.dummy dummy
