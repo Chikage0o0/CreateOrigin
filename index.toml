@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "01f61383c435ed778141df52dab29b882b9e26db161f73110e5d031961b39a96"
+hash = "5f9c2805feca5a1393018b73b67db3aaa5f8eb28edf52ae2965aebfc1483a745"
 metafile = true
 
 [[files]]
@@ -162,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "ca55cf03f10f766e8c4680ab1b41e7b7645e7df87524580d3ad55a7a47fd7b0a"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "8719e358ed80d5bac745f56c5f02a776fd2cd16ef5a8a5e59a394f212e5ddbed"
 metafile = true
 
 [[files]]
@@ -265,6 +270,11 @@ hash = "5f14b1510601ceb0a84065ddfb980a18a0e075f2db7ff2baebe8c777fd7860e1"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
@@ -341,12 +351,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot-fabric.pw.toml"
-hash = "0e47b1328fabc6872c409910a090ec24051381f23e289efd6d0507d63013adbc"
+hash = "dd37b331789c533eb47ecc8e6783214f09560ff292d37e0f0a3b8329721ec7e4"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
+hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
 metafile = true
 
 [[files]]
@@ -386,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
 metafile = true
 
 [[files]]
@@ -591,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
-hash = "7b9fca08ddf2525cc6d4c2ce7495234e7d56e6b5859b8de6c5ef5ab44f1aa6fc"
+hash = "dce542ba9778039ff01fb03ddf04ee23cda47f9c814f6909f424199501baf046"
 metafile = true
 
 [[files]]
@@ -676,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b8fc16dda19cf918380c01d8ffb49c1380904dbe6d8290c6758e4ae5e07b1a06"
+hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
 metafile = true
 
 [[files]]
