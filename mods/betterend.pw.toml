@@ -3,11 +3,11 @@ filename = "better-end-2.1.3.jar"
 side = "both"
 
 [download]
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/better-end-2.1.3.jar"
+url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/pYKzbYQf/better-end-2.1.3.jar"
 hash-format = "sha1"
-hash = "ce98c6e5bb8409f6a850e4e811e98467b5f107ec"
+hash = "5ac5e2efd438347f49afa1999391de8a70aaafd1"
 
 [update]
 [update.modrinth]
 mod-id = "gc8OEnCC"
-version = "ANsvdFr8"
+version = "pYKzbYQf"
