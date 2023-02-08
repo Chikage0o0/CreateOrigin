@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b8a453a9e2624d5f5a00db214fc77630fd546108"
-mode = "metadata:curseforge"
+hash = "12d7aaec1581ab2f0deb59452303df8eed63dd43"
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/createaddition-fabric%2B1.19.2-20221128a.jar"
 
 [update]
 [update.curseforge]
