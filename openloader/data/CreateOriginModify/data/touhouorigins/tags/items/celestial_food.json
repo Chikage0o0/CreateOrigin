@@ -48,6 +48,19 @@
     "farmersdelight:roast_chicken",
     "farmersdelight:stuffed_pumpkin",
     "farmersdelight:honey_glazed_ham",
-    "farmersdelight:shepherds_pie"
+    "farmersdelight:shepherds_pie",
+    "betternether:stalagnate_bowl_wart",
+    "betternether:stalagnate_bowl_mushroom",
+    "betternether:stalagnate_bowl_apple",
+    "betternether:hook_mushroom_cooked",
+    "artifacts:eternal_steak",
+    "betterend:cave_pumpkin_pie",
+    "betterend:shadow_berry_cooked",
+    "betterend:end_fish_cooked",
+    "betterend:chorus_mushroom_cooked",
+    "betterend:bolux_mushroom_cooked",
+    "naturalist:cooked_venison",
+    "gofish:aquatic_astral_stew",
+    "gofish:grilled_blackstone_deluxe"
   ]
 }
