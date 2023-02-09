@@ -944,6 +944,10 @@ file = "openloader/data/CreateOriginModify/data/createorigin/advancements/create
 hash = "240ecd90e3176e61b38b597b88698d0cf5c185ef3e397dc644d5bb00931822fe"
 
 [[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/vanity_slots.json"
+hash = "a80022b36581b3f170b005a5aec4f4cd8731e6f7ab401135873fce0e5add24f3"
+
+[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/vial.json"
 hash = "763fe164f07e74149167593df70a9c4ae2a2cfe61ffa9514d6d80413ec70e251"
 
