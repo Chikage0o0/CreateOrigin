@@ -695,11 +695,6 @@ hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
-file = "mods/projectsavethepets.pw.toml"
-hash = "87aecc870ad3ca041d142cf2d58ce6d083161877106ed98191b2a3c99df30e9e"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
@@ -883,10 +878,6 @@ hash = "ae2982331db2bcde5365d18d99638edb5e9df74bf49e8f240af3aa1308d11b7c"
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/chest.json"
 hash = "afd23e822185ec37e07a642fa19217877a9f75864a563be58c90c4fcbf57650d"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/chunk_loaders.json"
-hash = "b8b11d1ece2c345b790a5d340504f002881b24f458e6f522d77c09673afd2cc4"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/controller.json"
@@ -2430,15 +2421,15 @@ hash = "48b91d374c622157af04d5ff6ed45d7c8773a3997c74a1e851353b728c4aca12"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/origins/tags/items/meat.json"
-hash = "5a667f0baa3144aa9a51b11c72b19fc30c75d9770cb55c4aba6d93a26a54553e"
+hash = "2aceb2fa7f411b2661b98a76f7ffe17381dbc881bfb69d053330f9bca5ddfd1c"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/touhouorigins/tags/items/celestial_food.json"
-hash = "7350dafea2fa98d85bc1a306ed69c11caa51a287af269b30ffe73b607d6b013e"
+hash = "90fd5e6e5b4ce86a0013dd620ab88c258e49936c4db8b7dd2549f6407354e027"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/touhouorigins/tags/items/raw_meat.json"
-hash = "e33356eefa2d0f38feb1a03c0a75b14f048213dfb83ab88aab4892c944fbb3a3"
+hash = "c7b529a817cb4a208c3c957c644e39825c7042f72a8c5b95a66e17d726c5b3c3"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/pack.mcmeta"
