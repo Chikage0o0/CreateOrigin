@@ -1,13 +1,13 @@
 name = "BetterEnd"
-filename = "better-end-2.1.3.jar"
+filename = "better-end-2.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/pYKzbYQf/better-end-2.1.3.jar"
+url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/5CIFclEA/better-end-2.1.4.jar"
 hash-format = "sha1"
-hash = "5ac5e2efd438347f49afa1999391de8a70aaafd1"
+hash = "563c36d6b3037b0ca86015052d0c359977ea736c"
 
 [update]
 [update.modrinth]
 mod-id = "gc8OEnCC"
-version = "pYKzbYQf"
+version = "5CIFclEA"

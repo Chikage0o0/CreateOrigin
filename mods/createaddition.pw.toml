@@ -1,13 +1,13 @@
 name = "Create Crafts & Additions"
-filename = "createaddition+1.19.2-1.19.2-20221218a.jar"
+filename = "createaddition-fabric+1.19.2-20230211a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "12d7aaec1581ab2f0deb59452303df8eed63dd43"
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/createaddition-fabric%2B1.19.2-20221128a.jar"
+hash = "34da3cead36324eb61ce6c759323bf75a2d4b3cf"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4195463
+file-id = 4391443
 project-id = 439890
