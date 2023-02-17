@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "5f9c2805feca5a1393018b73b67db3aaa5f8eb28edf52ae2965aebfc1483a745"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
+hash = "13bac68b4372e66fc82e33809ba085c2cd9bea09b6a4a3619586c73767d8b86e"
 metafile = true
 
 [[files]]
@@ -276,12 +276,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "8b6b35edb19ad88e9a04a295fa8d1d1dcccb44288ab2526371734625a95d1989"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "19e23e6ae76d49ad3c46fa6e52cafd4e90c9a3c4ac4e6acab3aa62946c29a5ce"
+hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0717883870a50b4ae1cbbbc0b65de9106dfc49295a5eef8dbe3d5719db963f0b"
+hash = "db0833b74adaffba56a0fbb77b5936be80acc646d9567f5b8904adb33985758f"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "edf8d8c443125e1e5ee2e35dabc3989e4a7a77b2f77cfb4cc47d1fc95d8ef6a2"
+hash = "6f6c3d6646f445f0614c57d9b3c4d56d5b5057d6370f18ed8ac255dc8b65dbbd"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/moborigins.pw.toml"
-hash = "da4c6ce45e3c122cfa2e7f0a224ae6ce27646bdaf4cda96276de7c78e5fa9d8e"
+hash = "fe097eb478c7baa049eecc9b500168c7cdb7b932591490d464a4015cae89d9f1"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "743a204dbcc45577079c9416c609bc2a5bc0f229b58b2c6c1ab36aae88b5a1ea"
+hash = "cbe21a9a520c0707a091a317b1ed97e0cf53492a98b109b20c91837f8d36ed73"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "461569ffb1c6803e6e3ebac3167ca67979b4db807f1aa56d9f817e6ad5fe6ead"
+hash = "729a9ee157117edf8bc0a09bb6258b4464b45768d321806bddb0407f4e10689c"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "e15ba2fee4576990481db4fb2e4513243fd5f420c4125137ad78fdbb60d783a6"
+hash = "3555d5f6c6544fde58c745a7c6c48d8047355533ccc5765d945fa453c71838a5"
 metafile = true
 
 [[files]]
