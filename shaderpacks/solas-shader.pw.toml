@@ -1,8 +1,8 @@
 name = "Solas-Shader"
-filename = "Solas+Shader+V1.4.zip"
+filename = "Solas+Shader+V1.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/ogGYWNdQ/Solas%20Shader%20V1.4.zip"
+url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/bNMgAWCx/Solas%20Shader%20V1.5.zip"
 hash-format = "sha1"
-hash = "be607580df2ddd7c462286bf3941f2244252a52d"
+hash = "58bcab729a7e7bf9cc05d0f7c6f1dab82df2e97c"

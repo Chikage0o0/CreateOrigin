@@ -1,13 +1,13 @@
 name = "Extended Drawers"
-filename = "ExtendedDrawers-1.3.6+mc.1.19.2-hf.jar"
+filename = "ExtendedDrawers-1.3.7+mc.1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/ExtendedDrawers-1.3.6%2Bmc.1.19.2-hf.jar"
+url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/7JFghoYj/ExtendedDrawers-1.3.7%2Bmc.1.19.2.jar"
 hash-format = "sha1"
-hash = "c315ca0f6666b1c208d39fe5c3b4f191928513fc"
+hash = "3103599030c8d23c377fb3e1d4dc821b832f93b2"
 
 [update]
 [update.modrinth]
 mod-id = "AhtxbnpG"
-version = "vjldNGOW"
+version = "7JFghoYj"
