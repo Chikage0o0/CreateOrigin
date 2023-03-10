@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
+hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2c18afbb6174fc86f805ba9f3d9583943553294633095ca6dbbce530de7d27f8"
+hash = "af67ba11d4f932858ebce14270de4b38483a419d0153158da7e2bf20ac0fe358"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "13bac68b4372e66fc82e33809ba085c2cd9bea09b6a4a3619586c73767d8b86e"
+hash = "3daeb5b214c1cde72019cb471b96901c9ea1247dbfabbf282499121f1bd84f70"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "5f14b1510601ceb0a84065ddfb980a18a0e075f2db7ff2baebe8c777fd7860e1"
+hash = "a572748a834652cad447f8113c080d986114d0d2610fc0a769b0376a0c197990"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/moborigins.pw.toml"
-hash = "fe097eb478c7baa049eecc9b500168c7cdb7b932591490d464a4015cae89d9f1"
+hash = "564e6c99f196b85c10e313d99d24a010a40efa7272ee4be34f8fde0cbd3a94e9"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "cbe21a9a520c0707a091a317b1ed97e0cf53492a98b109b20c91837f8d36ed73"
+hash = "9c6bd6fddba46f9249e6c2fbc54cf4d1d72ed7bcd936902cb3e61751be360f25"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "648809852852bf246eb4fd2d454ae0c32667ef40c6187af35a0cf80ca0805e41"
+hash = "2a535ba05815208d6ad52cad9d7cc2ad822ce220dd73e87f3e790213fc8b2c7e"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "729a9ee157117edf8bc0a09bb6258b4464b45768d321806bddb0407f4e10689c"
+hash = "f13f892192186e7f84f3eaaec7bbd6a9b1cb670fd27fceb10b9e534bec58f7cf"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "3555d5f6c6544fde58c745a7c6c48d8047355533ccc5765d945fa453c71838a5"
+hash = "f300fb7788c42810bbd10f6666e2fb19b1e6e9585b4471ae43dc8272d44b92bf"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot-fabric-edition.pw.toml"
-hash = "da15ba648e0d6f9a092975d26bdeca271d9fcddb5dad2fbd38357cc3f6e1064f"
+hash = "df4824d66b2c3450ae553d4b2cbfa75e56c0edf54bb1f20c325790c76464cd97"
 metafile = true
 
 [[files]]
@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanity.pw.toml"
-hash = "c5e37c929ae95a623b71d620563321d1475d95b3f6070562ec94e997643be604"
+hash = "1ab6eb2d0acd22e5d7d799e2fe4bd0bfca0b40fba29f7c741fb3813427f5142b"
 metafile = true
 
 [[files]]
@@ -831,12 +831,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bc2606d39b65b9cd5098e23910680a1647736f50a5cedd68c7f389250d06de46"
+hash = "75bfd135e9b074d822cdd02f0db1a8d41338eb51bab4715d51b5a25aa3b66e23"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "df7212558a1f78fb01bcf32ba3925b279ca672debf07deadb11a9b0732589ae5"
+hash = "3e98248c43da56020adbfedcac6b1872138cbb1ece2d138e6b1fbd453a6cbdc8"
 metafile = true
 
 [[files]]
