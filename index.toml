@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanity.pw.toml"
-hash = "1ab6eb2d0acd22e5d7d799e2fe4bd0bfca0b40fba29f7c741fb3813427f5142b"
+hash = "c5e37c929ae95a623b71d620563321d1475d95b3f6070562ec94e997643be604"
 metafile = true
 
 [[files]]
@@ -2485,7 +2485,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Complementary Reimagined.pw.toml"
-hash = "169697e03842e527dbea9ae241dc615ca068baf5579fe00e345e59a292c0e3fd"
+hash = "3f81dcd0e7a7ddd5adcf0a7391cce47e0b08ba6c862ca07f695770abaaa120b3"
 metafile = true
 
 [[files]]
