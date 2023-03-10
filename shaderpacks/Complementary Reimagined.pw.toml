@@ -1,8 +1,8 @@
 name = "Complementary Reimagined"
-filename = "ComplementaryReimagined_r2.0.zip"
+filename = "ComplementaryReimagined_r2.0.3.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "787c86396ec6eb4c69d41aaa6fc58e6979ae17a3"
-url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/QGR4LYrD/ComplementaryReimagined_r2.0.zip"
+hash = "d210a1336e98d07018381521c6c849e7bba42837"
+url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/jCIQGZp3/ComplementaryReimagined_r2.0.3.zip"

@@ -1,13 +1,13 @@
 name = "Mob Origins"
-filename = "moborigins-1.10.0-beta.jar"
+filename = "moborigins-1.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SXwBmSQG/versions/7XsMo0yf/moborigins-1.10.0-beta.jar"
+url = "https://cdn.modrinth.com/data/SXwBmSQG/versions/zDxQx8lV/moborigins-1.10.0.jar"
 hash-format = "sha1"
-hash = "433d02054908d7b6f285a962e666095280e17ef9"
+hash = "93e06b07e56138f77d008b0cd255029f438c1c8b"
 
 [update]
 [update.modrinth]
 mod-id = "SXwBmSQG"
-version = "7XsMo0yf"
+version = "zDxQx8lV"
