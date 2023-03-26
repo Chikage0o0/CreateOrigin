@@ -18,7 +18,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "extended_drawers:single_drawer"
+                        "tag": "extended_drawers:drawers"
                     }
                 ]
             }
