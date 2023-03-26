@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "af67ba11d4f932858ebce14270de4b38483a419d0153158da7e2bf20ac0fe358"
+hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
 
 [[files]]
@@ -241,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3daeb5b214c1cde72019cb471b96901c9ea1247dbfabbf282499121f1bd84f70"
+hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "cf1600e98fd694d3b946e20f6c97d8b9bfa60b6ac25d2e02842919d9b1da5a5b"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
+hash = "c3c7d0a3540985c61265ce352e48a32c0a8aadf975abaf7d74d0aed4e38a8457"
 metafile = true
 
 [[files]]
@@ -391,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bdc0026a453334abaa888c085ea5f34c7a818406a79b8c4702d5345f883787cb"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "2a917f831b65bc75e867b942f7cd65e435b84278fd935ca410bf166ba69bb913"
+hash = "83f3d8e1cd05b4b25fbe8fb7815327ec626c129dba2235a76e33eb709505b2c1"
 metafile = true
 
 [[files]]
@@ -536,12 +536,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "75c2c9732f980f22c774856f93fbea35a6a7f80a98af136f173956abc6cf5665"
+hash = "d969b4fa4fbb0b33aecaf62de481dcb707517fbe27c07e8ea2bf468a6d2b0e68"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "66f1350327721eddb21d3b1037bb7b0f8b38074ab08aac37e20aa797343e23b6"
+hash = "e1a55e4f5d8571a41ff66744aa404d8232364b0b01c25ef86158fb906c286b9c"
 metafile = true
 
 [[files]]
@@ -566,7 +566,12 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "16cecaf4a0a16a86028d6144f05078ff34e74bad0c7cf8ab9b6530e3afe00edb"
+hash = "92656993bdd06053dc898ae722cdad983b697ad9ee327c6f20122e64cd64e6de"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "a1c1b7caa37b8311deb621db7a9bec5e324f6a51e5ab879a7a82c7a38ceee966"
 metafile = true
 
 [[files]]
@@ -621,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "9c6bd6fddba46f9249e6c2fbc54cf4d1d72ed7bcd936902cb3e61751be360f25"
+hash = "e4a0e85304f4b28fea8ef890755227dcf1c1eb42de3c0c6a235f41f21ae23f65"
 metafile = true
 
 [[files]]
@@ -716,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "f13f892192186e7f84f3eaaec7bbd6a9b1cb670fd27fceb10b9e534bec58f7cf"
+hash = "da3910d06058dec9342bfb48adbc371042b5399aa2c7d7d6df00204160eebad4"
 metafile = true
 
 [[files]]
@@ -816,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanity.pw.toml"
-hash = "c5e37c929ae95a623b71d620563321d1475d95b3f6070562ec94e997643be604"
+hash = "1ab6eb2d0acd22e5d7d799e2fe4bd0bfca0b40fba29f7c741fb3813427f5142b"
 metafile = true
 
 [[files]]
@@ -831,12 +836,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "75bfd135e9b074d822cdd02f0db1a8d41338eb51bab4715d51b5a25aa3b66e23"
+hash = "47ee3c996df65f2de4405ecf48bbe99ec454478541a2d5126cc141cec65b4cfc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3e98248c43da56020adbfedcac6b1872138cbb1ece2d138e6b1fbd453a6cbdc8"
+hash = "8b0791327bb7cb1e880fab4d0d695af36ef9f5ebcc90776865a5cd4ad62015a5"
 metafile = true
 
 [[files]]
@@ -880,7 +885,7 @@ hash = "211abb15893041b9086b13923e14bd97892be9429a84405415f4b9f682f3bcda"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/drawer.json"
-hash = "82bd67734e73594a9e598c0d4abc8c08e0c1ba01b07dcd4f5a504965b8655260"
+hash = "0fe1e96089e3f575ac01b8444718b542b3a0f81fb72c610b7f254299a3c188ec"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/elytra.json"
