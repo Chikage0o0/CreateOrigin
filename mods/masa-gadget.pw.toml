@@ -1,8 +1,13 @@
 name = "Masa Gadget"
-filename = "MasaGadget-3.0.0-beta+cc10e14.jar"
+filename = "MasaGadget-3.1.289+1ca4352-stable.jar"
 side = "client"
 
 [download]
-url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/MasaGadget-3.0.0-beta%2Bcc10e14.jar"
+url = "https://cdn.modrinth.com/data/SFO4Ca80/versions/jxmqdeMy/MasaGadget-3.1.289%2B1ca4352-stable.jar"
 hash-format = "sha1"
-hash = "46d58882d76acef16bce2e8a13e1cd5fdc4d5642"
+hash = "8e9e51a3c5bfc1ef2844cfb69e31d9cceefbc9c7"
+
+[update]
+[update.modrinth]
+mod-id = "SFO4Ca80"
+version = "jxmqdeMy"
