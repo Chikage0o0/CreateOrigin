@@ -1,13 +1,13 @@
 name = "Extended Drawers"
-filename = "ExtendedDrawers-1.3.7+mc.1.19.2.jar"
+filename = "ExtendedDrawers-1.3.8+mc.1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/7JFghoYj/ExtendedDrawers-1.3.7%2Bmc.1.19.2.jar"
+url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/l9GdhezM/ExtendedDrawers-1.3.8%2Bmc.1.19.2.jar"
 hash-format = "sha1"
-hash = "3103599030c8d23c377fb3e1d4dc821b832f93b2"
+hash = "908dc09fd5e7e035a0a63adf7f6cfe731cd9157f"
 
 [update]
 [update.modrinth]
 mod-id = "AhtxbnpG"
-version = "7JFghoYj"
+version = "l9GdhezM"
