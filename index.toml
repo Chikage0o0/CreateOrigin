@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
+hash = "575076b5530174612732223eba4b2c33dbaac30d4eaa2a04d75b26958e1a338b"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7cd1d6f65dfe64cdb07180872ca629e6e7a583437cc1a410baa083df763974fc"
+hash = "08203a0790b016ebe1953f3964e48090c99f9ffdd667ffb162fdf4c67d443171"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "6edc3569e90bfc8d1c14bda5f886325b0bcbe5d786f58e18648b4a8271df31dc"
+hash = "44c83aabe1cb66201f4a2f7e6ccbfea2c226234a4c52103ef8d865526390b736"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "67e62b0b409e41154edaffac56133446d22075f4d5ff4fc203e4bce86cf95c15"
+hash = "3e314f78253c029119ee7ea35f0068473bce2cd27166b6780bbcbdcae5891930"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/inmisaddon.pw.toml"
-hash = "2f5970bc9dbd6e1ffea0762b6fe7b33d113c08666c180e65b40be93977968181"
+hash = "ca62f90e25b49a7ed0404d08bffa3abe488b78aefac01873e2f38ef5ef337b89"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1f17cb6a5689d747c85fb83e14ea3e4d88cbbba7d8b67876c35042848200d205"
+hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/merequester.pw.toml"
-hash = "d92614229d833eb2c66d61bc9a5560b6e8dc87b0979dee32b68702a003d8f31b"
+hash = "cf034e6e6a75048d46a0672929c1c71cdf36c0c503d0bd98997737b407e05d6d"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "08c93ef5dfee0c98340832cc5d1c751a9d016d5772d4d5779dbd9dd4766f0f35"
+hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/norecipebook-fabric.pw.toml"
-hash = "3329afb49f3d9c3653fff23844485b752f079e2a6b94906d31b889006a07fbea"
+hash = "afae97e455506516e6d196935777d3cd1b733f8f36505cfc3491c69300cbb511"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
+hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "ce638706dae5cff9163262d4c5db8b1af749339b5e6921e1fd3a642ad9c7079b"
+hash = "e82ab392f599f47190d65715e12984715c851a979a2ff61c03b12c63312768c9"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f20bf84a820c2c157ffe838f6ea821524cfe4eb056664ac250fac5af3fbac68a"
+hash = "a0febce406dd277730980450f98c94a80179b8df55e2136279003f30ae8eeaba"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "03dfb8f20c347a6fb3205f1620f9015a2012bea955109a70d4c131b95195c329"
+hash = "ec09e539a4434abd13ed8a5935675fe80204befd4da1281f14a1c6ac8845e8d0"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/thonkutil.pw.toml"
-hash = "4466eba391a9a0521a3c4269f7483e1887754a9afee805182a49e72db5f4996f"
+hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
 metafile = true
 
 [[files]]
@@ -831,12 +831,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7f97d0ca1a14b05b393b7ee7a273978d6392713b086b0278b212ac3386edaac1"
+hash = "ac2a5bfbbe82a7f2e6de41b53ca94786acc1679e5324d4c63cba347b071da536"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0f21507a5b1890598a3aa67ec197290a37108248107174e19dc3bf9349400739"
+hash = "8b465a1889d9d4995ddb9c2e29e62c28536f7b71b2a6778af654111820770ec6"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
 
 [[files]]

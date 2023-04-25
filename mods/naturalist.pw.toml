@@ -1,13 +1,13 @@
 name = "Naturalist"
-filename = "naturalist-fabric-2.1.1-1.19.2.jar"
+filename = "naturalist-fabric-3.0.2-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/XWezpMfV/naturalist-fabric-2.1.1-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/ILQ8BuMi/naturalist-fabric-3.0.2-1.19.2.jar"
 hash-format = "sha1"
-hash = "ec4f556979e5677c0a1282f23c971555cfb39061"
+hash = "f04951cdd32c267bdef1ddfe2da30c7b3f5e44b9"
 
 [update]
 [update.modrinth]
 mod-id = "F8BQNPWX"
-version = "XWezpMfV"
+version = "ILQ8BuMi"
