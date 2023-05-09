@@ -3,11 +3,11 @@ filename = "goblin-traders-1.5.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/FSUROmV2/versions/1.5.2/goblin-traders-1.5.2.jar"
 hash-format = "sha1"
 hash = "3df56374aec6ef49aa06fc9eb3fd14b57c5ab877"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3820596
-project-id = 534373
+[update.modrinth]
+mod-id = "FSUROmV2"
+version = "TaQZboMn"

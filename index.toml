@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
-hash = "898d6c0d1e60abb621e0ae98a964f2e91ff1899967dfd21fdf7c22241af2c3e0"
+hash = "40e4c5e433030168f228fe0a79f1867f942536501d417b1b875bfadfd283b2f8"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
+hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
@@ -76,12 +76,12 @@ metafile = true
 
 [[files]]
 file = "mods/backslot.pw.toml"
-hash = "7e4b1d5a842e15847e5b2cf2f17304576fc1a8c87b5e0f135b919cdc1def3bca"
+hash = "61a0a50d34468437f11eb989a56c4126edff662a499dadae6736cdb84b0249a9"
 metafile = true
 
 [[files]]
 file = "mods/backslotaddon.pw.toml"
-hash = "84fd2af62ab541f41504f42d7835ac18e1b3852e7a860dc16fea2b32cd6493bf"
+hash = "be2f181e59f2a4f3165413c3d57e7ca20633bba1d9eeb43712a6db3cfb46a221"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "ca55cf03f10f766e8c4680ab1b41e7b7645e7df87524580d3ad55a7a47fd7b0a"
+hash = "c5fe06b7d389fa87dadca4f4974660eff26b336a908ee506fd616f717e1be581"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "a084ad59e4b863b03da0406fe85d39441e7e7ba1b1407dab72b240ee8a16d8b6"
+hash = "52482ce55e1507571ecdb829bddd431de9f7739b79c24b9e3ce8a102744dd227"
 metafile = true
 
 [[files]]
@@ -186,7 +186,12 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying-fabric.pw.toml"
-hash = "d9ebd61b15db17061ca3ace40f4053b2c15f216e631a14eee887db64d3eeb326"
+hash = "ecda79f28dc7b1a3432dc301198d0923ab6b2290622ae57cbc89ad90fecdf510"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "432dcafe8e4bc23b47f260193b7c88a0a792887060ca6fdef8e9e011351d09ab"
 metafile = true
 
 [[files]]
@@ -196,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "08203a0790b016ebe1953f3964e48090c99f9ffdd667ffb162fdf4c67d443171"
+hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
 metafile = true
 
 [[files]]
@@ -266,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "a572748a834652cad447f8113c080d986114d0d2610fc0a769b0376a0c197990"
+hash = "adfaab46668e6e7a82398b4449b30233f4ed4b01628b532ed7e818824bbeb4df"
 metafile = true
 
 [[files]]
@@ -276,12 +281,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
+hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
+hash = "dd49ac0baa101bd7063a5b04ab05320918b7de19d8653ee1d5129892dbf3e3ca"
 metafile = true
 
 [[files]]
@@ -351,7 +356,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "09effdb99cb31a7024ac68983be1a32840e9972268c81fa93ba73bd994ed6fad"
+hash = "28ac85a7ddfb1f4f6b99a194085d59f6ec90cd6bf74331321e57fec3914f3b2b"
+metafile = true
+
+[[files]]
+file = "mods/elytrabombing.pw.toml"
+hash = "18451db4d2a3079b67ba667b1d9c908f58914fed9336ae12c6836bd268c48e09"
 metafile = true
 
 [[files]]
@@ -381,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "3e314f78253c029119ee7ea35f0068473bce2cd27166b6780bbcbdcae5891930"
+hash = "75e7dc3d2505f127b6e4ee108b7e03f1252095cdd00606c3624a3286e26d1388"
 metafile = true
 
 [[files]]
@@ -396,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -436,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/goblin-traders-fabric.pw.toml"
-hash = "936625a75a4e6100cce6ce3fe4a5ff89cc7771620c7d2870b2054a5c1411a4b0"
+hash = "c1272d06093a08717420d2aee3de94332a208ed1435694151bf1bd06b5d35536"
 metafile = true
 
 [[files]]
@@ -451,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "83f3d8e1cd05b4b25fbe8fb7815327ec626c129dba2235a76e33eb709505b2c1"
+hash = "979c305680a9ca6f58821bb11f775f1734ceec86ca498f593f51633de9ad20a3"
 metafile = true
 
 [[files]]
@@ -486,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
+hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
 
 [[files]]
@@ -577,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "cf034e6e6a75048d46a0672929c1c71cdf36c0c503d0bd98997737b407e05d6d"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "696ea2237f9a4aa10af435874d7ef548f69e4bf418690ab68423dc8ccc38a72c"
 metafile = true
 
 [[files]]
@@ -721,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "ec09e539a4434abd13ed8a5935675fe80204befd4da1281f14a1c6ac8845e8d0"
+hash = "d0eb6342707c962cb7f745eb0389d180dbf414d77bda40a45fec144c4943ee19"
 metafile = true
 
 [[files]]
@@ -742,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/skin-swapper.pw.toml"
 hash = "e0c7424135d603b333038541da47a65ee7a859fcb96c80eb3ff0f0feccd2fb8b"
+metafile = true
+
+[[files]]
+file = "mods/skinswapper.pw.toml"
+hash = "2713c5f1ba733395fde43de5536af29c984ed8af78be3bd96ecf5bb38a4e1162"
 metafile = true
 
 [[files]]
@@ -785,6 +805,11 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
+metafile = true
+
+[[files]]
 file = "mods/textile_backup.pw.toml"
 hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
@@ -796,17 +821,22 @@ metafile = true
 
 [[files]]
 file = "mods/thonkutil.pw.toml"
-hash = "4466eba391a9a0521a3c4269f7483e1887754a9afee805182a49e72db5f4996f"
+hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
 metafile = true
 
 [[files]]
 file = "mods/touhou-origins.pw.toml"
-hash = "ad3593db1cb1577d5f26985968b6fbc94642ea37b021d362aee9c2eea8613a02"
+hash = "ce1caf913247fb5abd8a87e3fa85fb613f69d5613b905d5aaca9a90c45657808"
 metafile = true
 
 [[files]]
 file = "mods/trashslot-fabric-edition.pw.toml"
 hash = "df4824d66b2c3450ae553d4b2cbfa75e56c0edf54bb1f20c325790c76464cd97"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "581a2b893e0d9ad6a635a4b77c8c4ac93545be9a9ac41d15a705830ce27cb665"
 metafile = true
 
 [[files]]
@@ -831,12 +861,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ac2a5bfbbe82a7f2e6de41b53ca94786acc1679e5324d4c63cba347b071da536"
+hash = "3813f3748573f44286768414daad7c46a1cfe541df3cd783dba673b8a115454d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8b465a1889d9d4995ddb9c2e29e62c28536f7b71b2a6778af654111820770ec6"
+hash = "e7bd6a81d8a7554d1f785939ba5a9a9038b489eb5236873d7dca0eece7b70b97"
 metafile = true
 
 [[files]]

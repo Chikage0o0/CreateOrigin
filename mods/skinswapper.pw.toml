@@ -1,0 +1,13 @@
+name = "Skin Swapper"
+filename = "skin-swapper-fabric-3.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoXncSHG/versions/GTgUlgO1/skin-swapper-fabric-3.1.2.jar"
+hash-format = "sha1"
+hash = "87d62cf6967c001607bd650ea73b65a85d66fa4e"
+
+[update]
+[update.modrinth]
+mod-id = "OoXncSHG"
+version = "GTgUlgO1"

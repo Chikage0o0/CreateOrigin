@@ -3,11 +3,11 @@ filename = "touhouorigins-0.8.3-1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3cLfTqiM/versions/I0wOteoY/touhouorigins-0.8.3-1.19.2.jar"
 hash-format = "sha1"
 hash = "da28b46ece16f99ce5ff555d89279dcf54b52aa3"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4285721
-project-id = 690767
+[update.modrinth]
+mod-id = "3cLfTqiM"
+version = "I0wOteoY"
