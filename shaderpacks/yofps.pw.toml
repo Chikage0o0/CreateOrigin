@@ -1,9 +1,0 @@
-name = "YoFps"
-filename = "YoFPS+Low+(Chocapic13+Edit).zip"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/xM96NJmk/versions/zULLDr3r/YoFPS%2BLow%2B%28Chocapic13%2BEdit%29.zip"
-hash-format = "sha1"
-hash = "c3035dfdbd68efab506dd4f07a3df108ec4eb429"
-
