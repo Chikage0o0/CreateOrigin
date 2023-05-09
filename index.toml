@@ -176,17 +176,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "52482ce55e1507571ecdb829bddd431de9f7739b79c24b9e3ce8a102744dd227"
+hash = "7c175e2efca8751fde89b7f3edd10860ec0d6e315f20ed9a95151f039dcf8804"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
-metafile = true
-
-[[files]]
-file = "mods/charm-of-undying-fabric.pw.toml"
-hash = "ecda79f28dc7b1a3432dc301198d0923ab6b2290622ae57cbc89ad90fecdf510"
 metafile = true
 
 [[files]]
@@ -347,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
-metafile = true
-
-[[files]]
-file = "mods/elytra-bombing.pw.toml"
-hash = "79ac7d965b4e286ffff7030d6d773c3a3d31a0660c6a32df181c32e1f458169e"
 metafile = true
 
 [[files]]
@@ -690,6 +680,11 @@ hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
 
 [[files]]
+file = "mods/paper-doll.pw.toml"
+hash = "231407e9712a23d663151d59dda4fe1c936ead8833b7da8f7bd41c5e2bc5e265"
+metafile = true
+
+[[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "1871e82e3e20aa3d8b7fdf8004235423d672b80a4e23eff7b78d0b37d57a0a8e"
 metafile = true
@@ -755,11 +750,6 @@ hash = "1cfbfd92ef7d5688cd9710c9f6030987182a023f848bc01efa654037642fc982"
 metafile = true
 
 [[files]]
-file = "mods/skin-swapper.pw.toml"
-hash = "e0c7424135d603b333038541da47a65ee7a859fcb96c80eb3ff0f0feccd2fb8b"
-metafile = true
-
-[[files]]
 file = "mods/skinswapper.pw.toml"
 hash = "2713c5f1ba733395fde43de5536af29c984ed8af78be3bd96ecf5bb38a4e1162"
 metafile = true
@@ -800,16 +790,6 @@ hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
 metafile = true
 
 [[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
-metafile = true
-
-[[files]]
 file = "mods/textile_backup.pw.toml"
 hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
 metafile = true
@@ -827,11 +807,6 @@ metafile = true
 [[files]]
 file = "mods/touhou-origins.pw.toml"
 hash = "ce1caf913247fb5abd8a87e3fa85fb613f69d5613b905d5aaca9a90c45657808"
-metafile = true
-
-[[files]]
-file = "mods/trashslot-fabric-edition.pw.toml"
-hash = "df4824d66b2c3450ae553d4b2cbfa75e56c0edf54bb1f20c325790c76464cd97"
 metafile = true
 
 [[files]]
@@ -2521,6 +2496,21 @@ metafile = true
 [[files]]
 file = "shaderpacks/VanillAA.toml"
 hash = "6b4d9fb895668be477fbc531fb4aa215c51bb92c175fdea83e69317bc6ebab5b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/builders-qol-shaders.pw.toml"
+hash = "73094c3517ba301eb3dea302e91d3cdfb88a5e7adb42f71ead5b582c2f344b8b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
 metafile = true
 
 [[files]]
