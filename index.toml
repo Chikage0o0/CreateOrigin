@@ -655,11 +655,6 @@ hash = "c13a1895ef4eaf7479df34ec9d2a48d308af2273b094fd1bb1df5c9bf751fadc"
 metafile = true
 
 [[files]]
-file = "mods/offlineskins-fabric.pw.toml"
-hash = "198de5151af91057f697b8c632bbb5cc30e1cbc22f4898832fc155121cd3a37c"
-metafile = true
-
-[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
 metafile = true
@@ -682,11 +677,6 @@ metafile = true
 [[files]]
 file = "mods/paper-doll.pw.toml"
 hash = "231407e9712a23d663151d59dda4fe1c936ead8833b7da8f7bd41c5e2bc5e265"
-metafile = true
-
-[[files]]
-file = "mods/paperdoll.pw.toml"
-hash = "1871e82e3e20aa3d8b7fdf8004235423d672b80a4e23eff7b78d0b37d57a0a8e"
 metafile = true
 
 [[files]]
@@ -822,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "1ab6eb2d0acd22e5d7d799e2fe4bd0bfca0b40fba29f7c741fb3813427f5142b"
 metafile = true
 
 [[files]]
@@ -2479,26 +2474,6 @@ hash = "085b60ea1326016347ffa466f5c3e30c13b2360d5844b967268189c6d652da2c"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL.toml"
-hash = "56384380a5857290ed1846413d46aa92f7dc1467a95d6374a12d270a9adec4d2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/Builder's QOL Shaders.toml"
-hash = "c867065e54a6643df6251992d9ccbabedac57be98940814250a04bf2b16bf90b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/Complementary Reimagined.pw.toml"
-hash = "3f81dcd0e7a7ddd5adcf0a7391cce47e0b08ba6c862ca07f695770abaaa120b3"
-metafile = true
-
-[[files]]
-file = "shaderpacks/VanillAA.toml"
-hash = "6b4d9fb895668be477fbc531fb4aa215c51bb92c175fdea83e69317bc6ebab5b"
-metafile = true
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
 metafile = true
@@ -2511,14 +2486,4 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "76e9525a19226dd7edb40be31b8e458b023761d26fe0a168cfa49c9f4d19cb8f"
-metafile = true
-
-[[files]]
-file = "shaderpacks/yofps.pw.toml"
-hash = "9bb8c1e8d31fd0a3f39a950502f65adcc9d76e41e06b50d807582190fa2c6f9f"
 metafile = true
