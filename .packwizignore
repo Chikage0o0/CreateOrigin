@@ -5,6 +5,7 @@
 /.github
 /README.md
 /LICENSE.txt
+/packwiz*
 
 /overrides/**
 /client-overrides/**
