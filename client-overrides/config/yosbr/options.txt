@@ -24,6 +24,7 @@ hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
+fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.5
 renderDistance:12
@@ -36,6 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","charmonium/journeyman","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/BetterVanillaBuilding.zip","file/BvBOverlays.zip","resources/XeKrRedstoneDisplay.zip"]
+incompatibleResourcePacks:["resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/BetterVanillaBuilding.zip","file/BvBOverlays.zip"]
 lastServer:
 soundDevice:""
 chatVisibility:0
@@ -66,6 +69,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -123,9 +127,9 @@ key_key.craftingtweaks.spread:key.keyboard.unknown
 key_key.craftingtweaks.clear:key.keyboard.unknown
 key_key.craftingtweaks.force_clear:key.keyboard.unknown
 key_key.craftingtweaks.toggleButtons:key.keyboard.unknown
-key_key.craftingtweaks.compressOne:key.keyboard.k
-key_key.craftingtweaks.compressStack:key.keyboard.k
-key_key.craftingtweaks.compressAll:key.keyboard.k
+key_key.craftingtweaks.compressOne:key.keyboard.unknown
+key_key.craftingtweaks.compressStack:key.keyboard.unknown
+key_key.craftingtweaks.compressAll:key.keyboard.unknown
 key_key.craftingtweaks.decompressOne:key.keyboard.unknown
 key_key.craftingtweaks.decompressStack:key.keyboard.unknown
 key_key.craftingtweaks.decompressAll:key.keyboard.unknown
