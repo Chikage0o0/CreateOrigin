@@ -1,8 +1,0 @@
-name = "XeKrSquarePattern"
-filename = "XeKrSquarePattern.zip"
-side = "client"
-
-[download]
-hash-format = "sha1"
-hash = "742bdb6ffaab369128e524270639c15ac0daa052"
-url = "https://mediafilez.forgecdn.net/files/4094/829/XKSP+v2.6+%e6%96%b9%e7%ba%b9+main+pack.zip"

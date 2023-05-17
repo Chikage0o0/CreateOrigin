@@ -1,0 +1,13 @@
+name = "RP Renames"
+filename = "RPRenames-1.19.2-fabric-0.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvqcuDMT/versions/g3Rsk02v/RPRenames-1.19.2-fabric-0.4.0.jar"
+hash-format = "sha1"
+hash = "1eb5610d92d25aee0e8abfd3dbc19ccaedc35750"
+
+[update]
+[update.modrinth]
+mod-id = "hvqcuDMT"
+version = "g3Rsk02v"

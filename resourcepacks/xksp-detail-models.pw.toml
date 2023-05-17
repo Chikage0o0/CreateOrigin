@@ -1,8 +1,0 @@
-name = "xksp-detail-models"
-filename = "xksp-detail-models.zip"
-side = "client"
-
-[download]
-hash-format = "sha1"
-hash = "a77a583a5a5359c4129420678c3ee35af2a3226a"
-url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-v2-6-detail-models.zip"

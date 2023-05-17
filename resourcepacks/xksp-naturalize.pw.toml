@@ -1,8 +1,0 @@
-name = "xksp-naturalize"
-filename = "xksp-naturalize.zip"
-side = "client"
-
-[download]
-hash-format = "sha1"
-hash = "6954fc6c3ac31cc9abc07a4d0630f5053458f941"
-url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-naturalize.zip"

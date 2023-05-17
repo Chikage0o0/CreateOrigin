@@ -1,4 +1,5 @@
 version:3120
+toggleCrawl:false
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -23,13 +24,11 @@ hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
-fovEffectScale:0.451913
 darknessEffectScale:1.0
 gamma:0.5
 renderDistance:12
-simulationDistance:12
+simulationDistance:8
 entityDistanceScaling:1.0
-guiScale:0
 particles:0
 maxFps:260
 graphicsMode:1
@@ -37,10 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","continuity/glass_pane_culling_fix","continuity/default","charmonium/journeyman","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","resources/XeKrRedstoneDisplay.zip","file/XeKrSquarePattern.zip","file/xksp-alt-paintings.zip","file/xksp-detail-models.zip","file/xksp-lush-plants.zip","file/xksp-naturalize.zip"]
-incompatibleResourcePacks:["resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip"]
 lastServer:
-lang:zh_cn
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
@@ -70,7 +66,6 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -120,9 +115,7 @@ key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
 key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
 key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
-key_key.backslot.switch_backslot:key.keyboard.g
-key_key.backslot.switch_beltslot:key.keyboard.g
-key_key.chesttracker.opengui:key.keyboard.unknown
+key_key.chesttracker.opengui:key.keyboard.y
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -146,7 +139,6 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.extraalchemy.magnetism_toggle:key.keyboard.unknown
 key_key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.unknown
-key_key.imblocker.switchIMEState:key.keyboard.f6
 key_key.inmis.open_backpack:key.keyboard.b
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.unknown
@@ -165,12 +157,11 @@ key_key.origins.primary_active:key.keyboard.h
 key_key.origins.secondary_active:key.keyboard.j
 key_key.origins.view_origin:key.keyboard.o
 key_key.presencefootsteps.settings:key.keyboard.f10
-key_key.projectsavethepets.allowdamage:key.keyboard.left.shift
 key_key.spyglass-improvements.use:key.keyboard.c
 key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.delete
-key_key.whereisit.finditem:key.keyboard.y
+key_key.whereisit.finditem:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown

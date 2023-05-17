@@ -1,8 +1,0 @@
-name = "xksp-lush-plants"
-filename = "xksp-lush-plants.zip"
-side = "client"
-
-[download]
-hash-format = "sha1"
-hash = "7c60946c18e23a023d8d2a60f1cf550005c0aa12"
-url = "https://static.planetminecraft.com/files/resource_media/texture/xksp-v2-6-lush-plants.zip"
