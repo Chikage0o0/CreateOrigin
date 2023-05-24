@@ -11,7 +11,7 @@
         "announce_to_chat": true,
         "hidden": false
     },
-    "parent": "createorigin:createorigin/bows",
+    "parent": "createorigin:createorigin/sleeping_bag",
     "criteria": {
         "bosses_of_mass_destruction:gauntlet": {
             "trigger": "minecraft:player_killed_entity",

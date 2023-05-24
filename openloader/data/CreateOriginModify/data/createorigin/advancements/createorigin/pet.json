@@ -11,7 +11,7 @@
         "announce_to_chat": true,
         "hidden": false
     },
-    "parent": "createorigin:createorigin/root",
+    "parent": "createorigin:createorigin/feeding_trough",
     "criteria": {
         "name_tag": {
             "trigger": "minecraft:inventory_changed",
