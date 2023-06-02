@@ -1,0 +1,7 @@
+name = "dream_dimension"
+filename = "dream_dimension-1.1.2+1.19.2-fabric.jar"
+
+[download]
+url = "https://drive.939.me/api/raw/?path=/Minecraft/CustomMod/dream_dimension-1.1.2%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "37570e807cc0b00ce18771970486b44b68996d57"

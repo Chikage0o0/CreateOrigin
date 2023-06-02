@@ -1,0 +1,10 @@
+{
+  "printErrorMessage": false,
+  "printRecipesAndAdvancements": false,
+  "removeAllVanillaAdvancements": false,
+  "removeAllAdvancements": false,
+  "recipeList": [
+    "inmis:ender_pouch"
+  ],
+  "advancementList": []
+}
