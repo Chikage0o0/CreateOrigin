@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "0db70962526ca37dd499c34e36815e78e91250a2726cb61c37bdee863110cd21"
+
+[[files]]
 file = "config/bclib/server.json"
 hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
 
@@ -19,6 +23,10 @@ hash = "b79d65321212e9842221c97b4cd5c28b92e38e902bf563fc257956bef4ecdbd1"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "e782cb89e41100148837060951ae2d29cf1151e5f7989f886f2c4bfb1d3b1859"
+
+[[files]]
+file = "config/reciperemover.json"
+hash = "0d70345a559b638df5c9154faef2eae473ee24f5cddb0fc09bd47e184efb8299"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -41,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "575076b5530174612732223eba4b2c33dbaac30d4eaa2a04d75b26958e1a338b"
+hash = "803add80bc2ead224e1795195859e2721d50dd3840d7ce35e592371a87e14624"
 metafile = true
 
 [[files]]
@@ -66,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -82,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
+metafile = true
+
+[[files]]
+file = "mods/better-anvil.pw.toml"
+hash = "39879d1fe072b3ab80cffb44f633386314d40ea2dd81d3226abb6a6f01426622"
 metafile = true
 
 [[files]]
@@ -120,21 +133,6 @@ hash = "69b9bbaf3fbd7451c99a9661d7e2ced88b1e2cd9789c86c9d1c7bfb67b33e261"
 metafile = true
 
 [[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "5f85f62bd2bdc83df71d7b58e2e10ec6c653110180d63435f2bfe1c2c2c08466"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "010df6712a6c1137b3a64092fd0fdd819eab28af953fc7a9b6cb788c7e331963"
-metafile = true
-
-[[files]]
-file = "mods/blossomtpa.pw.toml"
-hash = "c8f7a017109c5bc34295fc84d90255b762b114ea11fbd00133135a40477ebbde"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
@@ -146,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
+hash = "bd28a7c914104487e9f8887c43cf0adb8234cbe83742c96b3cce7eebe99a46cf"
 metafile = true
 
 [[files]]
@@ -300,11 +298,6 @@ hash = "afd568b3935e043d47329b428be3f8b65a4413d5a9e572da7a957e4e00f419c7"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
-metafile = true
-
-[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "fec5b46a8549426a5243f65ff16fa9b144cbcb457dc449c3ff57954290801a09"
 metafile = true
@@ -330,6 +323,11 @@ hash = "982c05b63f9fd3b54df24c8854f468bcda6247aa96c2aaa55b8cb842400561d0"
 metafile = true
 
 [[files]]
+file = "mods/dream-dimension.pw.toml"
+hash = "8d5b2ed221b4e27d77e73884ae53fa8ec55ca8bb2ec2c48d9ae3e34f04a45cbb"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -337,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
@@ -356,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e05dae2adc425099c80c7b3a027ee63b34b5a9cc82c7085cf0b6543073a2353"
+hash = "f84e1e13825bdc3947128a7d645a8cf90cfa13709d8f25b1e71dc62a0b39bf48"
 metafile = true
 
 [[files]]
@@ -390,8 +393,13 @@ hash = "10841bfee1d7ad02433dd48297d4ba5dd4bae64338e4f599bf4bfe510ddc1b29"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "164aa451945562c1d545e15da02209a2397b2f358e1473ecdc1adca1995a5fcb"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "75e7dc3d2505f127b6e4ee108b7e03f1252095cdd00606c3624a3286e26d1388"
+hash = "98f5576580a387f107258777640b76ec45096b662d22c75821ff3510a1a188d4"
 metafile = true
 
 [[files]]
@@ -556,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
+hash = "9804acade5a06f2f477e0ef284caf0a2eae02ff9cab2cb79021311e10b2a6c1f"
 metafile = true
 
 [[files]]
@@ -691,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "a0febce406dd277730980450f98c94a80179b8df55e2136279003f30ae8eeaba"
+hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
 metafile = true
 
 [[files]]
@@ -702,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
+metafile = true
+
+[[files]]
+file = "mods/reciperemover.pw.toml"
+hash = "dbfc82819356403c3163dd24a610fc9ef36ea348a0f807c5e02b6ac62ef905b1"
 metafile = true
 
 [[files]]
@@ -732,11 +745,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "39683680c7eeda074893c9ae8f4692c14f98227f8319c55849f079fd9adcc065"
-metafile = true
-
-[[files]]
-file = "mods/rp-renames.pw.toml"
-hash = "cbbcff9dfe2efa81d71c37e195d9b2281ef7a43def19fc314cd92f398d7f0fbf"
 metafile = true
 
 [[files]]
@@ -791,12 +799,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
-hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
+hash = "5c8d7564cb0407d6162fd7d982e85e510713fdde4949e55d9d716e29c9293975"
 metafile = true
 
 [[files]]
 file = "mods/thonkutil.pw.toml"
-hash = "4466eba391a9a0521a3c4269f7483e1887754a9afee805182a49e72db5f4996f"
+hash = "76db9bc3dffde02d90092048c61c31d70fb8281827ba94df26afa43fa5503b6f"
 metafile = true
 
 [[files]]
@@ -820,11 +828,6 @@ hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
 metafile = true
 
 [[files]]
-file = "mods/vanity.pw.toml"
-hash = "1ab6eb2d0acd22e5d7d799e2fe4bd0bfca0b40fba29f7c741fb3813427f5142b"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "13edb6ded702c85072a99ebe5f36de5d36522a50c1360e01c2a88d2d46a6616f"
 metafile = true
@@ -836,12 +839,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b7f921c060cf99a26b512af6904ce61bfc4df8ed7953a79191c6c044bb5b48d7"
+hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4fc04c033645b48c12b44ad8fed2aeaa0d839ea9b1bb1846f4918d262da347d9"
+hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
 metafile = true
 
 [[files]]
@@ -872,12 +875,8 @@ file = "openloader/data/CreateOriginModify/data/createorigin/advancements/create
 hash = "cdd54bfffc6ea6f22fe2ba97df6940ed18cf8ada0bcc03ab0103e14166f2ec97"
 
 [[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/bows.json"
-hash = "ae2982331db2bcde5365d18d99638edb5e9df74bf49e8f240af3aa1308d11b7c"
-
-[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/chest.json"
-hash = "afd23e822185ec37e07a642fa19217877a9f75864a563be58c90c4fcbf57650d"
+hash = "8cfdf64da2dcb839d38937f8f8b45cc19eb342ccd60da8c813810d5cd8914374"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/controller.json"
@@ -889,7 +888,7 @@ hash = "0fe1e96089e3f575ac01b8444718b542b3a0f81fb72c610b7f254299a3c188ec"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/elytra.json"
-hash = "f73964f90fd7aa46de850b09d2e7987ef2e9618f5171335f00f298d96f468c17"
+hash = "86f43375fc27a486bcfcc259196ab42330d14476cff3dcff2d13a9322a57afd8"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/elytraboom.json"
@@ -901,7 +900,7 @@ hash = "a4ebbc1092bab561bb25b2e0c0b839bc65c6ddd2cb8b6b4302017c9af9a06af8"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/killboss.json"
-hash = "3728b441f7743075be7fec502142d88e388e2c5fd154c87bcb0bb2c9a715eda8"
+hash = "9dc5f002fdce1a802a2ed70ccfcf04a816d3b6a9acf71903b8021ed757bf16a2"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/lead.json"
@@ -913,7 +912,7 @@ hash = "69a41f0e791d7dc6e5d21509259e16ecbc197a7a71f60af7260083dc940cc176"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/pet.json"
-hash = "13f2f2b12d97a1d5a24fbb25f850689fe55888fd10c0744ad7d91b0ef95b70c2"
+hash = "b034a1c55e9c592ded4789e094ee40af359c22e44fffe6929c5f51a171f9fa77"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/potion_bag.json"
@@ -936,16 +935,8 @@ file = "openloader/data/CreateOriginModify/data/createorigin/advancements/create
 hash = "415100bcac773834934001c3666630dd358b33d9bb7e334a94bdfb79e3a70c32"
 
 [[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/swords.json"
-hash = "216bf24053023ad4a70d0e2a3509a6d36f2243d44a19a64696fdd7a684c585bf"
-
-[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/trash.json"
 hash = "240ecd90e3176e61b38b597b88698d0cf5c185ef3e397dc644d5bb00931822fe"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/vanity_slots.json"
-hash = "a80022b36581b3f170b005a5aec4f4cd8731e6f7ab401135873fce0e5add24f3"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/vial.json"
@@ -2449,23 +2440,18 @@ hash = "55408ffc7a27722debe94b1f06619b62a03971a854aa6f311de18a8efda0a313"
 metafile = true
 
 [[files]]
-file = "openloader/resources/bettervanillabuilding.pw.toml"
-hash = "eb36e4c07cedea04bd3b38f38571cfc923266fe144b70fea50c041af975ba63f"
-metafile = true
-
-[[files]]
-file = "openloader/resources/bettervanillabuildingoverlays.pw.toml"
-hash = "a7d6b6283a95a5498f630fd8000d72b60831c7bafa5108b7cd256ac5fed23811"
-metafile = true
-
-[[files]]
-file = "openloader/resources/twc.pw.toml"
-hash = "91fa9156af6fa2b8307f99a985576c896c86974fe83221dff19bde6e1cb7a678"
-metafile = true
-
-[[files]]
 file = "openloader/resources/xaeros-minimap-modded-support.pw.toml"
 hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+hash = "aec93259d8b9d66ebc51e0e198293a2634aadfee166377a9ceedb4d08915cb4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
+hash = "bf7d4412db5b8028d82ad6d8d5f9a54de01f3b77dfda67fcfc6fa25503c13ca5"
 metafile = true
 
 [[files]]
