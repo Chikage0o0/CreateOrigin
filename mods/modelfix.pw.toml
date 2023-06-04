@@ -1,0 +1,13 @@
+name = "Model Gap Fix"
+filename = "modelfix-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/EglYgeMq/modelfix-1.8.jar"
+hash-format = "sha1"
+hash = "ef1882c6244ffb09fed6251b647dec1ffebdca4f"
+
+[update]
+[update.modrinth]
+mod-id = "QdG47OkI"
+version = "EglYgeMq"
