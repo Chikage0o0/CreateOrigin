@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/dream-dimension.pw.toml"
-hash = "8d5b2ed221b4e27d77e73884ae53fa8ec55ca8bb2ec2c48d9ae3e34f04a45cbb"
+hash = "35165050c7cbea744e159f6ab8d6494127f2dd5f216b542e9892f086d808b79c"
 metafile = true
 
 [[files]]
@@ -613,6 +613,11 @@ hash = "564e6c99f196b85c10e313d99d24a010a40efa7272ee4be34f8fde0cbd3a94e9"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -744,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "39683680c7eeda074893c9ae8f4692c14f98227f8319c55849f079fd9adcc065"
+hash = "e35b48ca4017b6099823c624d9bb8a27f4cf8635eb3f0af940de68d44c1b177b"
 metafile = true
 
 [[files]]
@@ -2446,7 +2451,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "aec93259d8b9d66ebc51e0e198293a2634aadfee166377a9ceedb4d08915cb4a"
+hash = "98785101230347aee29e26b9b0be9d0811b8a3657c76e72d7da1d74a32dbc321"
 metafile = true
 
 [[files]]
