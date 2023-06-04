@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/dream-dimension.pw.toml"
-hash = "35165050c7cbea744e159f6ab8d6494127f2dd5f216b542e9892f086d808b79c"
+hash = "12526cb8667bfff084c8f578dca2b6ee2208569f5336b635bc1e9c2801e8a1ab"
 metafile = true
 
 [[files]]
@@ -528,11 +528,6 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -614,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+hash = "d2f55054b5ee1bcfaffcf28b5606b6df7c5f58d4f59ec852e0ff1902e3571f69"
 metafile = true
 
 [[files]]
@@ -873,7 +868,7 @@ hash = "5b972ac3a77c5fd9cd366b196e42666134fb81da5cfc403fd3f5a3f21c938e23"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/backpack.json"
-hash = "ebbff34e1a9c58e3d4e4a6e61bad722050f25630483b2b52e18bc5e5b47ea51b"
+hash = "b5eb33f93af97a720d33075eb538812ccc0bd88ca9b19a4e0760c90dc99397db"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/beacon.json"
@@ -892,6 +887,10 @@ file = "openloader/data/CreateOriginModify/data/createorigin/advancements/create
 hash = "0fe1e96089e3f575ac01b8444718b542b3a0f81fb72c610b7f254299a3c188ec"
 
 [[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/dream_dimension.json"
+hash = "5e1b222f2d49bff99817df16c2e186956dae71c008c5316339707472fc07bb28"
+
+[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/elytra.json"
 hash = "86f43375fc27a486bcfcc259196ab42330d14476cff3dcff2d13a9322a57afd8"
 
@@ -902,6 +901,10 @@ hash = "abf58b58e0d56889cec5e2ef114498208d621c8b1fada831567d28c4dc8f297d"
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/feeding_trough.json"
 hash = "a4ebbc1092bab561bb25b2e0c0b839bc65c6ddd2cb8b6b4302017c9af9a06af8"
+
+[[files]]
+file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/hammocks.json"
+hash = "62fe7154becf50722b6c73cf3d9f64b10ce7b31a32a18a721e987514c6b7f0d2"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/killboss.json"
@@ -2451,7 +2454,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "98785101230347aee29e26b9b0be9d0811b8a3657c76e72d7da1d74a32dbc321"
+hash = "ae904ea53b0d10c97ff69839257351923c17ca3beae4419e37c06a9d5c61ba20"
 metafile = true
 
 [[files]]
