@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","charmonium/journeyman","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/BetterVanillaBuilding.zip","file/BvBOverlays.zip","resources/XeKrRedstoneDisplay.zip"]
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","charmonium/journeyman","ED: Programmer Art","resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/BetterVanillaBuilding.zip","file/BvBOverlays.zip","resources/XeKrRedstoneDisplay.zip"]
 incompatibleResourcePacks:["resources/Chikage Chinese","resources/Xaero\u0027s Minimap - Mod Icons.zip","file/BetterVanillaBuilding.zip","file/BvBOverlays.zip"]
 lastServer:
 soundDevice:""
