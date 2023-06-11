@@ -368,11 +368,6 @@ hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
 metafile = true
 
 [[files]]
-file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
-metafile = true
-
-[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
