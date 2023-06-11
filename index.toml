@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "0d809d0bd272839d9f755af6e9a78f4039f159defaae90082d7febb5f4f94573"
+hash = "6b10aec48e791284efc74abac03863072971283d2622131fbb93f527cf47ebf4"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
+hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "68f179eccbf7250d68a56d9943455742285e78744664ae75c4d6186ee5d4a95b"
+hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
+hash = "96db2068a8edb47d615d74bdc89241174b1d0aa7859b0bcffef365d801dd5717"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleancut.pw.toml"
-hash = "7ea37e2cbe755149aaaf569fd9999541fc766c6057fc7a062a715af51b387b93"
+hash = "eb7f6a50483c6f0dcd286578573f3a0264dd70d9b548f2059dd264f50c1569fd"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
+hash = "899bec06d910d0fc5de78d1c3bb4dbf84537b44724c0286adb7559a1ea4f73b4"
 metafile = true
 
 [[files]]
@@ -359,7 +359,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f84e1e13825bdc3947128a7d645a8cf90cfa13709d8f25b1e71dc62a0b39bf48"
+hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
+metafile = true
+
+[[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
 metafile = true
 
 [[files]]
@@ -394,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "164aa451945562c1d545e15da02209a2397b2f358e1473ecdc1adca1995a5fcb"
+hash = "fde82266c6d3b44bb08fa1471bb7d13c6907d3e644009b1ad477cca49b919ba8"
 metafile = true
 
 [[files]]
@@ -414,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
@@ -504,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
@@ -520,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "86bdf3e7c87946fad718883449651e7606fba0d0fa173eb32b3d985e2a2cd8d5"
 metafile = true
 
 [[files]]
@@ -564,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "e1a55e4f5d8571a41ff66744aa404d8232364b0b01c25ef86158fb906c286b9c"
+hash = "a37bcc08605bd66c7caba16001a12b16da9a3c129ec86f8e36afa6b08ce52f55"
 metafile = true
 
 [[files]]
@@ -609,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "d2f55054b5ee1bcfaffcf28b5606b6df7c5f58d4f59ec852e0ff1902e3571f69"
+hash = "77c8b976aed1fe40c5677e607a98860455bfb21fd7fb8559ccf60a96b5f99f87"
 metafile = true
 
 [[files]]
@@ -684,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "e82ab392f599f47190d65715e12984715c851a979a2ff61c03b12c63312768c9"
+hash = "9afe996ab07e8d2adadcb58a8ce39665277194c4c430607b04120612dd6f9925"
 metafile = true
 
 [[files]]
@@ -744,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "e35b48ca4017b6099823c624d9bb8a27f4cf8635eb3f0af940de68d44c1b177b"
+hash = "9d6bf8335bffe88c5b8abfc25fbeebec7dd873c472eb49380ffd99a16bc092bf"
 metafile = true
 
 [[files]]
@@ -2454,17 +2464,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "ae904ea53b0d10c97ff69839257351923c17ca3beae4419e37c06a9d5c61ba20"
+hash = "a2aba1998656182bda9abfca06c4a126b4ab4809b55d96951792edca94dfd01e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
-hash = "bf7d4412db5b8028d82ad6d8d5f9a54de01f3b77dfda67fcfc6fa25503c13ca5"
+hash = "492529ae9656d50d1d2c6265f2b125fc908c5bf56def64c235c7be880d925eb2"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
+hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
 metafile = true
 
 [[files]]
@@ -2474,5 +2484,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
+hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
 metafile = true

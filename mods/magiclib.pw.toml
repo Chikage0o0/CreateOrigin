@@ -1,13 +1,13 @@
 name = "MagicLib"
-filename = "magiclib-0.7.293+17aa28c-stable.jar"
+filename = "magiclib-0.7.336+05361cf-stable.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/ZN02vJDc/magiclib-0.7.293%2B17aa28c-stable.jar"
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/RLcfqguH/magiclib-0.7.336%2B05361cf-stable.jar"
 hash-format = "sha1"
-hash = "4ad2e17e84677348e75a9d96adf2d8413b63798d"
+hash = "33b22da11516a23e8e0852a53ddae42ea249a4a0"
 
 [update]
 [update.modrinth]
 mod-id = "mv1zH6ln"
-version = "ZN02vJDc"
+version = "RLcfqguH"
