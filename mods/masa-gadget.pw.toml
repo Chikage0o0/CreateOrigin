@@ -1,13 +1,13 @@
 name = "Masa Gadget"
-filename = "MasaGadget-3.1.289+1ca4352-stable.jar"
+filename = "MasaGadget-3.2.308+2c7a07f-stable.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SFO4Ca80/versions/jxmqdeMy/MasaGadget-3.1.289%2B1ca4352-stable.jar"
+url = "https://cdn.modrinth.com/data/SFO4Ca80/versions/ZLtODfoM/MasaGadget-3.2.308%2B2c7a07f-stable.jar"
 hash-format = "sha1"
-hash = "8e9e51a3c5bfc1ef2844cfb69e31d9cceefbc9c7"
+hash = "79a1438812da3ba970c77a1b559a94a74f246cf3"
 
 [update]
 [update.modrinth]
 mod-id = "SFO4Ca80"
-version = "jxmqdeMy"
+version = "ZLtODfoM"

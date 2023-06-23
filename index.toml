@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-anvil.pw.toml"
-hash = "39879d1fe072b3ab80cffb44f633386314d40ea2dd81d3226abb6a6f01426622"
+hash = "6448226a24dbc18cb1834289d9d45a583bac83c001d6d54e251af0047ad9e315"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
-hash = "432dcafe8e4bc23b47f260193b7c88a0a792887060ca6fdef8e9e011351d09ab"
+hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
+hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "899bec06d910d0fc5de78d1c3bb4dbf84537b44724c0286adb7559a1ea4f73b4"
+hash = "a58f62babbd51c3ecc14d4aafc2617640c78ecd0428f3b09d6e62857a99b876a"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
+hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
@@ -323,11 +323,6 @@ hash = "982c05b63f9fd3b54df24c8854f468bcda6247aa96c2aaa55b8cb842400561d0"
 metafile = true
 
 [[files]]
-file = "mods/dream-dimension.pw.toml"
-hash = "12526cb8667bfff084c8f578dca2b6ee2208569f5336b635bc1e9c2801e8a1ab"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -359,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
+hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
 metafile = true
 
 [[files]]
@@ -394,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "fde82266c6d3b44bb08fa1471bb7d13c6907d3e644009b1ad477cca49b919ba8"
+hash = "5249c3bff7cc6111738a3dd8765df7112a092dfb5542e5d95c09ecd14a2da135"
 metafile = true
 
 [[files]]
@@ -509,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "6f6c3d6646f445f0614c57d9b3c4d56d5b5057d6370f18ed8ac255dc8b65dbbd"
+hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
 metafile = true
 
 [[files]]
@@ -564,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "9804acade5a06f2f477e0ef284caf0a2eae02ff9cab2cb79021311e10b2a6c1f"
+hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
 metafile = true
 
 [[files]]
@@ -579,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "92656993bdd06053dc898ae722cdad983b697ad9ee327c6f20122e64cd64e6de"
+hash = "a76b69cb3c8ed51f0dcf29f8f660d837d539e98e96df69bfd91ac47682b273f2"
 metafile = true
 
 [[files]]
@@ -679,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
+hash = "edb037a3ab5d43050213db955c9814fbe1fdbd0144b83b6b7b0f7a2f7bc03e7e"
 metafile = true
 
 [[files]]
@@ -689,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9afe996ab07e8d2adadcb58a8ce39665277194c4c430607b04120612dd6f9925"
+hash = "aaca1e1ba2a75f25352fc13ed047fbf57c08e4dbb59d8106d43c6ebddd7b87be"
 metafile = true
 
 [[files]]
@@ -704,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
+hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
 metafile = true
 
 [[files]]
@@ -714,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
@@ -749,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "9d6bf8335bffe88c5b8abfc25fbeebec7dd873c472eb49380ffd99a16bc092bf"
+hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
 metafile = true
 
 [[files]]
@@ -834,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "13edb6ded702c85072a99ebe5f36de5d36522a50c1360e01c2a88d2d46a6616f"
+hash = "153ad0f45f02f8f53a993debb8d7c5e3ee398c95a03e7ed9fe3cdc3b40a4c35e"
 metafile = true
 
 [[files]]
@@ -844,12 +839,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
+hash = "511fb7b3ea24222e7bd34e07cc7696cc206b96ffb32a484a6bdb5ac87c97c4ff"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
+hash = "35334111a08c82e909d4cee54a974040b3fb526d30021a33fe2c70d1b5239025"
 metafile = true
 
 [[files]]
@@ -864,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
