@@ -1,0 +1,13 @@
+name = "Always Loaded"
+filename = "always-loaded-mod-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MXe3EoAk/versions/vC1IxRnW/always-loaded-mod-1.1.1.jar"
+hash-format = "sha1"
+hash = "6d8262474dda84e49bb06f006cbf65e7b093a8f6"
+
+[update]
+[update.modrinth]
+mod-id = "MXe3EoAk"
+version = "vC1IxRnW"
