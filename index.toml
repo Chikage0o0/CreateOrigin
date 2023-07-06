@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleancut.pw.toml"
-hash = "eb7f6a50483c6f0dcd286578573f3a0264dd70d9b548f2059dd264f50c1569fd"
+hash = "c668d8fb98ddd31f5cbdf6dcda2e8380ca4cc0e6977bcc392a4e97bfc13e1969"
 metafile = true
 
 [[files]]
@@ -698,6 +698,11 @@ hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
 
 [[files]]
+file = "mods/our-villager-discounts.pw.toml"
+hash = "dd903ae23ac7ecd1c25ea6b411711ba55feabfb916e01eaa959c179c19f92574"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -759,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "1cfbfd92ef7d5688cd9710c9f6030987182a023f848bc01efa654037642fc982"
+hash = "1b0f5d4f687b5a87e8d33c732e445f6264090ac6a98307cd5f0433f2cb134cf3"
 metafile = true
 
 [[files]]
