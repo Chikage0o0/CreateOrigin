@@ -53,6 +53,11 @@ hash = "803add80bc2ead224e1795195859e2721d50dd3840d7ce35e592371a87e14624"
 metafile = true
 
 [[files]]
+file = "mods/always-loaded.pw.toml"
+hash = "88d7d721e588e672905b8a77a8a611d8678e1545508f3b63bf5a9744d455dd58"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "40e4c5e433030168f228fe0a79f1867f942536501d417b1b875bfadfd283b2f8"
 metafile = true
@@ -249,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "50f7a1e8eff013c3f18e648b9985614940c7fd1773263a4ba9235f0e4359cec6"
+hash = "7892ca15233c87f50cce50898d1b6ab8cb06c47f8fcc1aa97bd816ddae6d9a0e"
 metafile = true
 
 [[files]]
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
@@ -394,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "98f5576580a387f107258777640b76ec45096b662d22c75821ff3510a1a188d4"
+hash = "5647fd9dfba63e8830df6711fe55129e6bb20badea23b873ffefc7b2d0327625"
 metafile = true
 
 [[files]]
@@ -409,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -519,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "86bdf3e7c87946fad718883449651e7606fba0d0fa173eb32b3d985e2a2cd8d5"
+hash = "3e4fe0bb6818e59ae0d8dff4cc58ab8b9bd8eef76c1a60fadc3a2a3fcb7d7036"
 metafile = true
 
 [[files]]
@@ -564,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "a37bcc08605bd66c7caba16001a12b16da9a3c129ec86f8e36afa6b08ce52f55"
+hash = "a641d7e9b51fb3cef22d1d2dbbf66c1956ba0c189a4f415d6a3a10b7b2da01ca"
 metafile = true
 
 [[files]]
@@ -574,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "a76b69cb3c8ed51f0dcf29f8f660d837d539e98e96df69bfd91ac47682b273f2"
+hash = "c7078bb67dc46df020c02855af29ff692958fe8f18e1453cbfb63935fab2dc61"
 metafile = true
 
 [[files]]
@@ -649,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "ad8578b528cf2f712ef04d7d84aca2a9aa1c379989940a8ff209d1f724d848f8"
+hash = "07fabd96eaf196175db0488af2daab297a6e701dc4fd3928a609fa3320f5c65c"
 metafile = true
 
 [[files]]
@@ -674,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "edb037a3ab5d43050213db955c9814fbe1fdbd0144b83b6b7b0f7a2f7bc03e7e"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
@@ -684,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "aaca1e1ba2a75f25352fc13ed047fbf57c08e4dbb59d8106d43c6ebddd7b87be"
+hash = "36a0f51be98cd65d4a07bbd1ddce0059ed635409549a3f961433c460099b02db"
 metafile = true
 
 [[files]]
@@ -2474,5 +2479,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
 metafile = true
