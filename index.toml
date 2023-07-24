@@ -897,10 +897,6 @@ file = "openloader/data/CreateOriginModify/data/createorigin/advancements/create
 hash = "0fe1e96089e3f575ac01b8444718b542b3a0f81fb72c610b7f254299a3c188ec"
 
 [[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/dream_dimension.json"
-hash = "5e1b222f2d49bff99817df16c2e186956dae71c008c5316339707472fc07bb28"
-
-[[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/elytra.json"
 hash = "86f43375fc27a486bcfcc259196ab42330d14476cff3dcff2d13a9322a57afd8"
 
@@ -911,10 +907,6 @@ hash = "abf58b58e0d56889cec5e2ef114498208d621c8b1fada831567d28c4dc8f297d"
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/feeding_trough.json"
 hash = "a4ebbc1092bab561bb25b2e0c0b839bc65c6ddd2cb8b6b4302017c9af9a06af8"
-
-[[files]]
-file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/hammocks.json"
-hash = "62fe7154becf50722b6c73cf3d9f64b10ce7b31a32a18a721e987514c6b7f0d2"
 
 [[files]]
 file = "openloader/data/CreateOriginModify/data/createorigin/advancements/createorigin/killboss.json"
