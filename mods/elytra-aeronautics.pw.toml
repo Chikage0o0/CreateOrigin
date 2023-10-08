@@ -1,0 +1,13 @@
+name = "Elytra Aeronautics"
+filename = "ElytraAeronautics-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RFqWFWvZ/versions/c5rU9Aj5/ElytraAeronautics-1.3.0.jar"
+hash-format = "sha1"
+hash = "68383cd50e42ecc8c18421170ab5fc5094dfd862"
+
+[update]
+[update.modrinth]
+mod-id = "RFqWFWvZ"
+version = "c5rU9Aj5"

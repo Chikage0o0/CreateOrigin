@@ -1,0 +1,13 @@
+name = "VillagersPlus (FABRIC)"
+filename = "VillagersPlus_3.0_(FABRIC)_for_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "597650e32d0436fd6240e856880e84c9894e3289"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4741548
+project-id = 809542

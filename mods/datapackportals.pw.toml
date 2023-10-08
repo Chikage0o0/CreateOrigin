@@ -1,13 +1,13 @@
 name = "Datapack Portals"
-filename = "datapackportals-1.2.1-1.19.jar"
+filename = "datapackportals-1.2.3-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LwFVdT1s/versions/gOcIWmfO/datapackportals-1.2.1-1.19.jar"
+url = "https://cdn.modrinth.com/data/LwFVdT1s/versions/wuqSq1tI/datapackportals-1.2.3-1.20.jar"
 hash-format = "sha1"
-hash = "2fc3b64de1948af165faeea13dfda48ae587618d"
+hash = "eca64d8dea9d47deb85889b11436ac0d171d1944"
 
 [update]
 [update.modrinth]
 mod-id = "LwFVdT1s"
-version = "gOcIWmfO"
+version = "wuqSq1tI"

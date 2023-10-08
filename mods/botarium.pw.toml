@@ -1,0 +1,13 @@
+name = "Botarium"
+filename = "botarium-fabric-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2u6LRnMa/versions/YgOh7n9M/botarium-fabric-1.20.1-2.2.0.jar"
+hash-format = "sha1"
+hash = "fb3c305d5558fe11e290abb9933ebab60abd4298"
+
+[update]
+[update.modrinth]
+mod-id = "2u6LRnMa"
+version = "YgOh7n9M"

@@ -1,13 +1,13 @@
 name = "BetterVanillaBuilding Overlays"
-filename = "BvBOverlays.zip"
+filename = "BVBoverlays.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IsCR9XVF/versions/KpWWkuFX/BvBOverlaysV5.2.zip"
+url = "https://cdn.modrinth.com/data/IsCR9XVF/versions/2RcUI2dV/BVBoverlaysV6.zip"
 hash-format = "sha1"
-hash = "c1bfd9987c2a8b62d73553e5917ff7e92cb9903b"
+hash = "0547a2109fcceda15f7c35c40899fc6c9d593a19"
 
 [update]
 [update.modrinth]
 mod-id = "IsCR9XVF"
-version = "KpWWkuFX"
+version = "2RcUI2dV"

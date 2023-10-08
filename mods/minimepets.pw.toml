@@ -1,13 +1,13 @@
 name = "MiniMePets"
-filename = "minimepets-fabric-1.0.1-mc1.19.1.jar"
+filename = "minimepets-fabric-1.0.1-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fe6097f64078ba967c84acd99bf118da3cfd2577"
+hash = "36fb6867fce47d505c73bf216a238e08debdf6f6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3919415
+file-id = 4595880
 project-id = 593627

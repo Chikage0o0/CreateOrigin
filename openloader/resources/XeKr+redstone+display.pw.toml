@@ -1,13 +1,13 @@
 name = "XeKr redstone display"
-filename = "XeKrRedstoneDisplay.zip"
+filename = "XKRD红显3.0for1.20.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "a59743f16798a0fd808bedec70c18a4cf1146f83"
+hash = "eca5e17e9d80d8c8b7d4f1452dd6298af5ec85ed"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4159604
+file-id = 4573356
 project-id = 310448

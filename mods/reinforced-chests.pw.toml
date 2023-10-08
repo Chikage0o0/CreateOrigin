@@ -1,13 +1,13 @@
 name = "Reinforced Chests"
-filename = "reinforced-chests-2.2.0+1.19.jar"
+filename = "reinforced-chests-2.4.2+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FWtAXlpg/versions/LPxyKOQ6/reinforced-chests-2.2.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/FWtAXlpg/versions/7YudDLPR/reinforced-chests-2.4.2%2B1.20.jar"
 hash-format = "sha1"
-hash = "6309a52fabebd983acc5a0541e24f74f61118e78"
+hash = "3b56bb2246b45b9b176df0d1ebb79c74bb0eab26"
 
 [update]
 [update.modrinth]
 mod-id = "FWtAXlpg"
-version = "LPxyKOQ6"
+version = "7YudDLPR"

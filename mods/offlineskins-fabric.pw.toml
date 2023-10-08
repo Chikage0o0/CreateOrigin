@@ -1,13 +1,13 @@
 name = "OfflineSkins (Fabric)"
-filename = "OfflineSkins-1.19.2-v1-fabric.jar"
+filename = "offlineskins-1.20.1-v1a-fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "63ab8fccd34dca495c6fd60d98363016444b348c"
+hash = "3b54c5f6b276550cae105c7696243e864299d439"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3920641
+file-id = 4594969
 project-id = 382582

@@ -1,13 +1,13 @@
 name = "Display Case"
-filename = "Display Case-fabric-1.19-1.0.3.jar"
+filename = "Display Case-fabric-1.20-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/Qv4P2rJu/Display%20Case-fabric-1.19-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/wWflVy7I/Display%20Case-fabric-1.20-1.0.7.jar"
 hash-format = "sha1"
-hash = "ebf8a4acf95a1063d1092c3484ef88156dfbf3a0"
+hash = "a12d33f4ce053d2c4f015d11ea472f523e07a66e"
 
 [update]
 [update.modrinth]
 mod-id = "cSIsh4gX"
-version = "Qv4P2rJu"
+version = "wWflVy7I"
